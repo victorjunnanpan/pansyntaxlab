@@ -11,7 +11,7 @@ sections:
         CUHK Pan's Syntax Lab
     
       image:
-        filename: welcome.jpg
+        filename: teamphoto.jpg
       text: |
         <br>
         
