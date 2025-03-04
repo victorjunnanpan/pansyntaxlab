@@ -45,9 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - icon: home
+    icon_pack: fas
+    link: https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
