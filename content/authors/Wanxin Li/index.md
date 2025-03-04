@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wanxin li 李菀忻
+title: Wanxin Li 李菀忻
 
 # Full name (for SEO)
 first_name: Wanxin
