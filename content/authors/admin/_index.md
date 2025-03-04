@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Victor Junnan Pan
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Victor Junnan
+last_name: Pan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Theoretical Linguistics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: The Chinese University of Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include generative syntax and Chinese languages.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Generative syntax
+  - The Minimalist Program
+  - Chinese
 
 education:
   courses:
