@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Zhuo Chen 陳卓
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhuo
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 陳卓
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctor of Syntax
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: The Chinese University of Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
