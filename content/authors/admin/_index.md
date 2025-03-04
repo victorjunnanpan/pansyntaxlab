@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Victor Junnan Pan
+title: Prof Victor Junnan Pan 潘俊楠教授
 
 # Full Name (for SEO)
 first_name: Victor Junnan
