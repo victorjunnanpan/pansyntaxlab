@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chenghao Hu 胡承灏
+title: Chenghao Hu 胡承灝
 
 # Full name (for SEO)
 first_name: Chenghao
