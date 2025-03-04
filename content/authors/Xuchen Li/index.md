@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xuchen li 李敘辰
+title: Xuchen Li 李敘辰
 
 # Full name (for SEO)
 first_name: Xuchen
