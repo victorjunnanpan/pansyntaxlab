@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dahoon Kim 김다훈[金多勳]
+title: Dahoon Kim 김다훈 [金多勳]
 
 # Full name (for SEO)
 first_name: Dahoon
