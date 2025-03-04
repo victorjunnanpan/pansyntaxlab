@@ -13,7 +13,9 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
+          - Post Doctoral Researchers
           - Grad Students
+          - Research Assistants
           - Administration
           - Visitors
           - Alumni
