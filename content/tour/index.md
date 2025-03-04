@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: slider
-    content:
+    content:sss
       slides:
       - title: 👋 Welcome to our team
         content: Take a look at what we're working on...
