@@ -51,8 +51,8 @@ social:
     link: 'mailto:test@example.org'
   - icon: home
     icon_pack: fas
-    link: https://stevenzetaoxu.github.io/WhatATheme
-  - icon: google-scholar
+    link: https://lixy255.github.io/Xiangyu_LI
+  - icon: google-scholar](https://sites.google.com/view/downykim/home)
     icon_pack: ai
     link: 
   - icon: github
