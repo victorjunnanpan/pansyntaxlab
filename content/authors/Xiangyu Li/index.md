@@ -52,9 +52,6 @@ social:
   - icon: home
     icon_pack: fas
     link: https://lixy255.github.io/Xiangyu_LI
-  - icon: google-scholar](https://sites.google.com/view/downykim/home)
-    icon_pack: ai
-    link: 
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
