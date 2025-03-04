@@ -5,7 +5,7 @@
 
 main:
   - name: Presentation
-    url: Presentation
+    url: presentation
     weight: 10
   - name: News
     url: post
