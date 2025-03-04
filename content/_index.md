@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **CUHK Pan's Syntax Lab** is a generative syntax research team led by Prof Victor Junnan Pan at The Chinese University of Hong Kong.
+        The **CUHK Pan's Syntax Lab** is a generative syntax research team led by Prof Victor Junnan Pan based at the Department of Linguistics and Modern Languages of The Chinese University of Hong Kong.
   
   - block: collection
     content:
