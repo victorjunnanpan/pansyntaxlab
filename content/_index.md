@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        CUHK Pan's Syntax Lab
+    
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **CUHK Pan's Syntax Lab** is a generative syntax research team at The Chinese University of Hong Kong.
   
   - block: collection
     content:
