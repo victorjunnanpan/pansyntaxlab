@@ -52,9 +52,6 @@ social:
   - icon: home
     icon_pack: fas
     link: https://stevenzetaoxu.github.io/WhatATheme
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
