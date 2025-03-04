@@ -6,9 +6,8 @@ type: landing
 
 sections:
   - block: slider
-    content: Welcome
+    content:
       slides:
-    
       - title: 👋 Welcome to our team
         content: Take a look at what we're working on...
         align: center
@@ -29,26 +28,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-       - title: 
+        - title: 
         content: talks in international conferences
-        align: center
+        align: left
         background:
           image:
             filename: talks.jpg
             filters:
               brightness: 0.7
-          position: right
-          color: '#666'
-        - title: 
-        content: poster presentations in international conferences
-        align: center
-        background:
-          image:
-            filename: posters.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
+          position: center
+          color: '#555'
       - title: 
         content: 
         align: right
