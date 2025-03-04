@@ -8,6 +8,7 @@ sections:
   - block: slider
     content: Welcome
       slides:
+    
       - title: 👋 Welcome to our team
         content: Take a look at what we're working on...
         align: center
