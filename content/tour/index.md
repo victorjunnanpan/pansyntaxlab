@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to our team
+      - title: 👋 Welcome to the group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -19,21 +19,11 @@ sections:
           position: right
           color: '#666'
       - title: 
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 
         align: left
         background:
           image:
             filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-        - title: 
-        content: talks in international conferences
-        align: left
-        background:
-          image:
-            filename: talks.jpg
             filters:
               brightness: 0.7
           position: center
