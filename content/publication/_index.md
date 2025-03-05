@@ -7,7 +7,7 @@ design:
   css_style: 'max-width: 95%; font-size: 16px !important;'
 
 ---
-## Books (Research Monographs and Edited Volumes)
+## - Books (Research Monographs and Edited Volumes)
 
 ### 2024
 - Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Workspace, MERGE, and Labelling](https://www-degruyter-com.easyaccess2.lib.cuhk.edu.hk/journal/key/tlir/41/1/html), *The Linguistic Review*, volume 41, issue 1. (Co-edited volume of special issue)
@@ -32,7 +32,8 @@ design:
 ### 2011
 - Pan, Victor Junnan (2011). [Interrogatives et quantification en chinois mandarin: une approche générative](http://www.pur-editions.fr/detail.php?idOuv=2686), *Collection Rivages Linguistiques, Presses Universitaires de Rennes*. 250 pages. (Written in French)
 
-## Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings
+
+## - Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)
 
 ### To Appear
 - Pan, Victor Junnan (To appear). [Copy and Move: Motivation and Derivation], *The Cambridge Handbook of The Minimalist Program*, Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
@@ -95,7 +96,8 @@ design:
 ### 2011
 - Pan, Victor Junnan (2011). [ATB-topicalization in Mandarin Chinese: an Intersective Operator Analysis](https://www.linguisticanalysis.com/volume-37-issue-1-2/), *Linguistic Analysis*, volume 37, issues 1-2, 231-272.
 
-## Talks
+
+## - Talks
 
 ### 2025
 - Xu, Zetao and Victor Junnan Pan (2025). [The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands], paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
