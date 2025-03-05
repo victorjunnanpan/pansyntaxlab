@@ -1,8 +1,13 @@
 ---
-title: Research Interests
+title: Research Projects
 Date: 2025
 type: page
+design: 
+  columns: '2' 
+  css_style: 'max-width: 95%; font-size: 14px !important;'
+
 ---
+
 
 **(i) Theoretical linguistics**
 
