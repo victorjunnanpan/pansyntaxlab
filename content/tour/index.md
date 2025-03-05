@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 
-        content: 
+      - title: We are doing generative syntax!
+        content: especially, the Minimalist Program. 
         align: left
         background:
           image:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 
+      - title: Join us!
         content: 
         align: right
         background:
