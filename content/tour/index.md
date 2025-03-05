@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 
-        content: 👋 Welcome to the group!
+      - title: 👋 Welcome to the group!
+        content: 
         align: center
         background:
           image:
