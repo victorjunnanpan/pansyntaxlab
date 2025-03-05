@@ -45,10 +45,3 @@ Adjunction and labeling (since 2019);
 
 
 
-
-
-
-A’-dependency: gap, pro (since 2025).
-
-
-
