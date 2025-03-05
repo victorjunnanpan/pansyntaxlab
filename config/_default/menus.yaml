@@ -24,4 +24,4 @@ main:
     weight: 60
   - name: Contact
     url: contact
-    weight: 80
+    weight: 70
