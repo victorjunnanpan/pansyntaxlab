@@ -7,7 +7,6 @@ design:
   css_style: 'max-width: 95%; font-size: 16px !important;'
 
 ---
-
 ## Books (Research Monographs and Edited Volumes)
 
 ### 2024
