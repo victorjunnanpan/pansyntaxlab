@@ -4,7 +4,7 @@ Date: 2025
 type: page
 design: 
   columns: '2' 
-  css_style: 'max-width: 95%; font-size: 14px !important;'
+  css_style: 'max-width: 95%; font-size: 16px !important;'
 
 ---
 
