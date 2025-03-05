@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Publications
 Date: 2025
 type: page
 design: 
