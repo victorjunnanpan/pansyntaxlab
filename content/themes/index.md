@@ -2,8 +2,8 @@
 title: Research Interests
 Date: 2025
 type: page
-
 ---
+
 **(i) Theoretical linguistics**
 
 - Formal linguistics, generative syntax;
