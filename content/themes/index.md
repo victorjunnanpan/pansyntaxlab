@@ -5,10 +5,11 @@ type: page
 
 ---
 
-# (i) Theoretical linguistics
+(i) Theoretical linguistics
 
 - Formal linguistics, generative syntax;
 - Comparative syntax: Chinese, Chinese dialects, French, English, Qiangic languages.
+
 
    Research topics:
 
@@ -27,15 +28,25 @@ Adjunction and labeling (since 2019);
 
 • Interface: syntax-semantics, syntax-information structure, syntax-prosody (since 2004);
 
-# (ii) Heritage language and language contact
 
-Oversea Chinese and Wu dialects  (since 2022);
+(ii) Heritage language and language contact
 
-# (iii) Minority and endangered languages (Sino-Tibetan)
+• Oversea Chinese and Wu dialects  (since 2022);
 
-Language documentation and morpho-syntax of Qiangic languages: nDrapa (since 2024);
 
-# (iv) Neurolinguistics with formal syntax as theoretical background, brain and langue
+(iii) Minority and endangered languages (Sino-Tibetan)
+
+• Language documentation and morpho-syntax of Qiangic languages: nDrapa (since 2024);
+
+
+(iv) Neurolinguistics with formal syntax as theoretical background, brain and langue
+• A’-dependency: gap, pro (since 2025).
+
+
+
+
+
+
 
 A’-dependency: gap, pro (since 2025).
 
