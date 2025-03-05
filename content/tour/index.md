@@ -30,10 +30,10 @@ sections:
           color: '#555'
       - title: We are doing cutting-edge theoretical research.
         content:
-        align: right
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: talks.jpg
             filters:
               brightness: 0.5
           position: center
