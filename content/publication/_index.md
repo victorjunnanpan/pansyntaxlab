@@ -10,22 +10,25 @@ design:
 ## - Books (Research Monographs and Edited Volumes)
 
 ### 2024
-- Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Workspace, MERGE, and Labelling](https://www-degruyter-com.easyaccess2.lib.cuhk.edu.hk/journal/key/tlir/41/1/html), *The Linguistic Review*, volume 41, issue 1. (Co-edited volume of special issue)
-- Li, Xiangyu, Zetao Xu, Yuqiao Du, Chenghao Hu, Zhongyang Yu, Zhuo Chen, Victor Junnan Pan (2024). [Proceedings of the 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)](https://ling.cuhk.edu.hk/glowxiv/Proceedings_GLOWinAsia14th.pdf), *Department of Linguistics and Modern Languages, The Chinese University of Hong Kong*. (Open Access)
+• Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Workspace, MERGE, and Labelling](https://www-degruyter-com.easyaccess2.lib.cuhk.edu.hk/journal/key/tlir/41/1/html), *The Linguistic Review*, volume 41, issue 1. (Co-edited volume of special issue)
+
+• Li, Xiangyu, Zetao Xu, Yuqiao Du, Chenghao Hu, Zhongyang Yu, Zhuo Chen, Victor Junnan Pan (2024). [Proceedings of the 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)](https://ling.cuhk.edu.hk/glowxiv/Proceedings_GLOWinAsia14th.pdf), *Department of Linguistics and Modern Languages, The Chinese University of Hong Kong*. (Open Access)
 
 ### 2022
-- Du, Yuqiao, Zhuo Chen, Xiangyu Li, Zetao Xu and Victor Junnan Pan (2022). [Proceedings of the 13th Generative Linguistics in the Old World in Asia (GLOW in Asia XIII) 2022 Online Special](http://ling.cuhk.edu.hk/glowxiii/Proceedings_of_GLOW-In_Asia_XIII.pdf), *Department of Linguistics and Modern Languages, The Chinese University of Hong Kong*. (Open Access)
-- Pan, Victor Junnan (2022/2019). [Architecture of The Periphery in Chinese: Cartography and Minimalism](https://www.routledge.com/Architecture-of-the-Periphery-in-Chinese-Cartography-and-Minimalism/Pan/p/book/9781032401683), *Routledge Studies on Chinese Linguistics, London/New York: Routledge*. 245 pages. (2022 Paperback, 1st edition, ISBN 9781032401683; 2019 Hardback, e-book, 1st edition, https://www.routledge.com/The-Architecture-of-Periphery-in-Chinese-Cartography-and-Minimalism/Pan/p/book/9781138068186)
+• Du, Yuqiao, Zhuo Chen, Xiangyu Li, Zetao Xu and Victor Junnan Pan (2022). [Proceedings of the 13th Generative Linguistics in the Old World in Asia (GLOW in Asia XIII) 2022 Online Special](http://ling.cuhk.edu.hk/glowxiii/Proceedings_of_GLOW-In_Asia_XIII.pdf), *Department of Linguistics and Modern Languages, The Chinese University of Hong Kong*. (Open Access)
+
+• Pan, Victor Junnan (2022/2019). [Architecture of The Periphery in Chinese: Cartography and Minimalism](https://www.routledge.com/Architecture-of-the-Periphery-in-Chinese-Cartography-and-Minimalism/Pan/p/book/9781032401683), *Routledge Studies on Chinese Linguistics, London/New York: Routledge*. 245 pages. (2022 Paperback, 1st edition, ISBN 9781032401683; 2019 Hardback, e-book, 1st edition, https://www.routledge.com/The-Architecture-of-Periphery-in-Chinese-Cartography-and-Minimalism/Pan/p/book/9781138068186)
 
 ### 2018
-- Pan, Victor Junnan and Waltraud Paul (2018). [The syntax of complex sentences in Chinese](https://www.linguisticanalysis.com/volumes-volume-42-issue-1-2/), *Linguistic Analysis*, volume 42, issue 1-2. (Co-edited volume of special issue)
+• Pan, Victor Junnan and Waltraud Paul (2018). [The syntax of complex sentences in Chinese](https://www.linguisticanalysis.com/volumes-volume-42-issue-1-2/), *Linguistic Analysis*, volume 42, issue 1-2. (Co-edited volume of special issue)
 
 ### 2017
-- Pan, Victor Junnan (2017). [La syntaxe du chinois: une perspective comparative](http://apu.univ-artois.fr/Revues-et-collections/Etudes-linguistiques/La-Syntaxe-du-chinois-une-perspective-comparative), *Collection Études Linguistiques, Arras: Artois Presses Université*. 325 pages. (Written in French)
+• Pan, Victor Junnan (2017). [La syntaxe du chinois: une perspective comparative](http://apu.univ-artois.fr/Revues-et-collections/Etudes-linguistiques/La-Syntaxe-du-chinois-une-perspective-comparative), *Collection Études Linguistiques, Arras: Artois Presses Université*. 325 pages. (Written in French)
 
 ### 2016
-- Pan, Victor Junnan (2016). [Resumptivity in Mandarin Chinese: A Minimalist Account](https://www.degruyter.com/document/doi/10.1515/9783110492385/html), *Trends in Linguistics. Studies and Monographs (TiLSM), vol. 298, Berlin: Mouton De Gruyter*. 310 pages.
-- Pan, Victor Junnan (2016). [La résomptivité en chinois mandarin dans le programme minimaliste](http://www.lambert-lucas.com/la-resomptivite-en-chinois), *Collection Domaines étrangers et langues de France, Limoges: Lambert-Lucas*. 230 pages. (Written in French)
+• Pan, Victor Junnan (2016). [Resumptivity in Mandarin Chinese: A Minimalist Account](https://www.degruyter.com/document/doi/10.1515/9783110492385/html), *Trends in Linguistics. Studies and Monographs (TiLSM), vol. 298, Berlin: Mouton De Gruyter*. 310 pages.
+
+• Pan, Victor Junnan (2016). [La résomptivité en chinois mandarin dans le programme minimaliste](http://www.lambert-lucas.com/la-resomptivite-en-chinois), *Collection Domaines étrangers et langues de France, Limoges: Lambert-Lucas*. 230 pages. (Written in French)
 
 ### 2011
 - Pan, Victor Junnan (2011). [Interrogatives et quantification en chinois mandarin: une approche générative](http://www.pur-editions.fr/detail.php?idOuv=2686), *Collection Rivages Linguistiques, Presses Universitaires de Rennes*. 250 pages. (Written in French)
