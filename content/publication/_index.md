@@ -1,7 +1,11 @@
 ---
-title: Publications
+title: Research Projects
 Date: 2025
-Type: page
+type: page
+design: 
+  columns: '2' 
+  css_style: 'max-width: 95%; font-size: 14px !important;'
+
 ---
 # Journal articles
 
