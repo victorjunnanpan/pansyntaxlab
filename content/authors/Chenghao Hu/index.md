@@ -22,8 +22,6 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. (The international host-collaborator: Prof Klaus Abels, University College London, UK)
-
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -51,10 +49,10 @@ social:
     link: 'mailto:test@example.org'
   - icon: home
     icon_pack: fas
-    link: https://stevenzetaoxu.github.io/WhatATheme
+    link:
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,3 +68,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
+Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. (The international host-collaborator: Prof Klaus Abels, University College London, UK)
