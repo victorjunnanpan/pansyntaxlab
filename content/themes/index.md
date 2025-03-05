@@ -36,6 +36,7 @@ Adjunction and labeling (since 2019);
 • Language documentation and morpho-syntax of Qiangic languages: nDrapa (since 2024);
 
 **(iv) Neurolinguistics with formal syntax as theoretical background, brain and langue**
+
 • A’-dependency: gap, pro (since 2025).
 
 
