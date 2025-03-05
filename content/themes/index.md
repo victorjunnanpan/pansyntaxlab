@@ -8,7 +8,6 @@ design:
 
 ---
 
-
 **(i) Theoretical linguistics**
 
 - Formal linguistics, generative syntax;
