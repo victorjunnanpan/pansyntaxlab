@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: We are doing generative syntax; especially, the Minimalist Program.
-        content: 
+        content:
         align: right
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: We are doing cutting-edge theoretical research.
-        content: 
+        content:
         align: right
         background:
           image:
