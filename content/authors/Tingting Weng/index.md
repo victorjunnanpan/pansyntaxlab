@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Artificial Intelligence
@@ -70,3 +70,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
+(2024- ) Under Hong Kong PhD Fellowship Scheme (HKPFS).
