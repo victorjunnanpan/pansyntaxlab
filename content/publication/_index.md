@@ -33,8 +33,6 @@ Pan, Victor Junnan. (2022). ‘Deriving Head-Final Order in the Peripheral Domai
 
 潘俊楠  徐澤韜 (2022). ‘現代漢語疑問詞的句法層級再探 (On the Syntactic Hierarchy of Wh-words in Mandarin Chinese)’, 語言學論叢, 1, 100-124. [Draft]
 
-#   
-#   
 # Talks
 
 Xu, Zetao and Victor Junnan Pan (2025) ‘The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands’, paper presented at Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research, Shanghai Jiaotong University, May 30-June 1.
