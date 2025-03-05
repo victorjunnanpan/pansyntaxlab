@@ -1,5 +1,5 @@
 ---
-title:
+title: Contact
 Date: 2025
 type: page
 design: 
