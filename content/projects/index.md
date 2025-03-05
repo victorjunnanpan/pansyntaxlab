@@ -2,6 +2,11 @@
 title: Research Projects
 Date: 2025
 type: page
+design: 
+columns: '2' 
+css_style: 'max-width: 95%
+font-size: 14px
+
 ---
 
 • 2025-2027 “Minimalist derivation of discourse particles: a comparative survey最簡方案句法框架下語氣詞的比較研究”, (PI: Victor Junnan Pan), General Research Fund (GRF), Research Grants Council (RGC).
