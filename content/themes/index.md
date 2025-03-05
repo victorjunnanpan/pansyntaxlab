@@ -10,8 +10,7 @@ type: page
 - Formal linguistics, generative syntax;
 - Comparative syntax: Chinese, Chinese dialects, French, English, Qiangic languages.
 
-
-   **Research topics:**
+**Research topics:**
 
 • The Minimalist Program: MERGE and its properties (Markovian MERGE, free MERGE, etc.), Workspace, (long distance) Agree, Move, Phase, Labeling (since 2004);
 Adjunction and labeling (since 2019);
@@ -28,16 +27,13 @@ Adjunction and labeling (since 2019);
 
 • Interface: syntax-semantics, syntax-information structure, syntax-prosody (since 2004);
 
-
 **(ii) Heritage language and language contact**
 
 • Oversea Chinese and Wu dialects  (since 2022);
 
-
 **(iii) Minority and endangered languages (Sino-Tibetan)**
 
 • Language documentation and morpho-syntax of Qiangic languages: nDrapa (since 2024);
-
 
 **(iv) Neurolinguistics with formal syntax as theoretical background, brain and langue**
 • A’-dependency: gap, pro (since 2025).
