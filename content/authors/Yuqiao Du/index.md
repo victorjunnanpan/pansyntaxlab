@@ -70,4 +70,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
-(Since 2020) Under CUHK Strategic Area – China Studies PhD Fellowship Scheme.
+Since 2020. Under CUHK Strategic Area – China Studies PhD Fellowship Scheme.
