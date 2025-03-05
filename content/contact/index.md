@@ -7,7 +7,6 @@ design:
   css_style: 'max-width: 95%; font-size: 14px !important;'
 
 ---
-
 **How to join our team: Admission / Recruitment (Year-round)**
 
 Our team works on generative syntax, especially on the Minimalist Program. Please make sure that you have the relevant educational/research background before applying.
