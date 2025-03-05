@@ -3,7 +3,7 @@ title: Publications
 Date: 2025
 type: page
 design: 
-  columns: '2' 
+  columns: '2'
   css_style: 'max-width: 95%; font-size: 16px !important;'
 
 ---
@@ -97,7 +97,7 @@ design:
 - Pan, Victor Junnan (2011). [ATB-topicalization in Mandarin Chinese: an Intersective Operator Analysis](https://www.linguisticanalysis.com/volume-37-issue-1-2/), *Linguistic Analysis*, volume 37, issues 1-2, 231-272.
 
 
-## - Talks
+## - Talks (Keynote Speeches, Invited Conference Talks, Invited Lectures, Peer-Reviewed Conference Talks and Posters)
 
 ### 2025
 - Xu, Zetao and Victor Junnan Pan (2025). [The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands], paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
