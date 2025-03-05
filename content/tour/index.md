@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Join us!
+      - title: We are doing cutting-edge theoretical research.
         content: 
         align: right
         background:
