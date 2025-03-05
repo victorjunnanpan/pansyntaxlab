@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Artificial Intelligence
@@ -70,3 +70,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
+Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. (The international host-collaborator: Prof Roberta D’Alessandro, Utrecht University, Netherlands)
