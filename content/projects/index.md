@@ -3,7 +3,7 @@ title: Research Projects
 Date: 2025
 type: page
 design: 
-  columns: '3' 
+  columns: '2' 
   css_style: 'max-width: 95%; font-size: 16px !important;'
 
 ---
