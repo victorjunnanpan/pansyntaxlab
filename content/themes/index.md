@@ -4,7 +4,7 @@ Date: 2025
 type: page
 design: 
   columns: '2' 
-  css_style: 'max-width: 95%; font-size: 14px !important;'
+  css_style: 'max-width: 95%; font-size: 16px !important;'
 
 ---
 
@@ -15,32 +15,32 @@ design:
 
 **Research topics:**
 
-• The Minimalist Program: MERGE and its properties (Markovian MERGE, free MERGE, etc.), Workspace, (long distance) Agree, Move, Phase, Labeling (since 2004);
-Adjunction and labeling (since 2019);
+• The Minimalist Program: MERGE and its properties (Markovian MERGE, free MERGE, etc.), Workspace, (long distance) Agree, Move, Phase, Labeling;
+Adjunction and labeling;
 
-• A’-dependency: interrogative constructions,wh-in-situ, wh-ex-situ, topicalization, cleft-sentences, relativization, resumption, non-standard interrogatives, locality, islands (since 2004);
+• A’-dependency: interrogative constructions,wh-in-situ, wh-ex-situ, topicalization, cleft-sentences, relativization, resumption, non-standard interrogatives, locality, islands;
 
-• Cartography: left periphery, Sentence-Final Particles, functional projections under the Split-CP hypothesis (since 2004);
+• Cartography: left periphery, Sentence-Final Particles, functional projections under the Split-CP hypothesis;
 
-• Nominal structures and DP (since 2022); 
+• Nominal structures and DP; 
 
-• Quantification: scope-taking, bound variable, gap, resumptive pronoun (since 2008);
+• Quantification: scope-taking, bound variable, gap, resumptive pronoun;
 
-• Diachronic Chinese syntax (since 2021): object-fronting
+• Diachronic Chinese syntax: object-fronting
 
-• Interface: syntax-semantics, syntax-information structure, syntax-prosody (since 2004);
+• Interface: syntax-semantics, syntax-information structure, syntax-prosody;
 
 **(ii) Heritage language and language contact**
 
-• Oversea Chinese and Wu dialects  (since 2022);
+• Oversea Chinese and Wu dialects;
 
 **(iii) Minority and endangered languages (Sino-Tibetan)**
 
-• Language documentation and morpho-syntax of Qiangic languages: nDrapa (since 2024);
+• Language documentation and morpho-syntax of Qiangic languages: nDrapa;
 
 **(iv) Neurolinguistics with formal syntax as theoretical background, brain and langue**
 
-• A’-dependency: gap, pro (since 2025).
+• A’-dependency: gap, *pro* and resumption.
 
 
 
