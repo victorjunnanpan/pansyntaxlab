@@ -18,7 +18,8 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Prof. Victor Junnan Pan is Professor in theoretical linguistics at the Department of Linguistics and Modern Languages of The Chinese University of Hong Kong. He was Head of Graduate Division of Linguistics at CUHK (2019-2024) and serves now as the chairperson of the department. Prior to joining CUHK, he was an Associate Professor with tenure in theoretical linguistics at the University Paris Cité, habilitated for PhD students supervision, and a research staff member affiliated in Laboratoire de Linguisitique Formelle, and Chairperson of the Department of Chinese at U. Paris Cité. In 2017, Prof. Pan was elected as a Junior Member of the *Institut Universitaire de France* (法蘭西大學學院青年院士). Prof. Pan has published journal articles, book chapters and five research monographs both in French and in English including *Resumptivity in Mandarin Chinese: A Minimalist Account* (Mouton De Gruyter, 2016) and *Architecture of The Periphery in Chinese: Cartography and Minimalism* (Routledge, 2019). Prof. Pan also serves as anonymous reviewer for numerous prestigious international journals including *Linguistic Inquiry*, *Natural Language & Linguistic Theory*, *The Linguistic Review*, *Linguistics* and *Journal of East Asian Linguistics*.
+Homepage: https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
