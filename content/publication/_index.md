@@ -11,10 +11,12 @@ design:
 
 ### 2024
 - Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Workspace, MERGE, and Labelling](https://www-degruyter-com.easyaccess2.lib.cuhk.edu.hk/journal/key/tlir/41/1/html), *The Linguistic Review*, volume 41, issue 1. (Co-edited volume of special issue)
+
 - Li, Xiangyu, Zetao Xu, Yuqiao Du, Chenghao Hu, Zhongyang Yu, Zhuo Chen, Victor Junnan Pan (2024). [Proceedings of the 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)](https://ling.cuhk.edu.hk/glowxiv/Proceedings_GLOWinAsia14th.pdf), *Department of Linguistics and Modern Languages, The Chinese University of Hong Kong*. (Open Access)
 
 ### 2022
 - Du, Yuqiao, Zhuo Chen, Xiangyu Li, Zetao Xu and Victor Junnan Pan (2022). [Proceedings of the 13th Generative Linguistics in the Old World in Asia (GLOW in Asia XIII) 2022 Online Special](http://ling.cuhk.edu.hk/glowxiii/Proceedings_of_GLOW-In_Asia_XIII.pdf), *Department of Linguistics and Modern Languages, The Chinese University of Hong Kong*. (Open Access)
+
 - Pan, Victor Junnan (2022/2019). [Architecture of The Periphery in Chinese: Cartography and Minimalism](https://www.routledge.com/Architecture-of-the-Periphery-in-Chinese-Cartography-and-Minimalism/Pan/p/book/9781032401683), *Routledge Studies on Chinese Linguistics, London/New York: Routledge*. 245 pages. (2022 Paperback, 1st edition, ISBN 9781032401683; 2019 Hardback, e-book, 1st edition, https://www.routledge.com/The-Architecture-of-Periphery-in-Chinese-Cartography-and-Minimalism/Pan/p/book/9781138068186)
 
 ### 2018
