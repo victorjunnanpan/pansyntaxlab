@@ -73,8 +73,9 @@ design:
 • Choi, Jiyoung, Huy Linh Dao, Victor Junnan Pan, and Sumikazu Nishio (2021). [Interfaces morphosyntaxe-sémantique-prosodie: étude des mots interrogatifs en chinois, coréen, japonais et vietnamien], *Études de linguistique appliquée*, volume 204, 451-465.
 
 ### 2020
-- 潘俊楠 (2020). [漢語A'-型依存結構在最簡方案下的句法推導 (Minimalist Derivation of A'-dependency in Chinese)](http://ddyyx.juqk.net/sell/itemid-95315.shtml), *當代語言學 (Contemporary Linguistics)*, volume 22, no. 2, 159-181. (CSSCI)
-- Pan, Victor Junnan (2020). [Ambiguïté des syntagmes interrogatifs en chinois mandarin], *法语国家与地区汉语教育研究(第一辑)*, Z. Yang & A. Arslangul (eds.), 北京语言大学出版社 [Beijing Language and Cultural University Press], 202-217.
+• 潘俊楠 (2020). [漢語A'-型依存結構在最簡方案下的句法推導 (Minimalist Derivation of A'-dependency in Chinese)](http://ddyyx.juqk.net/sell/itemid-95315.shtml), *當代語言學 (Contemporary Linguistics)*, volume 22, no. 2, 159-181. (CSSCI)
+
+• Pan, Victor Junnan (2020). [Ambiguïté des syntagmes interrogatifs en chinois mandarin], *法语国家与地区汉语教育研究(第一辑)*, Z. Yang & A. Arslangul (eds.), 北京语言大学出版社 [Beijing Language and Cultural University Press], 202-217.
 
 ### 2019
 • Pan, Victor Junnan (2019). [Derivation of the Apparent Narrow Scope of Sentence-Final Particles in Chinese: A Reply to Erlewine (2017)](https://content.sciendo.com/view/journals/scl/39/2/article-p99.xml), *Studies in Chinese Linguistics*, volume 39, issue 2, 99-126. (CSSCI)
