@@ -348,7 +348,7 @@ design:
 ### 2010
 • Pan, Victor Junnan (2010). [On The Adjunct Use of What in Chinese], *The 18th Annual Conference of the International Association of Chinese Linguistics (IACL-18)*, Harvard University, MA.
 
-• Pan, Victor Junnan (2010). [Wh-ex-situ: Mapping Between Information Structure and Split CP](http://www.blcu.edu.cn/art/2014/8/11/art_6441_862.html), *The 16th Symposium of Modern Chinese Grammar*, City University of Hong Kong, Hong Kong.
+• Pan, Victor Junnan (2010). [Wh-ex-situ: Mapping Between Information Structure and Split CP], *The 16th Symposium of Modern Chinese Grammar*, City University of Hong Kong, Hong Kong.
 
 
 
