@@ -27,7 +27,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#666'
       - title:
         content:
         align: right
@@ -37,7 +37,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#666'
       - title:
         content:
         align: right
@@ -47,7 +47,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#666'
       - title:
         content:
         align: right
@@ -57,7 +57,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#666'
       - title:
         content:
         align: right
@@ -67,7 +67,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#666'
       - title: We are doing cutting-edge theoretical research.
         content:
         align: left
@@ -75,9 +75,9 @@ sections:
           image:
             filename: talks.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
-          color: '#333'
+          color: '#666'
       - title:
         content:
         align: left
@@ -85,9 +85,9 @@ sections:
           image:
             filename: welcome.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
-          color: '#333'
+          color: '#666'
         link:
           icon: graduation-cap
           icon_pack: fas
