@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link:
   - icon: home
     icon_pack: fas
     link: https://sites.google.com/view/downykim/home
