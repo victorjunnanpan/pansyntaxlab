@@ -28,12 +28,42 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: We are doing generative syntax; especially, the Minimalist Program.
+      - title:
         content:
         align: right
         background:
           image:
-            filename: talks.jpg
+            filename: zetaoposter.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title:
+        content:
+        align: right
+        background:
+          image:
+            filename: zhongyang.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title:
+        content:
+        align: right
+        background:
+          image:
+            filename: chenghao.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title:
+        content:
+        align: right
+        background:
+          image:
+            filename: korea.jpg
             filters:
               brightness: 0.7
           position: center
