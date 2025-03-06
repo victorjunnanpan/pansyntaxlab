@@ -251,11 +251,11 @@ design:
 • Pan, Victor Junnan (2018). [A Minimalist Derivation of Head-Final Order in the Peripheral Domain], talk given for *Departmental Seminars, Department of Linguistics and Modern Languages*, The Chinese University of Hong Kong, Hong Kong, March 6.
 
 ### 2017
-• 潘俊楠 (2017). [最簡方案下漢語的複指關系 (Zuìjiǎn fāng’àn xià hànyǔ de fùzhǐ guānxì)](http://www.sohu.com/a/205009559_488532), invited talk given at *School of Liberal Arts, Nanjing University & The China Center for Linguistic and Strategic Studies*, Nanjing, China, November 21.
+• 潘俊楠 (2017). [最簡方案下漢語的複指關系], invited talk given at *School of Liberal Arts, Nanjing University & The China Center for Linguistic and Strategic Studies*, Nanjing, China, November 21.
 
 • Pan, Victor Junnan (2017). [Two Types of Pronouns and Reconstruction Effects in Mandarin Chinese], invited talk at *Workshop on DP*, Sogang University, Seoul, Korea, November 11.
 
-• 潘俊楠 (2017). [依存結構中的複指關系鏈 (Yīcún jiégòu zhōng de fùzhǐ guānxìliàn)], *The 2nd Chinese-French Linguistics Forum (CASS of China & EHESS of France)*, Institute of Linguistics, Chinese Academy of Social Sciences & College of Liberal Arts of Hubei University, Wuhan, China, October 30 – November 1.
+• 潘俊楠 (2017). [依存結構中的複指關系鏈], *The 2nd Chinese-French Linguistics Forum (CASS of China & EHESS of France)*, Institute of Linguistics, Chinese Academy of Social Sciences & College of Liberal Arts of Hubei University, Wuhan, China, October 30 – November 1.
 
 • Pan, Victor Junnan (2017). [Derive Head-Final Order in Mandarin Left-Periphery], *The Second International Workshop on Syntactic Cartography (IWSC 2017)*, Beijing Language and Culture University, Beijing, China, October 28-29.
 
@@ -271,7 +271,7 @@ design:
 
 • Pan, Victor Junnan (2017). [Peripheral Projections in Mandarin Chinese], invited talk given at *Workshop on the Skeleton of Language: Syntactic Cartography and Distributed Morphology*, Zhejiang University, China, April 12-14.
 
-• 潘俊楠 (2017). [漢語中的關系化和話題化 (Hànyǔ zhōng de guānxihuà hé huàtíhuà)], invited talk given at *Center for the Study of Language and Cognition*, Zhejiang University, China, April 11.
+• 潘俊楠 (2017). [漢語中的關系化和話題化], invited talk given at *Center for the Study of Language and Cognition*, Zhejiang University, China, April 11.
 
 ### 2016
 • Pan, Victor Junnan (2016). [Optional Peripheral Projections in Mandarin Chinese], invited talk given at *“X-bar Workshop” 2016 Young Scholars Forum*, Beijing Language and Culture University (BLCU), Beijing, China, December 19.
