@@ -25,7 +25,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
+    link: 'victorjunnanpan AT cuhk.edu.hk'
   - icon: home
     icon_pack: fas
     link: https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/
