@@ -43,7 +43,7 @@ sections:
         align: right
         background:
           image:
-            filename: zhongyang.jpg
+            filename: chenghao.jpg
             filters:
               brightness: 0.7
           position: center
@@ -53,7 +53,7 @@ sections:
         align: right
         background:
           image:
-            filename: chenghao.jpg
+            filename: zhongyang.jpg
             filters:
               brightness: 0.7
           position: center
@@ -74,6 +74,16 @@ sections:
         background:
           image:
             filename: talks.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title:
+        content:
+        align: left
+        background:
+          image:
+            filename: welcome.jpg
             filters:
               brightness: 0.5
           position: center
