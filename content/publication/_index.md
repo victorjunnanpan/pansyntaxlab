@@ -314,7 +314,7 @@ design:
 
 • Pan, Victor Junnan (2014). [Syntax of Modern Chinese: A generative introduction to topic, focus and wh-questions], courses for *9th EACL Spring School in Chinese Linguistics*, Roma Tre University, Rome, Italy.
 
-• Pan, Victor Junnan (2014). [Wh-ex-situ in Mandarin Chinese: Mapping Between Information Structure and Split CP](http://www.blcu.edu.cn/art/2014/8/11/art_6441_862.html), *Department of Foreign Languages, Beijing Language and Culture University*.
+• Pan, Victor Junnan (2014). [Wh-ex-situ in Mandarin Chinese: Mapping Between Information Structure and Split CP], *Department of Foreign Languages, Beijing Language and Culture University*.
 
 • Pan, Victor Junnan (2014). [Question Types in Mandarin Chinese: From Question-Answer Pairs to the Information Structure], 2 hours course for *PhD Seminar Information Structuring of Spoken Discourse: Question-Answer Pairs and Genre (ED 268, Université Sorbonne Nouvelle-Paris 3)*, organized by M. M. Jocelyne Fernandez-Vest.
 
