@@ -28,6 +28,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: We are doing generative syntax; especially, the Minimalist Program.
+        content:
+        align: right
+        background:
+          image:
+            filename: talks.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: We are doing cutting-edge theoretical research.
         content:
         align: left
