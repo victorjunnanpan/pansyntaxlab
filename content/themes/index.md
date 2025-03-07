@@ -41,7 +41,3 @@ Adjunction and labeling;
 **(iv) Neurolinguistics with formal syntax as theoretical background, brain and language**
 
 • A’-dependency: gap, *pro* and resumption.
-
-
-
-
