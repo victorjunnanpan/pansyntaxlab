@@ -1,4 +1,0 @@
-cascade:
-  - _target:
-      path: /publication/**
-    share: false
