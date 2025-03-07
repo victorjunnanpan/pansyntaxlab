@@ -57,7 +57,13 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-
+      - name: Cache Hugo modules
+        uses: actions/cache@v2
+        with:
+          path: /tmp/hugo_cache_runner/
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/config.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
