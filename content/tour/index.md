@@ -58,32 +58,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#666'
-      - title:
-        content:
-        align: right
-        background:
-          image:
-            filename: korea.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
       - title: We are doing cutting-edge theoretical research.
         content:
         align: left
         background:
           image:
             filename: talks.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-      - title: with korean team members
-        content:
-        align: right
-        background:
-          image:
-            filename: koreanteam.jpg
             filters:
               brightness: 0.7
           position: center
