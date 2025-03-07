@@ -44,6 +44,10 @@ jobs:
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
+      - name: Cache debug info
+        run: |
+          echo "Cache Key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}"
+          ls -la /tmp/hugo_cache_runner/
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
