@@ -70,7 +70,7 @@ sections:
           color: '#666'
       - title:
         content:
-        align: left
+        align:
         background:
           image:
             filename: welcome.jpg
