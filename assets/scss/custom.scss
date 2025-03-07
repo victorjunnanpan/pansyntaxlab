@@ -1,0 +1,29 @@
+// Center page headers (from your template.scss)
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center CTA buttons (from your template.scss)
+.cta-group {
+  justify-content: center;
+}
+
+// Adjust page width
+.article-container {
+  max-width: 90% !important;     // 宽度占 90%，留 10% 白边
+  width: 90% !important;
+  padding-left: 20px !important;  // 增加内边距，避免内容贴边
+  padding-right: 20px !important;
+  margin: 0 auto !important;
+}
+
+// Keep titles away from edges
+.article-container h1 {
+  padding-left: 20px !important;  // 标题距左边 20px
+  padding-right: 20px !important;
+}
+
+// Set font size for body text only
+p, li {
+  font-size: 14px !important;
+}
