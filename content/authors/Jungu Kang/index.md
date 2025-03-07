@@ -17,8 +17,8 @@ superuser: false
 role: PhD student at UCSC
 
 # Organizations/Affiliations
-organizations: University of California, Santa Cruz
-  - name: The Chinese University of Hong Kong
+organizations: 
+  - name: University of California, Santa Cruz
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
