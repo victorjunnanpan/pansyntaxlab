@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student at UCSC (Former RA) 
+role: PhD student at UCSC
 
 # Organizations/Affiliations
 organizations:
@@ -23,23 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
