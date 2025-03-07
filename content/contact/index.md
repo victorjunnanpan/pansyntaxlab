@@ -32,5 +32,3 @@ Our team works on generative syntax, especially on the Minimalist Program. Pleas
 {要求}:具有语言学专业博士学位，或具有生成句法相关背景。科研能力突出，有项目申请经验为佳。优先考虑具有方言背景者(包括如藏缅语族等少数民族语言)。学术英语写作突出或具有国际背景者亦优先考虑。
 {入职信息}:入职时间灵活；享有舒适的工作环境及有竞争力的薪酬。 如有意申请香港政府大学资助委员会“Junior Research Fellow Scheme/新晋学者计划” (原香港政府博士后资助计划) 项目，请尽早与我们联系。
 {申请}:请准备个人简历一份和英文写作文本二篇 (或中英各一篇)寄往 victorjunnanpan (AT) cuhk.edu.hk (潘教授)
-
-
