@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student at UCSC
+role: PhD student at UCSC (former RA)
 
 # Organizations/Affiliations
 organizations: 
