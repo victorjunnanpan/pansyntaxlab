@@ -78,32 +78,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#666'
-      - title: with former Paris' team members
-        content:
-        align: left
-        background:
-          image:
-            filename: nantes.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
       - title: with korean team members
         content:
         align: right
         background:
           image:
             filename: koreanteam.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-      - title: with former Nantes' team members
-        content:
-        align: right
-        background:
-          image:
-            filename: nantes.jpg
             filters:
               brightness: 0.7
           position: center
