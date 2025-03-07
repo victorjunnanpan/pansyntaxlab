@@ -83,7 +83,7 @@ sections:
         align: left
         background:
           image:
-            filename: paris7.jpg
+            filename: paris.jpg
             filters:
               brightness: 0.7
           position: right
