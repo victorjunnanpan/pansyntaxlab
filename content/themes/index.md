@@ -38,7 +38,7 @@ Adjunction and labeling;
 
 • Language documentation and morpho-syntax of Qiangic languages: nDrapa;
 
-**(iv) Neurolinguistics with formal syntax as theoretical background, brain and langue**
+**(iv) Neurolinguistics with formal syntax as theoretical background, brain and language**
 
 • A’-dependency: gap, *pro* and resumption.
 
