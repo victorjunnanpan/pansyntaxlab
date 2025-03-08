@@ -1,8 +1,6 @@
 ---
 title: Victor Junnan Pan at the annual conference of SMOG 
 date: 2024-08-19
-image:
-  focal_point: 'middle'
   
 ---
 
