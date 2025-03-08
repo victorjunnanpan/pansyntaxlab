@@ -32,7 +32,7 @@ Adjunction and labeling;
 
 **(ii) Heritage language and language contact**
 
-• Oversea Chinese and Wu dialects;
+• Oversea Chinese and Wu dialects; (collaboration with Prof [Roberta D'Alessandro](https://www.uu.nl/staff/RAGDAlessandro) from Utrecht University, [Heritage Language Syntax (HLS)](https://sites.google.com/view/heritagelanguagesyntax/home))
 
 **(iii) Minority and endangered languages (Sino-Tibetan)**
 
