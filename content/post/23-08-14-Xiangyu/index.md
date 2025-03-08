@@ -9,4 +9,3 @@ Xiangyu Li presented the poster “Form-Copy and Verbal Inscriptions: Evidence f
 
 <!--more-->
 
-Xiangyu Li presented the poster “Form-Copy and Verbal Inscriptions: Evidence from Verb-Copying Construction in Chinese” at The 25th Seoul International Conference on Generative Grammar (SICOGG 25) held at Dongguk University, Seoul from August 14 to 16 in 2023.
