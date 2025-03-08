@@ -67,4 +67,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
-Since 2022. Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. (The international host-collaborator: Prof Roberta D’Alessandro, Utrecht University, Netherlands)
+Since 2022. Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. (The international host-collaborator: Prof [Roberta D’Alessandro](https://www.uu.nl/staff/RAGDAlessandro), Utrecht University, Netherlands)
