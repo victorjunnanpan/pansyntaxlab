@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jungu Kang [姜俊裘]
+title: Jungu Kang 강준구 [姜俊裘]
 
 # Full name (for SEO)
 first_name: Jungu
