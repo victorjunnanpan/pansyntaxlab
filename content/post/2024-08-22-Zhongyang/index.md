@@ -2,7 +2,7 @@
 title: Zhongyang Yu at SICOGG 26
 date: 2024-08-22
 image:
-  focal_point: 'top'
+  focal_point: 'middle'
 
 ---
 
