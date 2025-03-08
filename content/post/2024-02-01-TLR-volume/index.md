@@ -1,5 +1,5 @@
 ---
-title: Publication of the Special Issue: Workspace, MERGE and Labelling of The Linguistic Review (Volume 41, Issue 1) 
+title: Publication of the Special Issue "Workspace, MERGE and Labelling" of *The Linguistic Review* (Volume 41, Issue 1) 
 date: 2024-02-01
   
 ---
