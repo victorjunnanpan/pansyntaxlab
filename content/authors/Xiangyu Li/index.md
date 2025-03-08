@@ -67,3 +67,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
+Since 2023. With CUHK university provided studentship.
