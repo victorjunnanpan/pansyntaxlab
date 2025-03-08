@@ -29,9 +29,6 @@ social:
   - icon: home
     icon_pack: fas
     link: https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/victorjunnanpan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
