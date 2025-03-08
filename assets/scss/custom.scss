@@ -17,6 +17,15 @@
   margin: 0 auto !important;
 }
 
+// Limit image size within articles
+.article-container .featured-image
+{
+  max-width: 50% !important;  
+  hight: auto !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
 // Keep titles away from edges
 .article-container h1 {
   padding-left: 20px !important;  
