@@ -67,4 +67,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
-Since 2021. With CUHK university provided studentship.
+Since 2021. With CUHK university provided studentship. Supervisor: Prof Victor Junnan Pan.
