@@ -3,7 +3,7 @@ title: Publication of the Proceedings of the 14th Generative Linguistics in the 
 date: 2024-09-11
 
 ---
-Proceedings of the 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV), edited by Prof. Junnan PAN and team members Xiangyu LI, Zetao XU, Yuqiao DU, Chenghao HU, Zhongyang YU, and Dr. Zhuo CHEN, is now available on https://ling.cuhk.edu.hk/glowxiv/Proceedings_GLOWinAsia14th.pdf
+Proceedings of the 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV), edited by team members Xiangyu LI, Zetao XU, Yuqiao DU, Chenghao HU, Zhongyang YU, Dr. Zhuo CHEN and Prof Victor PAN, is now available on https://ling.cuhk.edu.hk/glowxiv/Proceedings_GLOWinAsia14th.pdf
 
 <!--more-->
 
