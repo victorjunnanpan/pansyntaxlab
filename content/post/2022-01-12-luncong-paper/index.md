@@ -1,9 +1,9 @@
 ---
-title: Publication of "On the Syntactic Hierarchy of Wh-words in Mandarin Chinese (現代漢語疑問詞的句法層級再探)" in Essays on Linguistics (語言學論叢)
+title: Publication of "On the Syntactic Hierarchy of Wh-words in Mandarin Chinese (现代汉语疑问词的句法层级再探)" in Essays on Linguistics (语言学论丛)
 date: 2022-01-12
 
 ---
-The article of Prof. Victor Junnan PAN and Zetao Xu, in title of "On the Syntactic Hierarchy of Wh-words in Mandarin Chinese (現代漢語疑問詞的句法層級再探)" is published on *Essays on Linguistics (語言學論叢)* (Volume 1, 2022).
+The article of Prof. Victor Junnan PAN and Zetao Xu, in title of "On the Syntactic Hierarchy of Wh-words in Mandarin Chinese (现代汉语疑问词的句法层级再探)" is published on *Essays on Linguistics (语言学论丛)* (Volume 1, 2022).
 
 <!--more-->
 **Abstract**
