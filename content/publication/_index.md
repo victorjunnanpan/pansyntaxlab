@@ -48,6 +48,8 @@ design:
 
 • Lee, Tommy Tsz-Ming and Victor Junnan Pan (2024). [Licensing VP movement and ellipsis in Mandarin and Cantonese](http://www.lingref.com/cpp/wccfl/40/paper3711.pdf), *Proceedings of The 40th Meeting of the West Coast Conference on Formal Linguistics (WCCFL 40)*, Jiayi Lu, Erika Petersen, Anissa Zaitsu, and Boris Harizanov (eds.), Stanford University, 192-201, Somerville, MA: Cascadilla Proceedings Project. (http://www.lingref.com/cpp/wccfl/40/index.html)
 
+• Du, Yuqiao (2024). Double Sideward Movement is Form-Sequence: Japanese Surprising Constituents. in *Proceedings of the 17th Workshop on Altaic Formal Linguistics (WAFL17)*, Edited by Erdene-Ochir Tumen-Ochir, Julia Sinitsyna, and Shigeru Miyagawa, *MIT working papers on linguistics*, 57-68.
+
 ### 2023
 • Xu, Zetao and Victor Junnan Pan (2023). [A case of pseudo-optionality as a consequence of language contact](https://lingv.ro/wp-content/uploads/2023/12/RRL-3-2023-7.-XuJunnan.pdf), *Revue Roumaine de Linguistique*, volume LXVIII, issue 3, 285-299. (Open Access)
 
@@ -60,6 +62,11 @@ design:
 • Pan, Victor Junnan (2023). [Quantification and wh-in-situ in Mandarin Chinese], *Chinese Linguistics in Rome*, Linda Badan and Chiara Romagnoli (eds.), [Collection des Cahiers de Linguistique – Asie Orientale], CRLAO, EHESS, 93-132.
 
 • Pan, Victor Junnan and Bin Zhu (2023). [On the Syntax of Causal Clauses in Mandarin Chinese](https://benjamins.com/catalog/slcs.231.08pan), *On the Variation of Causal Clauses*, Łukasz Jędrzejowski & Constanze Fleczoreck (eds.), [Studies in Language Companion Series], John Benjamins, 221-249.
+
+• Xu, Zetao (2023). Labeling Mandarin ditransitives, *2022 Linearization – Proceedings of the 24th Seoul International Conference on Generative Grammar*, Tae Sik Kim & Jungu Kang (eds.), The Korean Generative Grammar Circle, Seoul: Hankook Munhwasa, 245-260.
+
+• Xu, Z. (2023). The syntactic hierarchy of Mandarin wh-adjunts, In Chien-Jer Charles Lin, Alex Cherici, & Bihua Chen (eds.) *Proceedings of the 34th North American Conference on Chinese Linguistics (NACCL-34)*, 1-21.
+
 
 ### 2022
 • 潘俊楠 徐澤韜 (2022). [現代漢語疑問詞的句法層級再探 (On the Syntactic Hierarchy of Wh-words in Mandarin Chinese)], *語言學論叢*, volume 1, 100-124. (CSSCI)
@@ -127,6 +134,8 @@ design:
 
 • Yu, Zhongyang and Victor Junnan Pan (2025). [Deriving Sogdian pronominal cliticization], poster presented at *The 50th Incontro di Grammatica Generativa*, University of Padova, Italy, February 20-21.
 
+• Li, Xiangyu (2025) Revisit and derive Verb-Copying Constructions in Chinese uniformly by Form-Copy, poster presented at *The Workshop on Theoretical East Asian Linguistics 14th*, the University of Southern California, Los Angeles, US, March 18th-20th.
+
 ### 2024
 • Xu, Zetao and Victor Junnan Pan (2024). [On reduced structures in Chinese: A labeling approach], invited talk given for *LingLunch, Department of Linguistics, Laboratoire de Linguistique Formelle – UMR 7110, CNRS and Université Paris Cité*, Paris, December 12.
 
@@ -156,6 +165,11 @@ design:
 
 • Pan, Victor Junnan (2024). [A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface], invited lecture given at *English Department of Dongguk University*, Seoul, February 1.
 
+• Xu, Zetao (2024) On reduced structures in Chinese: A labeling approach, invited talk at *Extra SIL talk*, Utrecht University, Utrecht, October 9th. 
+
+• Xu, Zetao (2024) A Comparative Investigation on the Micro and Macro-Contact of Wu Dialects in China and Europe, invited talk at *CUHK-EHESS Postgraduate Workshop on Language and Cultural Contact Along the Frontiers of China, Ancient and Modern*, The Chinese University of Hong Kong, Hong Kong SAR, March 27th. 
+
+
 ### 2023
 • Li, Xiangyu and Victor Junnan Pan (2023). [Nominal phrase with relative clause in Mandarin Chinese: Labeling and Antilocality], talk given at *Workshop: Factors in Natural Language Design – the Nominal Domain and Beyond (FIND 2023)*, Gottingen, Germany, December 11-12.
 
@@ -179,6 +193,18 @@ design:
 
 • Pan, Victor Junnan (2023). [Deriving The Apparent Narrow Scope of Sentence-Final Particles in Chinese], invited talk at *Dongguk University*, Seoul, Korea, January 14.
 
+• Xu, Zetao (2023). Overproduction of demonstratives in Chinese bilingual children: a degree in cross-linguistic influence, *The 4th International Conference on Theoretical East Asian Psycholinguistics*, Dongguk University, Seoul, August 17th-19th.
+
+• Xu, Zetao (2023). Labeling Mandarin ditransitives. *The 25th Seoul International Conference on Generative Grammar*, Dongguk University, Seoul, August 14th-16th.
+
+• Xu, Zetao (2023). Contact targets the featural level: A gradience in morphological borrowing, *Formal Approaches to Language Contact (Workshop of the 24th Diachronic Generative Syntax)*, Université Paris Cité, Paris, July 4th-7th.
+
+• Xu, Zetao (2023). Overproduction of demonstratives in Mandarin-English bilingual children, *The 1st Sun Yat-sen University Conference on Bilingualism*, Sun Yat-sen University, Zhuhai, June 9th-11th.
+
+• Du, Yuqiao (2023). Double Sideward Movement is Form-Sequence: Japanese Surprising Constituents, *Workshop on Altaic Formal Linguistics 17 (WAFL 17)*, Ulaanbaatar, Mongolia, September 27th-29th.
+
+• Du, Yuqiao (2023). Extraction involving Comitatives and the implications: Evidence from Xuzhou Dialect, *The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-29)*, Macau, China, May 27th-29th.
+
 ### 2022
 • 潘俊楠 (2022). [漢語句末助詞表層窄域的句法推導], invited talk for *Serial Lectures at “精是講堂”*, Chongqing Normal University (重慶師範大學), Chongqing, China, December 27.
 
@@ -191,6 +217,12 @@ design:
 • Pan, Victor Junnan and Yuqiao Du (2022). [A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface], talk given for *Workshop on Workspace, MERGE, and Labelling* at *The 13th Generative Linguistics in the Old World in Asia (GLOW in Asia XIII) 2022 Online Special*, The Chinese University of Hong Kong, August 4-7.
 
 • Du, Yuqiao and Victor Junnan Pan (2022). [A Dual-Thread Model for Relative Clauses: From Acquisition to Typology], *The 28th Annual Conference of International Association of Chinese Linguistics (IACL-28)*, The Chinese University of Hong Kong, May 20-22.
+
+• Xu, Zetao (2022). On the syntactic hierarchy of Mandarin wh-words, *The 34th North American Conference on Chinese Linguistics (NACCL-34)*, Indiana University Bloomington, Bloomington, Septermber 23th-25th.
+
+• Xu, Zetao (2022). A case of pseudo-optionality from language contact, *The 44th Annual Conference of the German Linguistic Society*, University of Tübingen, Tübingen, Feb. 23rd-25th.
+
+• Xu, Zetao (2022). Optionality: an output of language contact, *The 47th Incontro di Grammatica Generativa*, Università di Catania, Catania, Feb. 24th-26th.
 
 • Lee, Tommy Tsz-Ming and Victor Junnan Pan (2022). [Licensing VP movement and ellipsis in Mandarin and Cantonese], *The 40th Meeting of the West Coast Conference on Formal Linguistics (WCCFL 40)*, Stanford University, May 13-15.
 
@@ -206,11 +238,17 @@ design:
 
 • Pan, Victor Junnan (2021). [The Latest Development of MERGE (2019-2021)], with Yuqiao Du, invited talk at *The 9th International Conference on Formal Linguistics*, Fudan University, Shanghai, China, November 5-7.
 
+• Xu, Zetao (2021). Optionality as the consequence of language contact, *The 6th Asian Junior Linguistics Conference*, Sogang University, Seoul, September 10th-12th.
+
+• Xu, Zetao (2021). A unified account to the quantifier induced intervention effects, *The 9th International Conference on Formal Linguistics*, Fudan University, Shanghai, November 5th-7th.
+
+• Xu, Zetao (2021). A cartographic approach to quantifier induced intervention effects in Chinese. *The 4th International Workshop on Syntactic Cartography & The First International Forum on Language and Brain*, Beijing Language and Culture University, Beijing, November 29th Oct - 1st.
+
+• 徐澤韜 潘俊楠 (2021). [“怎麼”與句末助詞共現層級的句法推導 (The cooccurrence of zenme ‘how’ and sentence-final particles in Chinese: the minimalist derivation)], *第十一屆現代漢語語法國際研討會 (The 11th International Conference on Contemporary Chinese Grammar – ICCCG-11)*, Heilongjiang University, Ha’erbin, China, July 23-26.
+
 • 杜雨橋 潘俊楠 (2021). [漢語名詞性成分的“攪拌”式位移：基於最簡方案加標算法的推導 (Scrambling in Chinese: a labeling-based derivation)], *第十一屆現代漢語語法國際研討會 (The 11th International Conference on Contemporary Chinese Grammar – ICCCG-11)*, Heilongjiang University, Ha’erbin, China, July 23-26.
 
 • 朱揚飛 潘俊楠 (2021). [江蘇興化方言句末助詞ge的句法層級及在最簡方案框架下的推導 (The minimalist derivation of the sentence-final particle ge in Xinghua dialect in Jiangsu)], *第十一屆現代漢語語法國際研討會 (The 11th International Conference on Contemporary Chinese Grammar – ICCCG-11)*, Heilongjiang University, Ha’erbin, China, July 23-26.
-
-• 徐澤韜 潘俊楠 (2021). [“怎麼”與句末助詞共現層級的句法推導 (The cooccurrence of zenme ‘how’ and sentence-final particles in Chinese: the minimalist derivation)], *第十一屆現代漢語語法國際研討會 (The 11th International Conference on Contemporary Chinese Grammar – ICCCG-11)*, Heilongjiang University, Ha’erbin, China, July 23-26.
 
 • 潘俊楠 (2021). [漢語分裂焦點和話題結構的句法推導 (Cleft-Focus and Topic Structures in Mandarin Chinese)], *華南師範大學外國語學院語言學前沿系列論壇-漢藏語句法研究*, South China Normal University, Guangzhou, China, July 11.
 
