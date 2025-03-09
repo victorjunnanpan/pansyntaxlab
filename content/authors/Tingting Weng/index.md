@@ -67,4 +67,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
-(2024- ) Under Hong Kong PhD Fellowship Scheme (HKPFS).
+(2024- ) Under Hong Kong PhD Fellowship Scheme (HKPFS). Supervisor: Prof Victor Junnan Pan.
