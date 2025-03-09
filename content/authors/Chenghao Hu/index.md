@@ -65,4 +65,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
-Since 2023. Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. (The international host-collaborator: Prof [Klaus Abels](https://www.ucl.ac.uk/pals/people/klaus-abels), University College London, UK)
+Since 2023. Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. Supervisor: Prof Victor Junnan Pan. The international host-collaborator: Prof [Klaus Abels](https://www.ucl.ac.uk/pals/people/klaus-abels), University College London, UK
