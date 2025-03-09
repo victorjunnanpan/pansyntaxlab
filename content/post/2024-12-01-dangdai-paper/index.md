@@ -1,5 +1,5 @@
 ---
-title: Publication of "The latest development of MERGE defined based on Workspace (工作空间定义下合并的最新发展 ) in Contemporary Linguistics (当代语言学)
+title: Publication of "The latest development of MERGE defined based on Workspace (工作空间定义下合并的最新发展)" in Contemporary Linguistics (当代语言学)
 date: 2024-12-01
   
 ---
