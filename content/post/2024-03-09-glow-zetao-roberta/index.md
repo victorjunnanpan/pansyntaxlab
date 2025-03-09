@@ -1,6 +1,6 @@
 ---
 title: Former Nantes Syntax team members at GLOW 14 in Hong Kong! 
-date: 2024-03-07
+date: 2024-03-09
   image:
   focal_point: 'top'
 
