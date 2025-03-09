@@ -21,7 +21,9 @@ design:
 
 • Workspace, derivation with parallel Workspaces; (Chenghao Hu, Victor Pan)
 
-• Nominal licensing mechanisms (Chenghao hu)
+• Nominal licensing mechanisms; (Chenghao Hu)
+
+• Anti-labeling devices and their crosslinguistic comparison; (Chenghao Hu, Victor Pan)
 
 • Adjunction and labeling; (Victor Pan, Yuqiao Du)
 
@@ -29,21 +31,21 @@ design:
 
 • Labeling and DP in Mandarin; (Xiangyu Li)
 
-• Form-Copy and its applications. (Xiangyu Li) 
+• Form-Copy and its applications; (Xiangyu Li) 
 
 • Labeling reduced structures; (Zetao Xu)
 
-• Cliticization and head-movement in Sogdian (Zhongyang Yu)
+• Cliticization and head-movement in Sogdian; (Zhongyang Yu)
 
 • A’-dependency: interrogative constructions,wh-in-situ, wh-ex-situ, topicalization, cleft-sentences, relativization, resumption, non-standard interrogatives, locality, islands;
 
 • Cartography: left periphery, Sentence-Final Particles, functional projections under the Split-CP hypothesis; (Victor Pan, Dahoon Kim)
 
-• DP structure (Tingting Weng)
+• DP structure; (Tingting Weng)
 
-• Quantification: scope-taking, bound variable, gap, resumptive pronoun; wh-quantification (Victor Pan, Zetao Xu, Dahoon Kim)
+• Quantification: scope-taking, bound variable, gap, resumptive pronoun; wh-quantification (Victor Pan, Zetao Xu, Dahoon Kim, Chenghao Hu)
 
-• Diachronic Chinese syntax: object-fronting (Victor Pan)
+• Diachronic Chinese syntax: object-fronting; (Victor Pan)
 
 • Interface: syntax-semantics, syntax-information structure, syntax-prosody;
 
@@ -61,4 +63,4 @@ design:
 
 • A’-dependency: gap, *pro* and resumption; (Wanxin Li)
 
-• Relativization and its processing (Jiaying Huang)
+• Relativization and its processing; (Jiaying Huang)
