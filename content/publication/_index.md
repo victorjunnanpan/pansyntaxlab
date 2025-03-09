@@ -65,11 +65,11 @@ design:
 
 • Xu, Zetao (2023). Labeling Mandarin ditransitives, *2022 Linearization – Proceedings of the 24th Seoul International Conference on Generative Grammar*, Tae Sik Kim & Jungu Kang (eds.), The Korean Generative Grammar Circle, Seoul: Hankook Munhwasa, 245-260.
 
-• Xu, Z. (2023). The syntactic hierarchy of Mandarin wh-adjunts, In Chien-Jer Charles Lin, Alex Cherici, & Bihua Chen (eds.) *Proceedings of the 34th North American Conference on Chinese Linguistics (NACCL-34)*, 1-21.
+• Xu, Zetao (2023). The syntactic hierarchy of Mandarin wh-adjunts, In Chien-Jer Charles Lin, Alex Cherici, & Bihua Chen (eds.) *Proceedings of the 34th North American Conference on Chinese Linguistics (NACCL-34)*, 1-21.
 
 
 ### 2022
-• 潘俊楠 徐澤韜 (2022). [現代漢語疑問詞的句法層級再探 (On the Syntactic Hierarchy of Wh-words in Mandarin Chinese)], *語言學論叢*, volume 1, 100-124. (CSSCI)
+• 潘俊楠 徐澤韜 (2022). [現代漢語疑問詞的句法層級再探 (On the Syntactic Hierarchy of Wh-words in Mandarin Chinese)], *語言學論叢 (Essays on Linguistics)*, volume 1, 100-124. (CSSCI)
 
 • Pan, Victor Junnan (2022). [Deriving Head-Final Order in the Peripheral Domain of Chinese](https://doi.org/10.1162/ling_a_00396), *Linguistic Inquiry*, volume 53, issue 1, 121-154. (SSCI)
 
