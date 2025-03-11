@@ -1,5 +1,5 @@
 ---
-title: Former Sogang syntax team members at GLOW 14 in Hong Kong
+title: Former Sogang syntax team members at GLOW in Asia 14 in Hong Kong
 date: 2024-03-06
   
 ---
