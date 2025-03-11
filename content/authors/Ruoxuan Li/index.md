@@ -51,7 +51,7 @@ social:
     link:
   - icon: home
     icon_pack: fas
-    link:
+    link: 'http://www.llf.cnrs.fr/fr/Gens/Ruoxuan-li'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
