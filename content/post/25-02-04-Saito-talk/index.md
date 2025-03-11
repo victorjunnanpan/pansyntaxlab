@@ -1,5 +1,5 @@
 ---
-title: Prof. Mamoru Saito’s lecture on discourse particles and selection
+title: Prof Mamoru Saito’s lecture on discourse particles and selection
 date: 2025-02-04
 ---
 
