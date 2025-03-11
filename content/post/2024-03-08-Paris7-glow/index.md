@@ -1,5 +1,5 @@
 ---
-title: Former Paris 7 MiniSyn team members at GLOW 14 in Hong Kong! 
+title: Former Paris 7 MiniSyn team members at GLOW in Asia 14 in Hong Kong! 
 date: 2024-03-08
   
 ---
