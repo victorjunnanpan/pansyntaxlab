@@ -132,9 +132,12 @@ design:
 ### 2025
 • Xu, Zetao and Victor Junnan Pan (2025). [The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands], paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
 
-• Yu, Zhongyang and Victor Junnan Pan (2025). [Deriving Sogdian pronominal cliticization], poster presented at *The 50th Incontro di Grammatica Generativa*, University of Padova, Italy, February 20-21.
+• Hu, Chenghao and Victor Junnan Pan (2025). [Chinese Nominal Structure: on Plural Marker and Pronouns], paper presented at *34th Colloquium on Generative Grammar (CGG34)*, the National University of Distance Education (UNED), Madrid, Spain, May 7-9. 
 
 • Li, Xiangyu (2025) Revisit and derive Verb-Copying Constructions in Chinese uniformly by Form-Copy, poster presented at *The Workshop on Theoretical East Asian Linguistics 14th*, the University of Southern California, Los Angeles, US, March 18th-20th.
+
+• Yu, Zhongyang and Victor Junnan Pan (2025). [Deriving Sogdian pronominal cliticization], poster presented at *The 50th Incontro di Grammatica Generativa*, University of Padova, Italy, February 20-21.
+
 
 ### 2024
 • Xu, Zetao and Victor Junnan Pan (2024). [On reduced structures in Chinese: A labeling approach], invited talk given for *LingLunch, Department of Linguistics, Laboratoire de Linguistique Formelle – UMR 7110, CNRS and Université Paris Cité*, Paris, December 12.
