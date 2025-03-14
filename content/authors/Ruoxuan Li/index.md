@@ -66,3 +66,4 @@ email: ''
 user_groups:
   - Alumni
 ---
+PhD student at [Laboratoire de Linguistique Formelle (LLF)-UMR 7110](http://www.llf.cnrs.fr), Department of Linguistics, Université Paris Cité, Paris, France, under the supervision of Prof [Caterina Donati](http://www.llf.cnrs.fr/fr/Gens/Donati). Prof Victor Pan serves as the external member of the *Comité de suivi*. 
