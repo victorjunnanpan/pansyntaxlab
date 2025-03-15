@@ -67,4 +67,4 @@ email: ''
 user_groups:
  - Grad Students
 ---
-Since 2023. With CUHK university provided studentship. Co-supervision with Prof Lawrence Y.-L. Cheung and Prof Victor Junnan Pan.
+Since 2023. With CUHK university provided studentship. Co-supervision with Prof [Lawrence Y.-L. Cheung](https://ling.cuhk.edu.hk/people/faculty-linguistics/cheung-yam-leung-lawrence/) and Prof Victor Junnan Pan.
