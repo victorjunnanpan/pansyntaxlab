@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student in Syntax
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
