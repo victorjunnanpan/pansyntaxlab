@@ -125,4 +125,3 @@ design:
 
 ### 2011
 • Pan, Victor Junnan (2011). [ATB-topicalization in Mandarin Chinese: an Intersective Operator Analysis](https://www.linguisticanalysis.com/volume-37-issue-1-2/), *Linguistic Analysis*, volume 37, issues 1-2, 231-272.
-
