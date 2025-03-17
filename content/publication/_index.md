@@ -39,6 +39,8 @@ design:
 ### To Appear
 • Pan, Victor Junnan (To appear). [Copy and Move: Motivation and Derivation], *The Cambridge Handbook of The Minimalist Program*, Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
+• Li, Xiangyu and Victor Junnan Pan (To appear). Labeling Nominal Phrases in Mandarin Chinese, *Linguistic Variation*.
+
 ### 2024
 • 潘俊楠 杜雨橋 (2024). [工作空间定义下合并的最新发展](http://ddyyx.juqk.net/sell/itemid-95315.shtml), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI)
 
