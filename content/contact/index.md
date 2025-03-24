@@ -19,7 +19,7 @@ Our team works on generative syntax, especially on the Minimalist Program. Pleas
 - **Research Assistant**: Please send us your academic CV along with a writing sample in English (course work, short essay, degree thesis, etc.). Applicants should already hold a Master's or a Bachelor's degree, demonstrate a good command of academic writing in English, and show familiarity with generative syntax. Preference is given to applicants with background in Chinese Minority languages, Chinese dialects, or languages other than English and Mandarin Chinese.
 
 
-**【团队招新】** 香港中文大学Victor Pan潘俊楠教授句法团队2025春夏季招聘启事 [**导师个人主页**](https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/)
+**【团队招新】** 香港中文大学[**Victor Pan 潘俊楠**](https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/)教授句法团队2025春夏季招聘启事
 
 **【全职研究助理若干】** 本轮招募截止日期：2025年3月30日:
 {要求}: 需本科学位或以上，熟悉生成句法。学术英语写作能力突出; 有较强的团队协作能力和独立工作能力。具有汉语方言、少数民族语言、欧洲语言背景者为佳。有意愿在本团队继续攻读博士学位者优先。
