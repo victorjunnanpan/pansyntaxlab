@@ -11,6 +11,9 @@ design:
 ## • Presentations (Keynote Speeches, Invited Conference Talks, Invited Lectures, Peer-Reviewed Conference Talks and Posters)
 
 ### 2025
+
+• Xu, Zetao and Victor Junnan Pan (2025) ‘Grammaticalization of demonstratives and the nominal structure in nDrapa’, paper presented at 58th International Conference on Sino-Tibetan Languages and Linguistics (ICSTLL58) University of Bern, Switzerland, September 3-5.
+
 • Xu, Zetao and Victor Junnan Pan (2025). [The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands], paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
 
 • Hu, Chenghao and Victor Junnan Pan (2025). [Chinese Nominal Structure: on Plural Marker and Pronouns], paper presented at *34th Colloquium on Generative Grammar (CGG34)*, the National University of Distance Education (UNED), Madrid, Spain, May 7-9. 
