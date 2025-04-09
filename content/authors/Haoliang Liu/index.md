@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoliang Michael Liu [劉昊良]
+title: Haoliang Michael Liu 劉昊良
 
 # Full name (for SEO)
 first_name: Haoliang Michael
