@@ -16,47 +16,47 @@ design:
 
 • Weng, Tingting and Jiaying Huang(2025). 'Number mismatch in the Universal Quantification? On the “One-Cl-N dou V- saːi" in the Guangzhou Yue dialect', paper presented at the 31st Annual Conference of the International Association of Chinese Linguistics (IACL-31), Ca’ Foscari University of Venice, Italy, July 2-4.
 
-• Xu, Zetao and Victor Junnan Pan (2025). [The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands], paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
+• Xu, Zetao and Victor Junnan Pan (2025). 'The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands', paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
 
-• Hu, Chenghao and Victor Junnan Pan (2025). [Chinese Nominal Structure: on Plural Marker and Pronouns], paper presented at *34th Colloquium on Generative Grammar (CGG34)*, the National University of Distance Education (UNED), Madrid, Spain, May 7-9. 
+• Hu, Chenghao and Victor Junnan Pan (2025). 'Chinese Nominal Structure: on Plural Marker and Pronouns', paper presented at *34th Colloquium on Generative Grammar (CGG34)*, the National University of Distance Education (UNED), Madrid, Spain, May 7-9. 
 
-• Li, Xiangyu (2025) Revisit and derive Verb-Copying Constructions in Chinese uniformly by Form-Copy, poster presented at *The Workshop on Theoretical East Asian Linguistics 14th*, the University of Southern California, Los Angeles, US, March 18th-20th.
+• Li, Xiangyu (2025) 'Revisit and derive Verb-Copying Constructions in Chinese uniformly by Form-Copy', poster presented at *The Workshop on Theoretical East Asian Linguistics 14th*, the University of Southern California, Los Angeles, US, March 18th-20th.
 
-• Yu, Zhongyang and Victor Junnan Pan (2025). [Deriving Sogdian pronominal cliticization], poster presented at *The 50th Incontro di Grammatica Generativa*, University of Padova, Italy, February 20-21.
+• Yu, Zhongyang and Victor Junnan Pan (2025). 'Deriving Sogdian pronominal cliticization]', poster presented at *The 50th Incontro di Grammatica Generativa*, University of Padova, Italy, February 20-21.
 
 
 ### 2024
-• Xu, Zetao and Victor Junnan Pan (2024). [On reduced structures in Chinese: A labeling approach], invited talk given for *LingLunch, Department of Linguistics, Laboratoire de Linguistique Formelle – UMR 7110, CNRS and Université Paris Cité*, Paris, December 12.
+• Xu, Zetao and Victor Junnan Pan (2024). 'On reduced structures in Chinese: A labeling approach', invited talk given for *LingLunch, Department of Linguistics, Laboratoire de Linguistique Formelle – UMR 7110, CNRS and Université Paris Cité*, Paris, December 12.
 
-• Dahoon Kim, Chenghao Hu and Victor Junnan Pan (2024). [On Wh- and Existential Quantification: A Comparison between Mandarin and Korean], invited talk for *International Workshop of “International Research Network for the Human Language Faculty”*, JSPS Core-to-Core Program of Japan Society for the Promotion of Science, Osaka University, Japan, December 7-8.
+• Dahoon Kim, Chenghao Hu and Victor Junnan Pan (2024). 'On Wh- and Existential Quantification: A Comparison between Mandarin and Korean', invited talk for *International Workshop of “International Research Network for the Human Language Faculty”*, JSPS Core-to-Core Program of Japan Society for the Promotion of Science, Osaka University, Japan, December 7-8.
 
-• Xiangyu Li and Victor Junnan Pan (2024). [A labeling-based approach to the derivation of nominal phrases in Chinese], invited talk for *International Workshop of “International Research Network for the Human Language Faculty”*, JSPS Core-to-Core Program of Japan Society for the Promotion of Science, Osaka University, Japan, December 7-8.
+• Xiangyu Li and Victor Junnan Pan (2024). 'A labeling-based approach to the derivation of nominal phrases in Chinese', invited talk for *International Workshop of “International Research Network for the Human Language Faculty”*, JSPS Core-to-Core Program of Japan Society for the Promotion of Science, Osaka University, Japan, December 7-8.
 
-• Xu, Zetao and Victor Junnan Pan (2024). [On poly-definiteness and the structure of DP in nDrapa], paper presented at *Workshop: Special definites, demonstratives, and pronouns - The 24th International Conference of the Department of Linguistics of the University of Bucharest (CIDL24)*, Bucharest, Romania, November 15-16.
+• Xu, Zetao and Victor Junnan Pan (2024). 'On poly-definiteness and the structure of DP in nDrapa', paper presented at *Workshop: Special definites, demonstratives, and pronouns - The 24th International Conference of the Department of Linguistics of the University of Bucharest (CIDL24)*, Bucharest, Romania, November 15-16.
 
-• Xu, Zetao and Victor Junnan Pan (2024). [Revisit the clausal approach to comparative deletion in Mandarin Chinese], paper presented at *The 12th International Conference of the European Association of Chinese Linguistics (EACL-12)*, Roma Tre University, Rome, September 19-20.
+• Xu, Zetao and Victor Junnan Pan (2024). 'Revisit the clausal approach to comparative deletion in Mandarin Chinese', paper presented at *The 12th International Conference of the European Association of Chinese Linguistics (EACL-12)*, Roma Tre University, Rome, September 19-20.
 
-• Yu, Zhongyang and Victor Junnan Pan (2024). [An Agree account for Sogdian second position clitics], paper presented at *The joint conference of The 26th Seoul International Conference on Generative Grammar (SICOGG 26) and The 18th Workshop on Altaic Formal Linguistics (WAFL 18)*, Jeonbuk National University, Jeonju, August 22-24.
+• Yu, Zhongyang and Victor Junnan Pan (2024). 'An Agree account for Sogdian second position clitics', paper presented at *The joint conference of The 26th Seoul International Conference on Generative Grammar (SICOGG 26) and The 18th Workshop on Altaic Formal Linguistics (WAFL 18)*, Jeonbuk National University, Jeonju, August 22-24.
 
-• Hu, Chenghao and Victor Junnan Pan (2024). [Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese], paper presented at *The joint conference of The 26th Seoul International Conference on Generative Grammar (SICOGG 26) and The 18th Workshop on Altaic Formal Linguistics (WAFL 18)*, Jeonbuk National University, Jeonju, August 22-24.
+• Hu, Chenghao and Victor Junnan Pan (2024). 'Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese', paper presented at *The joint conference of The 26th Seoul International Conference on Generative Grammar (SICOGG 26) and The 18th Workshop on Altaic Formal Linguistics (WAFL 18)*, Jeonbuk National University, Jeonju, August 22-24.
 
 • Pan, Victor Junnan (2024). [Free MERGE under SMT: derivation with Multiple Dimensions and Parallel Workspaces](https://www.youtube.com/live/TIxMdKwQnRQ), invited talk at *The Syntax and Semantics Workshop (ICSS): “Advancing Beyond the Miracle Creed for K-Humanities”*, annual conference of The Society of Modern Grammar (SMOG), Andong National University, Andong city, South Korea, August 19-21. (Video link starting from 2:13:45)
 
-• Yu, Zhongyang and Victor Junnan Pan (2024). [Split Ergativity in Sogdian Revised], paper presented at *International Symposium on Silk Road Linguistics (絲綢之路語言學國際研討會)*, The Chinese University of Hong Kong, May 30-31.
+• Yu, Zhongyang and Victor Junnan Pan (2024). 'Split Ergativity in Sogdian Revised', paper presented at *International Symposium on Silk Road Linguistics (絲綢之路語言學國際研討會)*, The Chinese University of Hong Kong, May 30-31.
 
-• Hu, Chenghao and Victor Junnan Pan (2024). [Anti-Labeling and Phases: on the Syntax of Mandarin Plural Markers], paper presented at *The 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30)*, Yonsei University, May 25-27.
+• Hu, Chenghao and Victor Junnan Pan (2024). 'Anti-Labeling and Phases: on the Syntax of Mandarin Plural Markers', paper presented at *The 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30)*, Yonsei University, May 25-27.
 
-• Xu, Zetao and Victor Junnan Pan (2024). [A case of pseudo-optionality as a consequence of language contact], *CUHK-EHESS Symposium on Language and Cultural Contact Along the Frontiers of China, Ancient and Modern*, The Chinese University of Hong Kong, March 28.
+• Xu, Zetao and Victor Junnan Pan (2024). 'A case of pseudo-optionality as a consequence of language contact', *CUHK-EHESS Symposium on Language and Cultural Contact Along the Frontiers of China, Ancient and Modern*, The Chinese University of Hong Kong, March 28.
 
-• Hu, Chenghao and Victor Junnan Pan (2024). [An Agreement Approach to the Peripheral Projection Encoded Finiteness in Mandarin], poster presented at *The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)*, The Chinese University of Hong Kong, March 6-8.
+• Hu, Chenghao and Victor Junnan Pan (2024). 'An Agreement Approach to the Peripheral Projection Encoded Finiteness in Mandarin', poster presented at *The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)*, The Chinese University of Hong Kong, March 6-8.
 
-• Xu, Zetao and Victor Junnan Pan (2024). [Labeling Reduced Structures in Chinese], paper presented at *The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)*, The Chinese University of Hong Kong, March 6-8.
+• Xu, Zetao and Victor Junnan Pan (2024). 'Labeling Reduced Structures in Chinese', paper presented at *The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)*, The Chinese University of Hong Kong, March 6-8.
 
-• Pan, Victor Junnan (2024). [A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface], invited lecture given at *English Department of Dongguk University*, Seoul, February 1.
+• Pan, Victor Junnan (2024). 'A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface', invited lecture given at *English Department of Dongguk University*, Seoul, February 1.
 
-• Xu, Zetao (2024) On reduced structures in Chinese: A labeling approach, invited talk at *Extra SIL talk*, Utrecht University, Utrecht, October 9th. 
+• Xu, Zetao (2024). 'On reduced structures in Chinese: A labeling approach', invited talk at *Extra SIL talk*, Utrecht University, Utrecht, October 9th. 
 
-• Xu, Zetao (2024) A Comparative Investigation on the Micro and Macro-Contact of Wu Dialects in China and Europe, invited talk at *CUHK-EHESS Postgraduate Workshop on Language and Cultural Contact Along the Frontiers of China, Ancient and Modern*, The Chinese University of Hong Kong, Hong Kong SAR, March 27th. 
+• Xu, Zetao (2024). 'A Comparative Investigation on the Micro and Macro-Contact of Wu Dialects in China and Europe', invited talk at *CUHK-EHESS Postgraduate Workshop on Language and Cultural Contact Along the Frontiers of China, Ancient and Modern*, The Chinese University of Hong Kong, Hong Kong SAR, March 27th. 
 
 
 ### 2023
