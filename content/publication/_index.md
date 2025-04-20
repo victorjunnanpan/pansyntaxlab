@@ -42,7 +42,7 @@ design:
 • Li, Xiangyu and Victor Junnan Pan (To appear). Labeling Nominal Phrases in Mandarin Chinese, *Linguistic Variation*.
 
 ### 2024
-• 潘俊楠 杜雨橋 (2024). [工作空間定義下合併的最新發展](http://ddyyx.juqk.net/sell/itemid-95315.shtml), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI)
+• 潘俊楠 杜雨橋 (2024). [工作空間定義下合併的最新發展](http://ling.cass.cn/ziyuan/qikan/ddyyx/202412/t20241217_5824575.html), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI)
 
 • Pan, Victor Junnan and Yuqiao Du (2024). [A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface](https://www.degruyter.com/document/doi/10.1515/tlr-2024-2004/html), *The Linguistic Review*, volume 41, issue 1, 85-117. (SSCI) (Open Access)
 
@@ -53,7 +53,7 @@ design:
 • Du, Yuqiao (2024). Double Sideward Movement is Form-Sequence: Japanese Surprising Constituents. in *Proceedings of the 17th Workshop on Altaic Formal Linguistics (WAFL17)*, Edited by Erdene-Ochir Tumen-Ochir, Julia Sinitsyna, and Shigeru Miyagawa, *MIT working papers on linguistics*, 57-68.
 
 ### 2023
-• Xu, Zetao and Victor Junnan Pan (2023). [A case of pseudo-optionality as a consequence of language contact](https://lingv.ro/wp-content/uploads/2023/12/RRL-3-2023-7.-XuJunnan.pdf), *Revue Roumaine de Linguistique*, volume LXVIII, issue 3, 285-299. (Open Access)
+• Xu, Zetao and Victor Junnan Pan (2023). [A case of pseudo-optionality as a consequence of language contact](https://lingv.ro/wp-content/uploads/2023/12/RRL-3-2023-7.-XuJunnan.pdf), *Revue Roumaine de Linguistique*, volume LXVIII, issue 3, 285-299. (SSCI) (Open Access)
 
 • Pan, Victor Junnan and Chang Liu (2023). [Focus constructions involving shì in Mandarin Chinese](https://doi.org/10.3390/languages8020103), *Languages*, volume 8, issue 2, 103. (Open Access)
 
