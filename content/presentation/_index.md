@@ -14,7 +14,7 @@ design:
 
 • Xu, Zetao and Victor Junnan Pan (2025) ‘Grammaticalization of demonstratives and the nominal structure in nDrapa’, paper presented at 58th International Conference on Sino-Tibetan Languages and Linguistics (ICSTLL58) University of Bern, Switzerland, September 3-5.
 
-• Weng, Tingting and Jiaying Huang(2025). 'Number mismatch in the Universal Quantification? On the “One-Cl-N dou V- saːi" in the Guangzhou Yue dialect', paper presented at the 31st Annual Conference of the International Association of Chinese Linguistics (IACL-31), Ca’ Foscari University of Venice, Italy, July 2-4.
+• Weng, Tingting and Jiaying Huang (2025). 'Number mismatch in the Universal Quantification? On the “One-Cl-N dou V- saːi" in the Guangzhou Yue dialect', paper presented at the 31st Annual Conference of the International Association of Chinese Linguistics (IACL-31), Ca’ Foscari University of Venice, Italy, July 2-4.
 
 • Xu, Zetao and Victor Junnan Pan (2025). 'The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands', paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
 
