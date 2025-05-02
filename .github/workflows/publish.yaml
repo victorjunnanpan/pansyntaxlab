@@ -38,6 +38,8 @@ jobs:
           else
             echo "go.mod found"
           fi
+      - name: Create Hugo Cache Directory
+        run: mkdir -p /tmp/hugo_cache_runner/
       - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache_runner/
@@ -61,14 +63,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - name: Create Hugo Cache Directory
-        run: mkdir -p /tmp/hugo_cache_runner/
-      - uses: actions/cache@v4
-        with:
-          path: /tmp/hugo_cache_runner/
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
           
   deploy:
     if: github.repository_owner != 'HugoBlox'
