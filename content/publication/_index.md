@@ -37,7 +37,7 @@ design:
 ## • Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)
 
 ### To Appear
-• Pan, Victor Junnan (To appear). Copy and Move: Motivation and Derivation, *The Cambridge Handbook of The Minimalist Program*, Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
+• Pan, Victor Junnan (To appear). Copy and Move: Motivation and Derivation, [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
 • Li, Xiangyu and Victor Junnan Pan (To appear). Labeling Nominal Phrases in Mandarin Chinese, *Linguistic Variation*.
 
