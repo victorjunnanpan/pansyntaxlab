@@ -68,12 +68,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check for active deployments
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           active_deployment=$(gh api repos/:owner/:repo/deployments -F environment=production -F status=in_progress --jq '.[0].id')
           if [[ -n "$active_deployment" ]]; then
             echo "Canceling active deployment: $active_deployment"
             gh api repos/:owner/:repo/deployments/$active_deployment/statuses -F state=inactive
-          fi
+        fi
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
