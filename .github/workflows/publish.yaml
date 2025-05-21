@@ -65,17 +65,13 @@ jobs:
           path: ./public
           
   deploy:
+    if: github.repository_owner != 'HugoBlox'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    needs: build
     steps:
-      - name: Check for active deployments
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          active_deployment=$(gh api repos/:owner/:repo/deployments -F environment=production -F status=in_progress --jq '.[0].id')
-          if [[ -n "$active_deployment" ]]; then
-            echo "Canceling active deployment: $active_deployment"
-            gh api repos/:owner/:repo/deployments/$active_deployment/statuses -F state=inactive
-        fi
-
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
