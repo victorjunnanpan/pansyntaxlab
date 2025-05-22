@@ -1,5 +1,5 @@
 ---
-title: Invited talk of Prof Victor Pan at the department of foreign languages and literatures of National Yang Ming Chiao Tung University (國立陽明交通大學外國語文學系) 
+title: Invited talk of Prof Victor Pan at National Yang Ming Chiao Tung University
 date: 2025-05-22
   
 ---
