@@ -22,7 +22,7 @@ design:
 
 • Xu, Zetao and Victor Junnan Pan (2025). 'The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands', paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
 
-• 潘俊楠  (2025). [‘最簡方案下的多維合併機制及標籤算法 (Multi-dimensional MERGE in the Minimalist Program and the Labelling Algorithm)'](https://fl.nycu.edu.tw/2025/05/13/5-23-最簡方案下的多維合併機制及標籤算法-by-潘俊楠-pan-vict/), invited lecture given at the department of foreign languages and literatures of National Yang Ming Chiao Tung University (國立陽明交通大學外國語文學系), Taiwan, May 23. 
+• 潘俊楠  (2025). [‘最簡方案下的多維合併機制及標籤算法 (Multi-dimensional MERGE in the Minimalist Program and the Labelling Algorithm)'](https://fl.nycu.edu.tw/2025/05/13/5-23-最簡方案下的多維合併機制及標籤算法-by-潘俊楠-pan-vict/), invited lecture given at the department of foreign languages and literatures of National Yang Ming Chiao Tung University (陽明交通大學外國語文學系), Taiwan, May 23. 
 
 • Hu, Chenghao and Victor Junnan Pan (2025). 'Chinese Nominal Structure: on Plural Marker and Pronouns', paper presented at *34th Colloquium on Generative Grammar (CGG34)*, the National University of Distance Education (UNED), Madrid, Spain, May 7-9. 
 
