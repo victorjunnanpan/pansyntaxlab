@@ -22,7 +22,7 @@ design:
 
 • Hu, Chenghao and Victor Junnan Pan (2025). 'A base-generation approach to sentence-initial root modal auxiliaries in Chinese', paper presented at *Workshop on The Syntax and Semantics of Auxiliaries*, Laboratoire Structures Formelles du Langage (UMR 7023), CNRS & Université Paris 8, Paris, France, June 23-24.
 
-• 顏錦 (2025). 閩語閩東方言左緣結構中的句末助詞層級劃分, 第十一屆方言語法博學論壇 (The 11th Inter-Regional Forum on Dialectal Grammar), Sun-Yat-Sen University, Guangzhou, June 21-22.
+• 顏錦 (2025). '閩語閩東方言左緣結構中的句末助詞層級劃分', paper presented at 第十一屆方言語法博學論壇 (The 11th Inter-Regional Forum on Dialectal Grammar), Sun-Yat-Sen University, Guangzhou, June 21-22.
 
 • Xu, Zetao and Victor Junnan Pan (2025). 'Interaction of UG and the 3rd principles in resumptive pronouns: evidence from heritage Chinese in the Netherlands and France', paper presented at *The workshop on Third Factors in Language Design: the view from Heritage Languages*, INALCO, Paris, France, June 6. 
 
@@ -107,9 +107,9 @@ design:
 • Du, Yuqiao (2023). Extraction involving Comitatives and the implications: Evidence from Xuzhou Dialect, *The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-29)*, Macau, China, May 27th-29th.
 
 ### 2022
-• 潘俊楠 (2022). [漢語句末助詞表層窄域的句法推導], invited talk for *Serial Lectures at “精是講堂”*, Chongqing Normal University (重慶師範大學), Chongqing, China, December 27.
+• 潘俊楠 (2022). [漢語句末助詞表層窄域的句法推導], invited talk for *Serial Lectures at “精是講堂”*, Chongqing Normal University (重慶師範大學), Chongqing, December 27.
 
-• Pan, Victor Junnan and Zetao Xu (2022). [現代漢語疑問副詞的句法層級 (On the syntactic hierarchy of the wh-adverbs in Chinese)], invited talk at *漢語研究國際青年語言學家高峰論壇*, Chongqing Normal University (重慶師範大學), Chongqing, China, December 10-11.
+• Pan, Victor Junnan and Zetao Xu (2022). [現代漢語疑問副詞的句法層級 (On the syntactic hierarchy of the wh-adverbs in Chinese)], invited talk at *漢語研究國際青年語言學家高峰論壇*, Chongqing Normal University (重慶師範大學), Chongqing, December 10-11.
 
 • 潘俊楠 (2022). [漢語分裂焦點和話題結構的句法推導 (Cleft-Focus and Topic Structures in Mandarin Chinese)], invited talk for *Serial Lectures 漢語語言學在法國系列講座 (Chinese Linguistics in France)*, Zhejiang University (浙江大學文學院漢語語言研究所), Hangzhou, October 21.
 
@@ -127,7 +127,7 @@ design:
 
 • Lee, Tommy Tsz-Ming and Victor Junnan Pan (2022). [Licensing VP movement and ellipsis in Mandarin and Cantonese], *The 40th Meeting of the West Coast Conference on Formal Linguistics (WCCFL 40)*, Stanford University, May 13-15.
 
-• 潘俊楠 (2022). [On the Syntactic Hierarchy of Wh-words in Mandarin Chinese (現代漢語疑問詞的句法層級再探)], invited talk for *Distinguished Professors Forum (廣東外語外貿大學著名教授論壇)*, Center for Linguistics and Applied Linguistics, Guangdong University of Foreign Studies, Guangzhou, China, May 12.
+• 潘俊楠 (2022). [On the Syntactic Hierarchy of Wh-words in Mandarin Chinese (現代漢語疑問詞的句法層級再探)], invited talk for *Distinguished Professors Forum (廣東外語外貿大學著名教授論壇)*, Center for Linguistics and Applied Linguistics, Guangdong University of Foreign Studies, Guangzhou, May 12.
 
 • Pan, Victor Junnan (2022). [Deriving A’-dependencies in Mandarin Chinese: A Minimalist Account], invited talk given at *Department of Linguistics, Queen Mary University of London*, UK, January 19.
 
@@ -135,9 +135,9 @@ design:
 
 • Pan, Victor Junnan (2021). [A Comparative Study on Wh-quantification], keynote speech at *The 5th International Conference on Biolinguistics*, Beijing Institute of Technology, Beijing, China, December 25-26.
 
-• 潘俊楠 (2021). [漢語前置焦點分裂結構和話題結構的句法推導], invited talk at *第八屆現代漢語句法語意前沿討論會*, Institute of Linguistics, Chinese Academy of Social Science, Beijing, China, November 20-22.
+• 潘俊楠 (2021). [漢語前置焦點分裂結構和話題結構的句法推導], invited talk at *第八屆現代漢語句法語意前沿討論會*, Institute of Linguistics, Chinese Academy of Social Science, Beijing, November 20-22.
 
-• Pan, Victor Junnan (2021). [The Latest Development of MERGE (2019-2021)], with Yuqiao Du, invited talk at *The 9th International Conference on Formal Linguistics*, Fudan University, Shanghai, China, November 5-7.
+• Pan, Victor Junnan (2021). [The Latest Development of MERGE (2019-2021)], with Yuqiao Du, invited talk at *The 9th International Conference on Formal Linguistics*, Fudan University, Shanghai, November 5-7.
 
 • Xu, Zetao (2021). Optionality as the consequence of language contact, *The 6th Asian Junior Linguistics Conference*, Sogang University, Seoul, September 10th-12th.
 
