@@ -22,6 +22,8 @@ design:
 
 • Hu, Chenghao and Victor Junnan Pan (2025). 'A base-generation approach to sentence-initial root modal auxiliaries in Chinese', paper presented at *Workshop on The Syntax and Semantics of Auxiliaries*, Laboratoire Structures Formelles du Langage (UMR 7023), CNRS & Université Paris 8, Paris, France, June 23-24.
 
+• 顏錦 (2025). 閩語閩東方言左緣結構中的句末助詞層級劃分, 第十一屆方言語法博學論壇 (The 11th Inter-Regional Forum on Dialectal Grammar), Sun-Yat-Sen University, Guangzhou, June 21-22.
+
 • Xu, Zetao and Victor Junnan Pan (2025). 'Interaction of UG and the 3rd principles in resumptive pronouns: evidence from heritage Chinese in the Netherlands and France', paper presented at *The workshop on Third Factors in Language Design: the view from Heritage Languages*, INALCO, Paris, France, June 6. 
 
 • Xu, Zetao and Victor Junnan Pan (2025). 'The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands', paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
