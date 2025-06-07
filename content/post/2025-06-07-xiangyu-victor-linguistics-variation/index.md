@@ -1,6 +1,6 @@
 ---
 title: Publication of "Labeling Nominal Phrases in Mandarin Chinese" in Linguistics Variation
-date: 2024-12-01
+date: 2025-06-07
 ---
 The article of Ph.D student Xiangyu LI and Prof. Victor PAN in title of [“Labeling Nominal Phrases in Mandarin Chinese”](https://benjamins.com/catalog/lv.24033.li) is published on [*Linguistics Variation*](https://benjamins.com/catalog/lv) (online first).
 
