@@ -36,10 +36,10 @@ design:
 
 ## • Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)
 
-### To Appear
-• Pan, Victor Junnan (To appear). Copy and Move: Motivation and Derivation, [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
+### 2025
+• Pan, Victor Junnan (In press). Copy and Move: Motivation and Derivation, [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
-• Li, Xiangyu and Victor Junnan Pan (To appear). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv).
+• Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). (online first)
 
 ### 2024
 • 潘俊楠 杜雨橋 (2024). [工作空間定義下合併的最新發展](http://ling.cass.cn/ziyuan/qikan/ddyyx/202412/t20241217_5824575.html), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI)
