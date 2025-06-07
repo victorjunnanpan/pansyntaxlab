@@ -1,5 +1,5 @@
 ---
-title: Zetao Xu and Prof Victor Pan at The workshop on Third Factors in Language Design: the view from Heritage Languages
+title: Zetao Xu and Prof Victor Pan at The workshop on Third Factors in Language Design - the view from Heritage Languages
 date: 2025-06-06
 ---
 
