@@ -20,7 +20,7 @@ design:
 
 • Li, Xiangyu and Victor Junnan Pan (2025) ‘Locality and Anti-locality of Form-Copy: from parasitic-gap construction’, paper presented at *International Conference on Syntax and Semantics (ICSS)*, annual conference of The Society of Modern Grammar (SMOG), Gyeongkuk National University, Andong city, South Korea, August 11-13.
 
-• Xu, Zetao and Victor Junnan Pan (2025) ‘Are there Third Factor effects in language contact? Evidence from Heritage Chinese’, paper presented at *International Conference on Syntax and Semantics (ICSS)*, annual conference of The Society of Modern Grammar (SMOG), Gyeongkuk National University, Andong city, South Korea, August 11-13.
+• Xu, Zetao, Roberta D'Alessandro and Victor Junnan Pan (2025) ‘Are there Third Factor effects in language contact? Evidence from Heritage Chinese’, paper presented at *International Conference on Syntax and Semantics (ICSS)*, annual conference of The Society of Modern Grammar (SMOG), Gyeongkuk National University, Andong city, South Korea, August 11-13.
 
 • Weng, Tingting and Jiaying Huang (2025). 'Number mismatch in the Universal Quantification? On the “One-Cl-N dou V- saːi" in the Guangzhou Yue dialect', paper presented at *the 31st Annual Conference of the International Association of Chinese Linguistics (IACL-31)*, Ca’ Foscari University of Venice, Italy, July 2-4.
 
