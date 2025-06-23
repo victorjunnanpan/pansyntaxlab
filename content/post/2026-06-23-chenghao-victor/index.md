@@ -1,5 +1,5 @@
 ---
-title: Chenghao Hu and Prof Victor Pan at Workshop on The Syntax and Semantics of Auxiliaries - the view from Heritage Languages
+title: Chenghao Hu and Prof Victor Pan at Workshop on The Syntax and Semantics of Auxiliaries
 date: 2025-06-23
 ---
 
