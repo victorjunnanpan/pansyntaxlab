@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Jiaying Huang 黃嘉穎博士
+title: Jiaying Huang 黃嘉穎
 
 # Full name (for SEO)
 first_name: Jiaying
