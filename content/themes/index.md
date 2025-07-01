@@ -31,7 +31,7 @@ design:
 
 • Labeling and DP in Mandarin; (Xiangyu Li)
 
-• Form-Copy and its applications; (Xiangyu Li) 
+• Form-Copy and its applications in the nominal and verbal domains; (Xiangyu Li) 
 
 • Labeling reduced structures; (Zetao Xu)
 
@@ -39,11 +39,11 @@ design:
 
 • A’-dependency: interrogative constructions,wh-in-situ, wh-ex-situ, topicalization, cleft-sentences, relativization, resumption, non-standard interrogatives, locality, islands;
 
-• Cartography: left periphery, Sentence-Final Particles, functional projections under the Split-CP hypothesis; (Victor Pan, Dahoon Kim)
+• Cartography: left periphery, Sentence-Final Particles, functional projections under the Split-CP hypothesis; (Victor Pan, Jin Yan, Dahoon Kim)
 
 • DP structure; (Tingting Weng)
 
-• Quantification: scope-taking, bound variable, gap, resumptive pronoun; wh-quantification (Victor Pan, Zetao Xu, Dahoon Kim, Chenghao Hu)
+• Quantification: scope-taking, bound variable, gap, resumptive pronoun; wh-quantification (Victor Pan, Zetao Xu, Chenghao Hu, Jin Yan)
 
 • Diachronic Chinese syntax: object-fronting; (Victor Pan)
 
@@ -53,8 +53,6 @@ design:
 
 • Oversea Chinese and Wu dialects, language contact in Europe; (Zetao Xu, Victor Pan, in collaboration with Prof [Roberta D'Alessandro](https://www.uu.nl/staff/RAGDAlessandro) from Utrecht University, [Heritage Language Syntax (HLS)](https://sites.google.com/view/heritagelanguagesyntax/home))
 
-• Chinese as heritage language in France; (Jiaying Huang, in collaboration with Prof [Caterina Donati](https://sites.google.com/view/caterina-donati/home) from Université Paris Cité)
-
 **(iii) Minority and endangered languages (Sino-Tibetan)**
 
 • Language documentation and morpho-syntax of Qiangic languages: nDrapa; (Zetao Xu, Victor Pan)
@@ -62,5 +60,3 @@ design:
 **(iv) Neurolinguistics with formal syntax as theoretical background, brain and language**
 
 • A’-dependency: gap, *pro* and resumption; (Wanxin Li)
-
-• Relativization and its processing; (Jiaying Huang)
