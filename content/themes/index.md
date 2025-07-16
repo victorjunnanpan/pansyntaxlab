@@ -63,4 +63,4 @@ design:
 
 **(v) Syntax of sign languages**
 
-• Non-Manual Marker in Syntax and the C-I interface, multi-dimensional derivation and externalization of sign languages; (Enhsing Liu)
+• Non-Manual Marker in Syntax and the C-I interface, multi-dimensional derivation and externalization of sign languages; (En-hsing Liu)
