@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Enhsing Liu 劉恩馨
+title: En-hsing Liu 劉恩馨
 
 # Full name (for SEO)
-first_name: Enhsing
+first_name: En-hsing
 last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - Enhsing Liu
+  - En-hsing Liu
 
 # Is this the primary user of the site?
 superuser: false
