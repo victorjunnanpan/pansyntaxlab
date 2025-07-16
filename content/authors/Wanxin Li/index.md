@@ -64,5 +64,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Grad Students
 ---
+Since 2025. With CUHK university provided studentship. Supervisor: Prof Victor Junnan Pan.
