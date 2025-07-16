@@ -65,4 +65,4 @@ email: ''
 user_groups:
  - 
 ---
-Since 2023. With CUHK university provided studentship. Co-supervision with Prof Haihua Pan, Prof Yim Binh Felix Sze and Prof Victor Junnan Pan.
+Since 2023. With CUHK university provided studentship. Co-supervision with Prof Victor Junnan Pan, Prof Haihua Pan, and Prof Yim Binh Felix Sze.
