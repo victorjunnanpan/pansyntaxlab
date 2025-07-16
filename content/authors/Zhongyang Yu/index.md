@@ -65,6 +65,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Grad Students
+ - Graduate Students
 ---
 Since 2023. With CUHK university provided studentship. Co-supervision with Prof [Lawrence Y.-L. Cheung](https://ling.cuhk.edu.hk/people/faculty-linguistics/cheung-yam-leung-lawrence/) and Prof Victor Junnan Pan.
