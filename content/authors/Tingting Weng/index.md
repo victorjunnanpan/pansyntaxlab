@@ -65,6 +65,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Grad Students
+ - Graduate Students
 ---
-(2024- ) Under Hong Kong PhD Fellowship Scheme (HKPFS). Supervisor: Prof Victor Junnan Pan.
+Since 2024, under Hong Kong PhD Fellowship Scheme (HKPFS). Supervisor: Prof Victor Junnan Pan.
