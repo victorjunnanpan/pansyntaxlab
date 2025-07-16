@@ -11,7 +11,7 @@ design:
 **(i) Theoretical linguistics**
 
 - Formal linguistics, generative syntax;
-- Comparative syntax: Chinese, Chinese dialects, French, English, Qiangic languages.
+- Comparative syntax: Chinese, Chinese dialects, French, English, Qiangic languages, sign languages.
 
 **Research topics:**
 
@@ -60,3 +60,6 @@ design:
 **(iv) Neurolinguistics with formal syntax as theoretical background, brain and language**
 
 • A’-dependency: gap, *pro* and resumption; (Wanxin Li)
+
+**(v) Syntax of sign languages**
+• Non-Manual Marker in Syntax and the C-I interface, multi-dimensional derivation and externalization of sign languages; (Enhsing Liu)
