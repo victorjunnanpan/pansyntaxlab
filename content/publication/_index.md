@@ -10,7 +10,7 @@ design:
 ## • Books (Research Monographs and Edited Volumes)
 
 ### 2024
-• Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Workspace, MERGE, and Labelling](https://www.degruyter.com/journal/key/tlir/41/1/html), *The Linguistic Review*, volume 41, issue 1. (Co-edited volume of special issue)
+• Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Workspace, MERGE, and Labelling](https://www.degruyterbrill.com/journal/key/tlir/41/1/html), [*The Linguistic Review*](https://www.degruyterbrill.com/journal/key/tlir/html), volume 41, issue 1. (Co-edited volume of special issue)
 
 • Li, Xiangyu, Zetao Xu, Yuqiao Du, Chenghao Hu, Zhongyang Yu, Zhuo Chen, Victor Junnan Pan (2024). [Proceedings of the 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)](https://ling.cuhk.edu.hk/glowxiv/Proceedings_GLOWinAsia14th.pdf), *Department of Linguistics and Modern Languages, The Chinese University of Hong Kong*. (Open Access)
 
