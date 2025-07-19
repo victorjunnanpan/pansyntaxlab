@@ -57,11 +57,11 @@ design:
 
 • Pan, Victor Junnan and Chang Liu (2023). [Focus constructions involving shì in Mandarin Chinese](https://doi.org/10.3390/languages8020103), *Languages*, volume 8, issue 2, 103. (Open Access)
 
-• Li, Xiangyu and Victor Junnan Pan (2023). [How to Label via Feature-Sharing: Case of Nominal Structures in Chinese], *2022 Linearization – Proceedings of the 24th Seoul International Conference on Generative Grammar*, Tae Sik Kim & Jungu Kang (eds.), The Korean Generative Grammar Circle, Seoul: Hankook Munhwasa, 82-97.
+• Li, Xiangyu and Victor Junnan Pan (2023). How to Label via Feature-Sharing: Case of Nominal Structures in Chinese, *2022 Linearization – Proceedings of the 24th Seoul International Conference on Generative Grammar*, Tae Sik Kim & Jungu Kang (eds.), The Korean Generative Grammar Circle, Seoul: Hankook Munhwasa, 82-97.
 
 • Pan, Victor Junnan and Yihe Jiao (2023). [Object-Fronting in Archaic Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.1013), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press.
 
-• Pan, Victor Junnan (2023). [Quantification and wh-in-situ in Mandarin Chinese], *Chinese Linguistics in Rome*, Linda Badan and Chiara Romagnoli (eds.), [Collection des Cahiers de Linguistique – Asie Orientale], CRLAO, EHESS, 93-132.
+• Pan, Victor Junnan (2023). Quantification and wh-in-situ in Mandarin Chinese, *Lessons on Chinese Linguistics*, Linda Badan and Chiara Romagnoli (eds.), [Collection des Cahiers de Linguistique – Asie Orientale](https://crlao.ehess.fr/index.php?2338), CRLAO, EHESS, 93-132.
 
 • Pan, Victor Junnan and Bin Zhu (2023). [On the Syntax of Causal Clauses in Mandarin Chinese](https://benjamins.com/catalog/slcs.231.08pan), *On the Variation of Causal Clauses*, Łukasz Jędrzejowski & Constanze Fleczoreck (eds.), [Studies in Language Companion Series], John Benjamins, 221-249.
 
