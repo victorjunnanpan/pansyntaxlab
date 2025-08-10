@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Wanxin Li 李菀忻
+title: Wency Wanxin Li 李菀忻
 
 # Full name (for SEO)
-first_name: Wanxin
+first_name: Wency Wanxin
 last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - Wanxin Li
+  - Wency Wanxin Li
 
 # Is this the primary user of the site?
 superuser: false
