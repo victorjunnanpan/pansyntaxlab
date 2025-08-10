@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Ruize Wu 吳睿擇
+title: Winston Ruize Wu 吳睿擇
 
 # Full name (for SEO)
-first_name: Ruize
+first_name: Winston Ruize
 last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - Ruize Wu
+  - Winston Ruize Wu
 
 # Is this the primary user of the site?
 superuser: false
