@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Team Leader 2025-2026, PhD student
 
 # Organizations/Affiliations
 organizations:
