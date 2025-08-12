@@ -22,7 +22,7 @@ design:
 
 • Hu, Chenghao and Victor Junnan Pan (2025) ‘On subject licensing in Chinese: implications of sentence-initial root modals’, paper presented at *the 27th Seoul International Conference on Generative Grammar (SICOGG27)*, Sogang University, Seoul, South Korea, August 14-16. 
 
-• Li, Xiangyu and Victor Junnan Pan (2025) ‘Locality and Anti-locality of Form-Copy: from parasitic-gap construction’, paper presented at *International Conference on Syntax and Semantics (ICSS)*, annual conference of The Society of Modern Grammar (SMOG), Gyeongkuk National University, Andong city, South Korea, August 11-13.
+• Li, Xiangyu and Victor Junnan Pan (2025) ‘Locality and Anti-locality of Form-Copy: from parasitic-gap & Obligatory Control constructions’, paper presented at *International Conference on Syntax and Semantics (ICSS)*, annual conference of The Society of Modern Grammar (SMOG), Gyeongkuk National University, Andong city, South Korea, August 11-13.
 
 • Du, Yuqiao (2025) ‘The Radical Resource Restriction and Box Theory’, paper presented at *International Conference on Syntax and Semantics (ICSS)*, annual conference of The Society of Modern Grammar (SMOG), Gyeongkuk National University, Andong city, South Korea, August 11-13.
 
