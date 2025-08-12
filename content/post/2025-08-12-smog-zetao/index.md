@@ -1,5 +1,5 @@
 ---
-title: Zetao Xu Prof Roberta D’Alessandro and Prof Victor Pan at The International Conference on Syntax and Semantics (ICSS) 2025
+title: Zetao Xu, Prof Roberta D’Alessandro and Prof Victor Pan at The International Conference on Syntax and Semantics (ICSS) 2025
 date: 2025-08-12
 ---
 
