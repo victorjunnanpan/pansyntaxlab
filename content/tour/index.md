@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: zetaoposter.jpg
+            filename: yanjin.jpg
             filters:
               brightness: 0.7
           position: center
