@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: yanjin.jpg
+            filename: Yanjin.jpg
             filters:
               brightness: 0.7
           position: center
