@@ -41,6 +41,8 @@ design:
 
 • Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). (online first)
 
+• Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions in Yunnan Mandarin: Interaction with adverbs and derivations’, in [*2025 Syntax as the hub: Exploring the Syntax-Semantics Interface and Form-Meaning Mismatches*], Arum Kang (eds.), The Korean Generative Grammar Circle, Seoul: 302-312.
+
 ### 2024
 • 潘俊楠 杜雨橋 (2024). [工作空間定義下合併的最新發展](http://ling.cass.cn/ziyuan/qikan/ddyyx/202412/t20241217_5824575.html), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI)
 
