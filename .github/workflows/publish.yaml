@@ -63,6 +63,12 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Check required assets
+        run: |
+         if [ ! -f assets/media/zetaoposter.jpg ]; then
+          echo "Missing required image: zetaoposter.jpg"
+          exit 1
+         fi
           
   deploy:
     if: github.repository_owner != 'HugoBlox'
