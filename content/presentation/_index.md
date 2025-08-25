@@ -12,9 +12,15 @@ design:
 
 ### 2025
 
+• Li, Xiangyu and Victor Junnan Pan (2025) ‘Phi-Agree licensing movement and N-ellipsis: Agreeing modifiers and nominalizers’, paper presented at *The annual conference of the Australian Linguistic Society 2025 (ALS 2025)*, Griffith University, Gold Coast, Australia, December 2-5.
+
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions with interrogative adverbs in Chinese’, paper presented at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
+• Victor Junnan Pan (2025) ‘Multi-Dimensional MERGE’, invited talk at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
+
 • Li, Xiangyu and Victor Junnan Pan (2025) ‘Distribution of nominal modifiers in classifier languages: a labeling approach’, paper presented at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
+
+• Xu, Zetao, Roberta D'Alessandro and Victor Junnan Pan (2025) ‘Number agreement in heritage Chinese in Europe’, paper presented at *Heritage Language Syntax 6*, Boğaziçi University, Istanbul, Türkiye, November 6-7.
 
 • Xu, Zetao and Victor Junnan Pan (2025). ‘Grammaticalization of demonstratives and the nominal structure in nDrapa’, paper presented at *58th International Conference on Sino-Tibetan Languages and Linguistics (ICSTLL58)*, University of Bern, Switzerland, September 3-5. 
 
