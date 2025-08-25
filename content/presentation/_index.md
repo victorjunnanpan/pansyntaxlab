@@ -22,6 +22,8 @@ design:
 
 • Xu, Zetao, Roberta D'Alessandro and Victor Junnan Pan (2025) ‘Number agreement in heritage Chinese in Europe’, paper presented at *Heritage Language Syntax 6*, Boğaziçi University, Istanbul, Türkiye, November 6-7.
 
+• 潘俊楠  (2025). '以極簡的自由合併框架觀語言之複雜表象'(Deriving “complicated” language phenomena under the “simplest” free MERGE framework), 主旨演讲, 第七届“走向新描写主义”国际研讨会, Macau University of Science and Technology, September 20-21.
+
 • Xu, Zetao and Victor Junnan Pan (2025). ‘Grammaticalization of demonstratives and the nominal structure in nDrapa’, paper presented at *58th International Conference on Sino-Tibetan Languages and Linguistics (ICSTLL58)*, University of Bern, Switzerland, September 3-5. 
 
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar question in Yunnan Mandarin: interaction with adverbs and derivation’, poster presented at *the 27th Seoul International Conference on Generative Grammar (SICOGG27)*, Sogang University, Seoul, South Korea, August 14-16. 
