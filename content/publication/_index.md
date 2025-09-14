@@ -36,9 +36,10 @@ design:
 
 ## • Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)
 
-### 2025
+### 2026
 • Pan, Victor Junnan (In press). Copy and Move: Motivation and Derivation, [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
+### 2025
 • Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). (online first)
 
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions in Yunnan Mandarin: Interaction with adverbs and derivations’, in [*2025 Syntax as the hub: Exploring the Syntax-Semantics Interface and Form-Meaning Mismatches*], Arum Kang (eds.), The Korean Generative Grammar Circle, Seoul: 302-312.
