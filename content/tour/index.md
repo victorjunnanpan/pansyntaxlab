@@ -36,8 +36,8 @@ sections:
             filename: contact.jpg
             filters:
               brightness: 0.7
-          position: center
-          color: '#666'
+           position: center
+           color: '#666'
       - title:
         content:
         align: right
