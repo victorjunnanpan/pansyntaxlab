@@ -22,10 +22,10 @@ sections:
          content:
          align: right
          background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
+           image:
+             filename: contact.jpg
+             filters:
+               brightness: 0.7
            position: center
            color: '#666'
       - title:
