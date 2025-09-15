@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: We are doing generative syntax; especially, the Minimalist Program.
+       - title: We are doing generative syntax; especially, the Minimalist Program.
          content:
          align: right
          background:
