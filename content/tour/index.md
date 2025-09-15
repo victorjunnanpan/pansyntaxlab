@@ -18,6 +18,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title:
+        content: 
+        align: center
+        background:
+          image:
+            filename: team2025.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: We are doing generative syntax; especially, the Minimalist Program.
         content:
         align: right
