@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Winston Ruize Wu 吳睿擇
+title: Winston Ruize Wu 吳叡擇
 
 # Full name (for SEO)
 first_name: Winston Ruize
