@@ -22,7 +22,7 @@ design:
 
 • Xu, Zetao, Roberta D'Alessandro and Victor Junnan Pan (2025) ‘Number agreement in heritage Chinese in Europe’, paper presented at *Heritage Language Syntax 6*, Boğaziçi University, Istanbul, Türkiye, November 6-7.
 
-• 潘俊楠  (2025). '以極簡的自由合併框架觀語言之複雜表象'(Deriving “complicated” language phenomena under the “simplest” free MERGE framework), 主旨演讲, 第七届“走向新描写主义”国际研讨会, Macau University of Science and Technology, September 20-21.
+• 潘俊楠  (2025). '以極簡的自由合併框架觀語言之複雜表象'(Deriving “complicated” language phenomena under the “simplest” free MERGE framework), Keynote speech, 第七屆“走向新描寫主義”國際研討會, Macau University of Science and Technology, September 20-21.
 
 • 徐澤韜 （2025）. '漢語繼承語的數量一致性', paper presented at 第三屆京滬港澳高校中文學科研究生論壇, Fudan University, Shanghai, September 20-21. 
 
