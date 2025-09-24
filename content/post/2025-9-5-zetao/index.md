@@ -1,6 +1,8 @@
 ---
 title: Zetao Xu and Prof Victor Pan at ICSTLL-58
 date: 2025-09-05
+image:
+  focal_point: 'top'
 ---
 
 Zetao presented the paper “Grammaticalization of demonstratives and the nominal structure in nDrapa”, collaborated with Prof Victor Pan, at The 58th International Conference on Sino-Tibetan Languages and Linguistics (ICSTLL-58), University of Bern, Switzerland, September 3-5.
