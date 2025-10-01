@@ -22,7 +22,9 @@ design:
 
 • Xu, Zetao, Roberta D'Alessandro and Victor Junnan Pan (2025) ‘Number agreement in heritage Chinese in Europe’, paper presented at *Heritage Language Syntax 6*, Boğaziçi University, Istanbul, Türkiye, November 6-7.
 
-• 潘俊楠  (2025). '以極簡的自由合併框架觀語言之複雜表象'(Deriving “complicated” language phenomena under the “simplest” free MERGE framework), Keynote speech, 第七屆“走向新描寫主義”國際研討會, Macau University of Science and Technology, September 20-21.
+• Victor Junnan Pan (2025) ‘On the Syntactic Hierarchy of Wh-words in Mandarin Chinese’ (現代漢語疑問詞的句法層級再探), invited talk at The International Roundtable on Comparative Syntax (比較句法國際圓桌論壇), Linguistics Institute, National Tsing Hua University, Hsin-Chu, October 17-19.
+
+• 潘俊楠  (2025). '以極簡的自由合併框架觀語言之複雜表象'(Deriving “complicated” language phenomena under the “simplest” free MERGE framework), Keynote speech, 第七屆“走向新描寫主義”國際研討會, Macau University of Science and Technology, Macau, September 20-21.
 
 • 徐澤韜 （2025）. '漢語繼承語的數量一致性', paper presented at 第三屆京滬港澳高校中文學科研究生論壇, Fudan University, Shanghai, September 20-21. 
 
@@ -48,7 +50,7 @@ design:
 
 • Xu, Zetao and Victor Junnan Pan (2025). 'The dynamics of resumptive pronouns: Change and stability in Heritage Chinese in the Netherlands', paper presented at *Pacific Second Language Research Forum 2025 in conjunction with Conference on Innovation in L2 Chinese Acquisition Research*, Shanghai Jiaotong University, May 30-June 1.
 
-• 潘俊楠  (2025). [‘最簡方案下的多維合併機制及標籤算法 (Multi-dimensional MERGE in the Minimalist Program and the Labelling Algorithm)'](https://lingsights.tw/articles/66), invited lecture given at the department of foreign languages and literatures of National Yang Ming Chiao Tung University (陽明交通大學外國語文學系), Taiwan, May 23. 
+• 潘俊楠  (2025). [‘最簡方案下的多維合併機制及標籤算法 (Multi-dimensional MERGE in the Minimalist Program and the Labelling Algorithm)'](https://lingsights.tw/articles/66), invited lecture given at the department of foreign languages and literatures of National Yang Ming Chiao Tung University (陽明交通大學外國語文學系), May 23. 
 
 • Hu, Chenghao and Victor Junnan Pan (2025). 'Chinese Nominal Structure: on Plural Marker and Pronouns', paper presented at *34th Colloquium on Generative Grammar (CGG34)*, the National University of Distance Education (UNED), Madrid, Spain, May 7-9. 
 
