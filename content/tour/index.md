@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: team2025fall.jpg
+            filename: team2025fall.JPG
             filters:
               brightness: 0.7
           position: center
