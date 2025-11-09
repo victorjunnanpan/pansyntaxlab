@@ -16,7 +16,7 @@ design:
 
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions with interrogative adverbs in Chinese’, paper presented at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
-• Victor Junnan Pan (2025) ‘Multi-Dimensional MERGE’, invited talk at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
+• Victor Junnan Pan (2025) ‘Free-MERGE Across Multi-Dimensions: Derivation and Application’, invited talk at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
 • Li, Xiangyu and Victor Junnan Pan (2025) ‘Distribution of nominal modifiers in classifier languages: a labeling approach’, paper presented at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
