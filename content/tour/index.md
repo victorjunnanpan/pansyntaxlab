@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#666'
-     - title:
+      - title:
         content:
         align: right
         background:
