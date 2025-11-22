@@ -40,7 +40,7 @@ design:
 • Pan, Victor Junnan (In press). Copy and Move: Motivation and Derivation, [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
 ### 2025
-• Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). (online first)
+• Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). (online first) (ESCI)
 
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions in Yunnan Mandarin: Interaction with adverbs and derivations’, in [*2025 Syntax as the hub: Exploring the Syntax-Semantics Interface and Form-Meaning Mismatches*], Arum Kang (eds.), The Korean Generative Grammar Circle, Seoul: 302-312.
 
@@ -58,7 +58,7 @@ design:
 ### 2023
 • Xu, Zetao and Victor Junnan Pan (2023). [A case of pseudo-optionality as a consequence of language contact](https://lingv.ro/wp-content/uploads/2023/12/RRL-3-2023-7.-XuJunnan.pdf), *Revue Roumaine de Linguistique*, volume LXVIII, issue 3, 285-299. (SSCI) (Open Access)
 
-• Pan, Victor Junnan and Chang Liu (2023). [Focus constructions involving shì in Mandarin Chinese](https://doi.org/10.3390/languages8020103), *Languages*, volume 8, issue 2, 103. (Open Access)
+• Pan, Victor Junnan and Chang Liu (2023). [Focus constructions involving shì in Mandarin Chinese](https://doi.org/10.3390/languages8020103), *Languages*, volume 8, issue 2, 103. (ESCI) (Open Access)
 
 • Li, Xiangyu and Victor Junnan Pan (2023). How to Label via Feature-Sharing: Case of Nominal Structures in Chinese, *2022 Linearization – Proceedings of the 24th Seoul International Conference on Generative Grammar*, Tae Sik Kim & Jungu Kang (eds.), The Korean Generative Grammar Circle, Seoul: Hankook Munhwasa, 82-97.
 
@@ -112,7 +112,7 @@ design:
 • Pan, Victor Junnan and Waltraud Paul (2017). [What you see is what you get: Chinese sentence-final particles as head-final complementisers](https://www.degruyter.com/view/books/9783110497151/9783110497151003/9783110497151-003.xml), *Discourse Particles – Formal Approaches to their Syntax and Semantics*, J. Bayer & V. Struckmeier (eds.), [Linguistiche Arbeiten], Berlin: Mouton De Gruyter, 49-77.
 
 ### 2016
-• Pan, Victor Junnan (2016). [Resumptivity and Two Types of A’-dependencies in Minimalist Program](https://benjamins.com/#catalog/journals/ijchl.3.1.02pan/details), *International Journal of Chinese Linguistics (IJChL)*, volume 3, issue 1, 46-79.
+• Pan, Victor Junnan (2016). [Resumptivity and Two Types of A’-dependencies in Minimalist Program](https://benjamins.com/#catalog/journals/ijchl.3.1.02pan/details), *International Journal of Chinese Linguistics (IJChL)*, volume 3, issue 1, 46-79. (ESCI)
 
 • Pan, Victor Junnan and Waltraud Paul (2016). [Why Chinese SFPs are neither optional nor disjunctors](http://www.sciencedirect.com/science/article/pii/S0024384115002004), *Lingua*, volume 170, 23-34. (SSCI)
 
