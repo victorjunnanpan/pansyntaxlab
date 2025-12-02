@@ -1,5 +1,5 @@
 ---
-title: Prof Victor Pan at ICFL-2025
+title: Invited Talk of Prof Victor Pan at ICFL-2025
 date: 2025-11-08
 image:
   focal_point: 'top'
