@@ -10,6 +10,12 @@ design:
 
 ## • Presentations (Keynote Speeches, Invited Conference Talks, Invited Lectures, Peer-Reviewed Conference Talks and Posters)
 
+
+### 2026
+
+• Victor Junnan Pan (2026). ‘The Nominal System in nDrapa’, invited talk at *Workshop on recent issues in syntax and semantics*, Dongguk University, Seoul, Korea, January 9. 
+
+
 ### 2025
 
 • Li, Xiangyu and Victor Junnan Pan (2025) ‘Phi-Agree licensing movement and N-ellipsis: Agreeing modifiers and nominalizers’, paper presented at *The annual conference of the Australian Linguistic Society 2025 (ALS 2025)*, Griffith University, Gold Coast, Australia, December 2-5.
