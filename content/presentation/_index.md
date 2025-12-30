@@ -13,7 +13,7 @@ design:
 
 ### 2026
 
-• Victor Junnan Pan (2026). ‘The Nominal System in nDrapa’, invited talk at *Workshop on recent issues in syntax and semantics*, Dongguk University, Seoul, Korea, January 9. 
+• Victor Junnan Pan (collaborated with Zetao Xu) (2026). ‘The Nominal System in nDrapa’, invited talk at 2026 Joint Seminar on Miracle Creed New Horizons of Linguistics – in the Humanities, hosted by GKNU Institute of Humanities and SMOG Syntax Circle, Gyeongkuk National University, Andong, South Korea, January 9. 
 
 
 ### 2025
