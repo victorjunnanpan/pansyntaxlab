@@ -15,7 +15,7 @@ design:
 
 • Chen, Zhuo and Victor Junnan Pan (2026) ‘Mandarin unconditionals and the typology of adverbial clauses’, paper presented at *The 6th International Conference on Adverbial Clauses/Adverbial Clauses: New Horizons*, Free University of Berlin, Germany, March 9-10.
 
-• Victor Junnan Pan (collaborated with Zetao Xu) (2026). ‘The Nominal System in nDrapa’, invited talk at *2026 Joint Seminar on Miracle Creed New Horizons of Linguistics – in the Humanities*, hosted by GKNU Institute of Humanities and SMOG Syntax Circle, Gyeongkuk National University, Andong, South Korea, January 9. 
+• Victor Junnan Pan and Zetao Xu (2026). ‘The Nominal System in nDrapa’, invited talk at *2026 Joint Seminar on Miracle Creed New Horizons of Linguistics – in the Humanities*, hosted by GKNU Institute of Humanities and SMOG Syntax Circle, Gyeongkuk National University, Andong, South Korea, January 9. 
 
 
 ### 2025
