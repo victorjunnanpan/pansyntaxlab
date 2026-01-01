@@ -57,6 +57,12 @@ design:
 
 • Language documentation and morpho-syntax of Qiangic languages: nDrapa; (Zetao Xu, Victor Pan)
 
+• Nominal system in nDrapa; (Zetao Xu, Victor Pan)
+
+• Wh-elements in nDrapa; (Victor Pan, Zetao Xu)
+
+• Functional morphemes and particles in nDrapa; (Victor Pan, Zetao Xu)
+
 **(iv) Neurolinguistics with formal syntax as theoretical background, brain and language**
 
 • A’-dependency: gap, *pro* and resumption; (Wanxin Li)
