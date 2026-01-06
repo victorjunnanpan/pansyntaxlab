@@ -17,7 +17,7 @@ design:
 
 • Li, Wency Wanxin (2026) 'An ERP study of the distinction between pro and trace in Mandarin Chinese', poster presented at the Neurolinguistics Workshop at *the 34th Conference of the Student Organization of Linguistics in Europe (ConSOLE34)*, IUSS, Pavia, Italy, January 28.
 
-• Victor Junnan Pan and Zetao Xu (2026). ‘The Nominal System in nDrapa’, invited talk at *2026 Joint Seminar on Miracle Creed New Horizons of Linguistics – in the Humanities*, hosted by GKNU Institute of Humanities and SMOG Syntax Circle, Gyeongkuk National University, Andong, South Korea, January 9. 
+• Pan, Victor Junnan and Zetao Xu (2026). ‘The Nominal System in nDrapa’, invited talk at *2026 Joint Seminar on Miracle Creed New Horizons of Linguistics – in the Humanities*, hosted by GKNU Institute of Humanities and SMOG Syntax Circle, Gyeongkuk National University, Andong, South Korea, January 9. 
 
 
 ### 2025
@@ -26,13 +26,13 @@ design:
 
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions with interrogative adverbs in Chinese’, paper presented at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
-• Victor Junnan Pan (2025) ‘Free-MERGE Across Multi-Dimensions: Derivation and Application’, invited talk at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
+• Pan, Victor Junnan (2025) ‘Free-MERGE Across Multi-Dimensions: Derivation and Application’, invited talk at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
 • Li, Xiangyu and Victor Junnan Pan (2025) ‘Distribution of nominal modifiers in classifier languages: a labeling approach’, paper presented at *International Conference on Formal Linguistics (ICFL-2025)*, Guangdong University of Foreign Studies, Guangzhou, November 8-9.
 
 • Xu, Zetao, Roberta D'Alessandro and Victor Junnan Pan (2025) ‘Number agreement in heritage Chinese in Europe’, paper presented at *Heritage Language Syntax 6*, Boğaziçi University, Istanbul, Türkiye, November 6-7.
 
-• Victor Junnan Pan (2025) ‘On the Syntactic Hierarchy of Wh-words in Mandarin Chinese’ (現代漢語疑問詞的句法層級再探), invited talk at The International Roundtable on Comparative Syntax (比較句法國際圓桌論壇), Linguistics Institute, National Tsing Hua University, Hsin-Chu, October 17-19.
+• Pan, Victor Junnan (2025) ‘On the Syntactic Hierarchy of Wh-words in Mandarin Chinese’ (現代漢語疑問詞的句法層級再探), invited talk at The International Roundtable on Comparative Syntax (比較句法國際圓桌論壇), Linguistics Institute, National Tsing Hua University, Hsin-Chu, October 17-19.
 
 • 潘俊楠  (2025). '以極簡的自由合併框架觀語言之複雜表象'(Deriving “complicated” language phenomena under the “simplest” free MERGE framework), Keynote speech, 第七屆“走向新描寫主義”國際研討會, Macau University of Science and Technology, Macau, September 20-21.
 
