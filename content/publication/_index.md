@@ -39,7 +39,7 @@ design:
 ### 2026
 • Pan, Victor Junnan (In press). Copy and Move: Motivation and Derivation, [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
-• 徐澤韜 潘俊楠  (待刊) ‘漢語複數標記在不同接觸模式下的不同演變特徵’, (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios) *中國語文通訊 (Current Research in Chinese Linguistics)* (CSSCI)
+• 徐澤韜 潘俊楠  (待刊) ‘漢語複數標記在不同接觸模式下的不同演變特徵’, (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios), *中國語文通訊 (Current Research in Chinese Linguistics)*. (CSSCI)
 
 ### 2025
 • Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). (online first) (ESCI)
