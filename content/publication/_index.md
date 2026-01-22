@@ -51,16 +51,16 @@ design:
 ### 2024
 • 潘俊楠 杜雨橋 (2024). [工作空間定義下合併的最新發展](http://ling.cass.cn/ziyuan/qikan/ddyyx/202412/t20241217_5824575.html), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI)
 
-• Pan, Victor Junnan and Yuqiao Du (2024). [A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface](https://www.degruyter.com/document/doi/10.1515/tlr-2024-2004/html), *The Linguistic Review*, volume 41, issue 1, 85-117. (SSCI) (Open Access)
+• Pan, Victor Junnan and Yuqiao Du (2024). [A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface](https://www.degruyter.com/document/doi/10.1515/tlr-2024-2004/html), *The Linguistic Review*, volume 41, issue 1, 85-117. (SSCI, AHCI) (Open Access)
 
-• Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Introduction: workspace, MERGE and labelling](https://www.degruyter.com/document/doi/10.1515/tlr-2024-2001/html), *The Linguistic Review*, volume 41, issue 1, 1-5. (SSCI) (Open Access)
+• Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Introduction: workspace, MERGE and labelling](https://www.degruyter.com/document/doi/10.1515/tlr-2024-2001/html), *The Linguistic Review*, volume 41, issue 1, 1-5. (SSCI, AHCI) (Open Access)
 
 • Lee, Tommy Tsz-Ming and Victor Junnan Pan (2024). [Licensing VP movement and ellipsis in Mandarin and Cantonese](http://www.lingref.com/cpp/wccfl/40/paper3711.pdf), *Proceedings of The 40th Meeting of the West Coast Conference on Formal Linguistics (WCCFL 40)*, Jiayi Lu, Erika Petersen, Anissa Zaitsu, and Boris Harizanov (eds.), Stanford University, 192-201, Somerville, MA: Cascadilla Proceedings Project. (http://www.lingref.com/cpp/wccfl/40/index.html)
 
 • Du, Yuqiao (2024). Double Sideward Movement is Form-Sequence: Japanese Surprising Constituents. in *Proceedings of the 17th Workshop on Altaic Formal Linguistics (WAFL17)*, Edited by Erdene-Ochir Tumen-Ochir, Julia Sinitsyna, and Shigeru Miyagawa, *MIT working papers on linguistics*, 57-68.
 
 ### 2023
-• Xu, Zetao and Victor Junnan Pan (2023). [A case of pseudo-optionality as a consequence of language contact](https://lingv.ro/wp-content/uploads/2023/12/RRL-3-2023-7.-XuJunnan.pdf), *Revue Roumaine de Linguistique*, volume LXVIII, issue 3, 285-299. (SSCI) (Open Access)
+• Xu, Zetao and Victor Junnan Pan (2023). [A case of pseudo-optionality as a consequence of language contact](https://lingv.ro/wp-content/uploads/2023/12/RRL-3-2023-7.-XuJunnan.pdf), *Revue Roumaine de Linguistique*, volume LXVIII, issue 3, 285-299. (SSCI, AHCI) (Open Access)
 
 • Pan, Victor Junnan and Chang Liu (2023). [Focus constructions involving shì in Mandarin Chinese](https://doi.org/10.3390/languages8020103), *Languages*, volume 8, issue 2, 103. (ESCI) (Open Access)
 
@@ -80,7 +80,7 @@ design:
 ### 2022
 • 潘俊楠 徐澤韜 (2022). [現代漢語疑問詞的句法層級再探 (On the Syntactic Hierarchy of Wh-words in Mandarin Chinese)], *語言學論叢 (Essays on Linguistics)*, volume 1, 100-124. (CSSCI)
 
-• Pan, Victor Junnan (2022). [Deriving Head-Final Order in the Peripheral Domain of Chinese](https://doi.org/10.1162/ling_a_00396), *Linguistic Inquiry*, volume 53, issue 1, 121-154. (SSCI)
+• Pan, Victor Junnan (2022). [Deriving Head-Final Order in the Peripheral Domain of Chinese](https://doi.org/10.1162/ling_a_00396), *Linguistic Inquiry*, volume 53, issue 1, 121-154. (SSCI, AHCI)
 
 • Pan, Victor Junnan (2022). [Resumption in Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.897), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press.
 
@@ -107,7 +107,7 @@ design:
 • 潘俊楠 (2018). [最簡方案下的標籤理論 (Labeling in the Minimalist Program)], *語言學研究 (Linguistic Research)*, volume 25, 5-15.
 
 ### 2017
-• Fernandez-Vest, M.M. Jocelyne, Marri Amon, Karl-Erland Gadelii, Victor Junnan Pan, Jirasak Achariyayos and Danh-Thàn Do-Hurinville (2017). [Information structuring of dialogic pairs from a cross-linguistic perspective: Evidence from some European and Asian languages](https://www.degruyter.com/view/j/stuf.2017.70.issue-3/stuf-2017-0020/stuf-2017-0020.xml), *Language Typology and Universals (STUF)*, volume 70, issue 3, 391-453. (SSCI)
+• Fernandez-Vest, M.M. Jocelyne, Marri Amon, Karl-Erland Gadelii, Victor Junnan Pan, Jirasak Achariyayos and Danh-Thàn Do-Hurinville (2017). [Information structuring of dialogic pairs from a cross-linguistic perspective: Evidence from some European and Asian languages](https://www.degruyter.com/view/j/stuf.2017.70.issue-3/stuf-2017-0020/stuf-2017-0020.xml), *Language Typology and Universals (STUF)*, volume 70, issue 3, 391-453. (ESCI)
 
 • Pan, Victor Junnan (2017). [Phasal Agree as Precondition on Multiple Transfers: Evidence From A-bar Dependency in Chinese], *2017 The Syntax-Morphology Interface in Generative Grammar: Proceedings of The 19th Seoul International Conference on Generative Grammar*, Changguk Yim (eds.), The Korean Generative Grammar Circle, 261-276.
 
@@ -118,10 +118,10 @@ design:
 ### 2016
 • Pan, Victor Junnan (2016). [Resumptivity and Two Types of A’-dependencies in Minimalist Program](https://benjamins.com/#catalog/journals/ijchl.3.1.02pan/details), *International Journal of Chinese Linguistics (IJChL)*, volume 3, issue 1, 46-79. (ESCI)
 
-• Pan, Victor Junnan and Waltraud Paul (2016). [Why Chinese SFPs are neither optional nor disjunctors](http://www.sciencedirect.com/science/article/pii/S0024384115002004), *Lingua*, volume 170, 23-34. (SSCI)
+• Pan, Victor Junnan and Waltraud Paul (2016). [Why Chinese SFPs are neither optional nor disjunctors](http://www.sciencedirect.com/science/article/pii/S0024384115002004), *Lingua*, volume 170, 23-34. (SSCI, AHCI)
 
 ### 2015
-• Pan, Victor Junnan (2015). [Mandarin Peripheral Construals at Syntax-Discourse Interface](https://www.degruyter.com/view/j/tlir.2015.32.issue-4/tlr-2015-0005/tlr-2015-0005.xml), *The Linguistic Review*, volume 32, issue 4, 819-868. (SSCI)
+• Pan, Victor Junnan (2015). [Mandarin Peripheral Construals at Syntax-Discourse Interface](https://www.degruyter.com/view/j/tlir.2015.32.issue-4/tlr-2015-0005/tlr-2015-0005.xml), *The Linguistic Review*, volume 32, issue 4, 819-868. (SSCI, AHCI)
 
 • Pan, Victor Junnan (2015). [Prosodic Licensing of Wh-in-situ in Mandarin Chinese](https://naccl.osu.edu/proceedings/naccl-27), *Proceedings of The 27th North American Conference on Chinese Linguistics*, Tao, Hongyin et al. (eds.), University of California, Los Angeles, 305-321.
 
