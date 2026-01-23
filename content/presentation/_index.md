@@ -17,6 +17,8 @@ design:
 
 • 李翔羽 潘俊楠 (2026) ‘基于控制结构的新分析：“他革他的命，你复你的古”’, paper presented at the 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, China, June 12–14.
 
+• Yan, Jin and Victor Junnan Pan (2026) 'Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min', paper presented at the III Workshop on Linguistic Variation at Interfaces (VARINT 2026), University of Girona, Spain, March 19-20.
+
 • Chen, Zhuo and Victor Junnan Pan (2026) ‘Mandarin unconditionals and the typology of adverbial clauses’, paper presented at *The 6th International Conference on Adverbial Clauses/Adverbial Clauses: New Horizons*, Free University of Berlin, Germany, March 9-10.
 
 • Li, Wency Wanxin (2026) 'An ERP study of the distinction between pro and trace in Mandarin Chinese', poster presented at the Neurolinguistics Workshop at *the 34th Conference of the Student Organization of Linguistics in Europe (ConSOLE34)*, IUSS, Pavia, Italy, January 28.
