@@ -13,13 +13,13 @@ design:
 
 ### 2026
 
-• 徐泽韬(2026) ‘上古汉语复指代词探析’, paper presented at the 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, June 12–14.
+• 徐泽韬(2026) ‘上古汉语复指代词探析’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
 
-• Li, Wency Wanxin and Chenghao Hu (2026) ‘A corpus study on the acquisition of Sentence-Final Particles in Cantonese and Mandarin’, paper presented at the 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, June 12–14.
+• Li, Wency Wanxin and Chenghao Hu (2026) ‘A corpus study on the acquisition of Sentence-Final Particles in Cantonese and Mandarin’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, June 12–14.
 
-• 李翔羽 潘俊楠 (2026) ‘基于控制结构的新分析：“他革他的命，你复你的古”’, paper presented at the 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, June 12–14.
+• 李翔羽 潘俊楠 (2026) ‘基于控制结构的新分析：“他革他的命，你复你的古”’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
 
-• Yan, Jin and Victor Junnan Pan (2026) 'Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min', paper presented at the III Workshop on Linguistic Variation at Interfaces (VARINT 2026), University of Girona, Spain, March 19-20.
+• Yan, Jin and Victor Junnan Pan (2026) 'Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min', paper presented at *The III Workshop on Linguistic Variation at Interfaces (VARINT 2026)*, University of Girona, Spain, March 19-20.
 
 • Chen, Zhuo and Victor Junnan Pan (2026) ‘Mandarin unconditionals and the typology of adverbial clauses’, paper presented at *The 6th International Conference on Adverbial Clauses/Adverbial Clauses: New Horizons*, Free University of Berlin, Germany, March 9-10.
 
@@ -40,7 +40,7 @@ design:
 
 • Xu, Zetao, Roberta D'Alessandro and Victor Junnan Pan (2025) ‘Number agreement in heritage Chinese in Europe’, paper presented at *Heritage Language Syntax 6*, Boğaziçi University, Istanbul, Türkiye, November 6-7.
 
-• Pan, Victor Junnan (2025) ‘On the Syntactic Hierarchy of Wh-words in Mandarin Chinese’ (現代漢語疑問詞的句法層級再探), invited talk at The International Roundtable on Comparative Syntax (比較句法國際圓桌論壇), Linguistics Institute, National Tsing Hua University, Hsin-Chu, October 17-19.
+• Pan, Victor Junnan (2025) ‘On the Syntactic Hierarchy of Wh-words in Mandarin Chinese’ (現代漢語疑問詞的句法層級再探), invited talk at *The International Roundtable on Comparative Syntax* (比較句法國際圓桌論壇), Linguistics Institute, National Tsing Hua University, Hsin-Chu, October 17-19.
 
 • 潘俊楠  (2025). '以極簡的自由合併框架觀語言之複雜表象'(Deriving “complicated” language phenomena under the “simplest” free MERGE framework), Keynote speech, 第七屆“走向新描寫主義”國際研討會, Macau University of Science and Technology, Macau, September 20-21.
 
