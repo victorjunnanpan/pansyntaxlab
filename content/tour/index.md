@@ -37,6 +37,16 @@ sections:
             filters:
               brightness: 0.7
           position: center
+          color: '#666'   
+      - title:
+        content:
+        align: right
+        background:
+          image:
+            filename: Wency.jpg
+            filters:
+              brightness: 0.7
+          position: center
           color: '#666'
       - title:
         content:
