@@ -1,5 +1,5 @@
 ---
-title: Conferences organization
+title: Conferences
 Date: 2025
 type: page
 design: 
