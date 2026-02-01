@@ -14,7 +14,7 @@ main:
     url: post
     weight: 30
   - name: Conferences
-    url: post
+    url: Conferences
     weight: 40
   - name: People
     url: people
