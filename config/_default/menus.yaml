@@ -13,18 +13,21 @@ main:
   - name: News
     url: post
     weight: 30
+  - name: Conferences
+    url: post
+    weight: 40
   - name: People
     url: people
-    weight: 40
+    weight: 50
   - name: Projects
     url: projects
-    weight: 50
+    weight: 60
   - name: Publications
     url: publication
-    weight: 60
+    weight: 70
   - name: Presentations
     url: presentation
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
