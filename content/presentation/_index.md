@@ -13,6 +13,8 @@ design:
 
 ### 2026
 
+• Yan, Jin and Victor Junnan Pan (2026) 'Toward a typology of yes/no questions in Mandarin Chinese dialects: temporal and spatial evolutions', paper presented at Methods in Dialectology and Language Diversity XIX (Methods XIX), University of British Columbia, Vancouver, Canada, August 4-7.
+
 • 徐泽韬(2026) ‘上古汉语复指代词探析’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
 
 • Li, Wency Wanxin and Chenghao Hu (2026) ‘A corpus study on the acquisition of Sentence-Final Particles in Cantonese and Mandarin’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, June 12–14.
