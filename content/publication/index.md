@@ -7,7 +7,7 @@ design:
   css_style: 'max-width: 180%; font-size: 16px !important;'
 
 ---
-## • Books (Research Monographs and Edited Volumes)
+### **• Books (Research Monographs and Edited Volumes)**
 
 ### 2024
 • Pan, Victor Junnan, Mamoru Saito and Yuqiao Du (2024). [Workspace, MERGE, and Labelling](https://www.degruyterbrill.com/journal/key/tlir/41/1/html), [*The Linguistic Review*](https://www.degruyterbrill.com/journal/key/tlir/html), volume 41, issue 1. (Co-edited volume of special issue)
@@ -38,7 +38,7 @@ design:
 ## ——————————
 
 
-## • Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)
+### **• Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)**
 
 ### 2026
 • Pan, Victor Junnan (In press). Copy and Move: Motivation and Derivation, [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
