@@ -8,7 +8,7 @@ design:
 
 ---
 
-## **(i) Theoretical linguistics**
+### **(i) Theoretical linguistics**
 
 - Formal linguistics, generative syntax;
 - Comparative syntax: Chinese, Chinese dialects, French, English, Qiangic languages, sign languages.
@@ -49,11 +49,11 @@ design:
 
 • Interface: syntax-semantics, syntax-information structure, syntax-prosody;
 
-## **(ii) Heritage language and language contact**
+### **(ii) Heritage language and language contact**
 
 • Oversea Chinese and Wu dialects, language contact in Europe; (Zetao Xu, Victor Pan, in collaboration with Prof [Roberta D'Alessandro](https://www.uu.nl/staff/RAGDAlessandro) from Utrecht University, [Heritage Language Syntax (HLS)](https://sites.google.com/view/heritagelanguagesyntax/home))
 
-## **(iii) Minority and endangered languages (Sino-Tibetan)**
+### **(iii) Minority and endangered languages (Sino-Tibetan)**
 
 • Language documentation and morpho-syntax of Qiangic languages: nDrapa; (Zetao Xu, Victor Pan)
 
@@ -63,10 +63,10 @@ design:
 
 • Functional morphemes and particles in nDrapa; (Victor Pan, Zetao Xu)
 
-## **(iv) Neurolinguistics with formal syntax as theoretical background, brain and language**
+### **(iv) Neurolinguistics with formal syntax as theoretical background, brain and language**
 
 • A’-dependency: gap, *pro* and resumption; (Wanxin Li)
 
-## **(v) Syntax of sign languages**
+### **(v) Syntax of sign languages**
 
 • Non-Manual Marker in Syntax and the C-I interface, derivation and externalization of sign languages; (En-hsing Liu)
