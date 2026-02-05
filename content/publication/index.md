@@ -32,9 +32,11 @@ design:
 
 ### 2011
 • Pan, Victor Junnan (2011). [Interrogatives et quantification en chinois mandarin: une approche générative](http://www.pur-editions.fr/detail.php?idOuv=2686), *Collection Rivages Linguistiques, Presses Universitaires de Rennes*. 250 pages. (Written in French)
+
  
-## 
-  
+## ————————————————————————————————————————————————————————
+
+
 ## • Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)
 
 ### 2026
