@@ -23,6 +23,8 @@ design:
 
 • Yan, Jin and Victor Junnan Pan (2026) 'Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min', paper presented at *The III Workshop on Linguistic Variation at Interfaces (VARINT 2026)*, University of Girona, Spain, March 19-20.
 
+• Xu, Zetao (2026). 'The DP structure of nDrapa: when a classifier and a definite marker co-occur', paper presented at *GLOW in Asia 2026 The 2nd Workshop for Young Scholars (GLOW-in-Asia-WYS)*, Nanzan University, Nagoya, Japan, March 13-15.
+
 • Chen, Zhuo and Victor Junnan Pan (2026) ‘Mandarin unconditionals and the typology of adverbial clauses’, paper presented at *The 6th International Conference on Adverbial Clauses/Adverbial Clauses: New Horizons*, Free University of Berlin, Germany, March 9-10.
 
 • Li, Wency Wanxin (2026) 'An ERP study of the distinction between pro and trace in Mandarin Chinese', poster presented at the Neurolinguistics Workshop at *the 34th Conference of the Student Organization of Linguistics in Europe (ConSOLE34)*, IUSS, Pavia, Italy, January 28.
