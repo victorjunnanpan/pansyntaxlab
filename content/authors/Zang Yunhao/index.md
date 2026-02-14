@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yunhao Zang 藏云皓
+title: Yunhao Zang 臧云皓
 
 # Full name (for SEO)
 first_name: Yunhao
