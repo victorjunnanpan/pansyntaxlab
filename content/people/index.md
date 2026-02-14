@@ -14,8 +14,9 @@ sections:
           - Principal Investigator
           - Research staff
           - Post Doctoral Researchers
-          - Graduate Students
+          - PhD Students
           - Research Assistants
+          - MA students
           - Administration
           - Visitors
           - Alumni
