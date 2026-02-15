@@ -4,7 +4,7 @@ title: Yunhao Zang 臧云皓
 
 # Full name (for SEO)
 first_name: Yunhao
-last_name: zang
+last_name: Zang
 
 # Username (this should match the folder name)
 authors:
