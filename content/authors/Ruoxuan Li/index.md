@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruoxuan Li 李若璇
+title: Dr Ruoxuan Li 李若璇
 
 # Full name (for SEO)
 first_name: Ruoxuan
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student at Université Paris Cité (former RA)
+role: Doctor of Linguistics (former RA)
 
 # Organizations/Affiliations
 organizations: 
@@ -66,4 +66,4 @@ email: ''
 user_groups:
   - Alumni
 ---
-PhD student at [Laboratoire de Linguistique Formelle (LLF)-UMR 7110](http://www.llf.cnrs.fr), Department of Linguistics, Université Paris Cité, Paris, France, under the supervision of Prof [Caterina Donati](http://www.llf.cnrs.fr/fr/Gens/Donati). Prof Victor Pan serves as the external member of the *Comité de suivi*. 
+PhD from [Laboratoire de Linguistique Formelle (LLF)-UMR 7110](http://www.llf.cnrs.fr), Department of Linguistics, Université Paris Cité, Paris, France, under the supervision of Prof [Caterina Donati](http://www.llf.cnrs.fr/fr/Gens/Donati). Prof Victor Pan served as an external member of the *Comité de suivi* and the defense committee. 
