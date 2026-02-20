@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Ruoxuan Li 李若璇
+title: Dr Ruoxuan Li 李若璇博士
 
 # Full name (for SEO)
 first_name: Ruoxuan
