@@ -23,6 +23,10 @@ design:
 
 • Xu, Zetao and Victor Junnan Pan (2026). 'On the non-prototypical singular-plural number system in nDrapa', paper presented at the *4th Conference on the Endangered Languages of East Asia*, Ca’ Foscari University of Venice, Italy, 5th-8th May 2026.
 
+• Li, Wency Wanxin (2026) ‘The Acquisition of Sentence-Final Particles in Cantonese vs. Mandarin Chinese: Evidence from Monolingual and Multilingual Children’, paper presented at the *Annual Conference of the Manchester Forum in Linguistics (MFiL 2026)*, The University of Manchester, April 30 – May 1.
+
+• Hu, Chenghao (2026) ‘The syntactic distribution of Chinese modals and its implications on nominal licensing’, paper presented at the *Annual Conference of the Manchester Forum in Linguistics (MFiL 2026)*, The University of Manchester, April 30 – May 1.
+
 • Yan, Jin and Victor Junnan Pan (2026) 'Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min', paper presented at *The III Workshop on Linguistic Variation at Interfaces (VARINT 2026)*, University of Girona, Spain, March 19-20.
 
 • Xu, Zetao (2026). 'The DP structure of nDrapa: when a classifier and a definite marker co-occur', paper presented at *GLOW in Asia 2026 The 2nd Workshop for Young Scholars (GLOW-in-Asia-WYS)*, Nanzan University, Nagoya, Japan, March 13-15.
