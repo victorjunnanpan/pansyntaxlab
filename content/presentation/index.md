@@ -27,6 +27,9 @@ design:
 
 • Hu, Chenghao (2026) ‘The syntactic distribution of Chinese modals and its implications on nominal licensing’, paper presented at the *Annual Conference of the Manchester Forum in Linguistics (MFiL 2026)*, The University of Manchester, April 30 – May 1.
 
+• Pan, Victor Junnan (2026) 'Deriving the Final Order of Discourse Particles in Korean and Chinese', keynote speech at *Mapping Word Order: A Cartographic
+Perspective on Syntax*, Beijing Language and Culture University, March 26-29.
+
 • Yan, Jin and Victor Junnan Pan (2026) 'Syntactic derivations of polar questions in Suzhou Wu and Zhangzhou Southern Min', paper presented at *The III Workshop on Linguistic Variation at Interfaces (VARINT 2026)*, University of Girona, Spain, March 19-20.
 
 • Xu, Zetao (2026). 'The DP structure of nDrapa: when a classifier and a definite marker co-occur', paper presented at *GLOW in Asia 2026 The 2nd Workshop for Young Scholars (GLOW-in-Asia-WYS)*, Nanzan University, Nagoya, Japan, March 13-15.
