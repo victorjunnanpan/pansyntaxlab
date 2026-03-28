@@ -9,8 +9,8 @@ design:
 
 ## **[Upcoming]**
 
-- Prof Victor Pan will give a serial seminar lectures at UFR Linguistique [Faculty of Linguistics] as invited scholar under the Programme D’Invitations Internationales Scientifiques [International Scientific Invitation Program], Université Paris Cité, Paris, France, May 23. / 
-- Prof Victor Pan sera invité en tant que chercheur invité à l’UFR de Linguistique de l’Université Paris Cité dans le cadre du Programme D’Invitations Internationales Scientifiques. À cette occasion, Prof Pan donnera quatre conférences. Tout le monde est le bienvenu !
+- Prof Victor Pan will give a serial seminar lectures at UFR Linguistique [Faculty of Linguistics] as invited scholar under the Programme D’Invitations Internationales Scientifiques [International Scientific Invitation Program], Université Paris Cité, Paris, France. / 
+- Prof Victor Pan sera invité en tant que chercheur invité à l’UFR de Linguistique de l’Université Paris Cité dans le cadre du Programme D’Invitations Internationales Scientifiques. À cette occasion, Prof Pan donnera quatre conférences. Tout le monde sera le bienvenu !
   
 • Lecture 1 : Free MERGE under SMT: Part One – Derivation with Multiple Dimensions (Monday 11 May, 10h00–12h00)
 
