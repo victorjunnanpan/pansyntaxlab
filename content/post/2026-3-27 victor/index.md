@@ -1,6 +1,6 @@
 ---
 title: Keynote speech of Prof Victor Pan at 2026 Mapping Word Order: A Cartographic Perspective on Syntax
-date: 2026-01-09
+date: 2026-03-27
 image:
   focal_point: 'top'
 ---
