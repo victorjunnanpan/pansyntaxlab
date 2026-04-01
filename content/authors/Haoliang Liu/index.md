@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: MA student at University of Florida (former RA)
+role: PhD student at Stony Brook University (former RA)
 
 # Organizations/Affiliations
 organizations: 
-  - name: University of Florida
+  - name: Stony Brook University 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
