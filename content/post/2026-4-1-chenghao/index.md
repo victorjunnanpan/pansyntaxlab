@@ -1,6 +1,6 @@
 ---
 title: Invited talk of Chenghao at Leiden University
-date: 2026-04-1
+date: 2026-04-01
 image:
   focal_point: 'top'
 ---
