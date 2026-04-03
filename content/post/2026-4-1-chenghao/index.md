@@ -1,5 +1,5 @@
 ---
-title: Invited talk of Chenghao at Leiden University
+title: Invited talk of Chenghao Hu at Leiden University
 date: 2026-04-01
 image:
   focal_point: 'top'
