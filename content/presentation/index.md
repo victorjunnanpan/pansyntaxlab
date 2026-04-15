@@ -35,6 +35,8 @@ design:
 
 • Hu, Chenghao (2026) ‘The syntactic distribution of Chinese modals and its implications on nominal licensing’, paper presented at the *Annual Conference of the Manchester Forum in Linguistics (MFiL 2026)*, The University of Manchester, April 30 – May 1.
 
+• Zang, Yunhao (2026) ‘Omission of Numeral and Classifier in Mandarin’, paper presented at the *2nd Interdisciplinary Taught Postgraduate Student Conference on Arts and Humanities*, The Chinese University of Hong Kong, Hong Kong, April 30.
+
 • Hu, Chenghao (2026) 'On Mandarin modals and the distribution of subjects', invited talk at *ChiLL (Chinese Linguistics in Leiden) series*, Leiden University, Leiden, Netherlands, April 1.
 
 • Pan, Victor Junnan (2026) 'Deriving the Final Order of Discourse Particles in Korean and Chinese', keynote speech at *Mapping Word Order: A Cartographic
