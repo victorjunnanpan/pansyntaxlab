@@ -46,9 +46,9 @@ design:
 • 徐澤韜 潘俊楠  (待刊) ‘漢語複數標記在不同接觸模式下的不同演變特徵’, (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios), *中國語文通訊 (Current Research in Chinese Linguistics)*. (CSSCI)
 
 ### 2025
-• Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). (online first) (ESCI)
+• Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). [draft](https://www.researchgate.net/publication/392457834_Labeling_nominal_phrases_in_Mandarin_Chinese) (online first) (ESCI)
 
-• Hu, Chenghao and Victor Junnan Pan (2025) ‘Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese’, Proceedings of the 18th Workshop on Altaic Formal Linguistics (WAFL18), [*MIT Working Papers in Linguistics 97 (MITWPL-97)*](http://mitwpl.mit.edu/catalog/mwpl97/) : 71-80. 
+• Hu, Chenghao and Victor Junnan Pan (2025) ‘Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese’, Proceedings of the 18th Workshop on Altaic Formal Linguistics (WAFL18), [*MIT Working Papers in Linguistics 97 (MITWPL-97)*](http://mitwpl.mit.edu/catalog/mwpl97/) : 71-80. [draft](https://www.researchgate.net/publication/403758954_Plural_Markers_as_Anti-labelers_in_Japanese_and_Chinese)
 
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions in Yunnan Mandarin: Interaction with adverbs and derivations’, in [*2025 Syntax as the hub: Exploring the Syntax-Semantics Interface and Form-Meaning Mismatches*], Arum Kang (eds.), The Korean Generative Grammar Circle, Seoul: 302-312.
 
