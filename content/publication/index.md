@@ -45,7 +45,7 @@ design:
 
 • 徐澤韜 潘俊楠  (待刊) ‘漢語複數標記在不同接觸模式下的不同演變特徵’, (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios), *中國語文通訊 (Current Research in Chinese Linguistics)*. (CSSCI)
 
-• Hu, Chenghao and Victor Junnan Pan (2026 In press) ‘On the plural marker men in Chinese’, [*Catalan Journal of Linguistics*] (https://revistes.uab.cat/catjl/issue/view/v25-n1)(ESCI)
+• Hu, Chenghao and Victor Junnan Pan (2026 In press) ‘On the plural marker men in Chinese’, [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/view/v25-n1)(ESCI)
 
 ### 2025
 • Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). [draft](https://www.researchgate.net/publication/392457834_Labeling_nominal_phrases_in_Mandarin_Chinese) (online first) (ESCI)
