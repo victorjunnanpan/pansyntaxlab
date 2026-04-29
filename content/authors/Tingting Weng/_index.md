@@ -25,21 +25,17 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nominal structure
+  - Wu dialects
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Linguistics and Applied Linguistics
+      institution: Zhejiang University (浙江大学)
+      year: 2022
+    - course: BA in Chinese language and literature
+      institution: Zhejiang University (浙江大学)
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
