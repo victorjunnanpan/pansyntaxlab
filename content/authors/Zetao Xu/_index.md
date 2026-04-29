@@ -25,21 +25,18 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - interrogaitves, nominal structure
+  - The Minimalist Program
+  - Language contact, heritage languages, endangered languages
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Linguistics
+      institution: The Chinese University of Hong Kong
+      year: 2021
+    - course: BA in Chinese Language and Literature
+      institution: Yangzhou University (揚州大學）
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
