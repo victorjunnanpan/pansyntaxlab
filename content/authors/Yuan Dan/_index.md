@@ -60,4 +60,4 @@ email: ''
 user_groups:
  - MA Students
 ---
-2025-2026. Supervisor: Prof Victor Junnan Pan.
+2025-2026. MA student. Supervisor: Prof Victor Junnan Pan.
