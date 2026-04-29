@@ -23,21 +23,15 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Discourse particles
+  - European languages
+  - The Minimalist Program
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in English (Multilingual: French and Spanish)
+      institution: China Foreign Affairs University (外交學院)
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
