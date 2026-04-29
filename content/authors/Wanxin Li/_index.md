@@ -62,4 +62,4 @@ email: ''
 user_groups:
   - PhD Students
 ---
-Since 2025. With CUHK university provided studentship. Supervisor: Prof Victor Junnan Pan.
+Since 2025. PhD student with CUHK university provided studentship. Supervisor: Prof Victor Junnan Pan.
