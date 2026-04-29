@@ -31,10 +31,10 @@ interests:
 education:
   courses:
     - course: MA in Linguistics and Applied Linguistics
-      institution: Zhejiang University (浙江大学)
+      institution: Zhejiang University (浙江大學)
       year: 2022
     - course: BA in Chinese language and literature
-      institution: Zhejiang University (浙江大学)
+      institution: Zhejiang University (浙江大學)
       year: 2019
 
 # Social/Academic Networking
