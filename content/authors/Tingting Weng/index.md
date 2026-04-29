@@ -67,4 +67,6 @@ email: ''
 user_groups:
  - PhD Students
 ---
-Since 2024, under Hong Kong PhD Fellowship Scheme (HKPFS). Supervisor: Prof Victor Junnan Pan.
+2019 BA in Chinese language and literature, Zhejiang University
+2022 MA in Linguistics and Applied Linguistics, Zhejiang University
+Since 2024, under Hong Kong PhD Fellowship Scheme (HKPFS), CUHK. Supervisor: Prof Victor Junnan Pan.
