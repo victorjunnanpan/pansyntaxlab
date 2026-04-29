@@ -25,21 +25,18 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - The Minimalist Program
+  - Nominal structure, verb copying
+  - Labeling, Form-Copy
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Linguistics
+      institution: The Chinese University of Hong Kong
+      year: 2021
+    - course: BA in Logic, Department of Phylosophy
+      institution: Sun Yat-Sen University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
