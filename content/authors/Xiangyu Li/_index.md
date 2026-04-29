@@ -34,7 +34,7 @@ education:
     - course: MA in Linguistics
       institution: The Chinese University of Hong Kong
       year: 2021
-    - course: BA in Logic, Department of Phylosophy
+    - course: BA in Logic, Department of Philosophy
       institution: Sun Yat-Sen University （中山大學）
       year: 2020
 
