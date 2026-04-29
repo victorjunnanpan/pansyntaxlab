@@ -35,7 +35,7 @@ education:
       institution: The Chinese University of Hong Kong
       year: 2021
     - course: BA in Logic, Department of Phylosophy
-      institution: Sun Yat-Sen University
+      institution: Sun Yat-Sen University （中山大學）
       year: 2020
 
 # Social/Academic Networking
