@@ -59,4 +59,4 @@ email: ''
 user_groups:
  - PhD Students
 ---
-Since 2025. PhD student with UGC projects supported studentship. Supervisor: Prof Victor Junnan Pan.
+Since 2025. PhD student with UGC projects supported studentship, CUHK. Supervisor: Prof Victor Junnan Pan.
