@@ -64,5 +64,5 @@ email: ''
 user_groups:
  - PhD Students
 ---
-Since 2022. Under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. Supervisor: Prof Victor Junnan Pan. The international joint-supervisor: Prof [Roberta D’Alessandro](https://www.uu.nl/staff/RAGDAlessandro), Utrecht University, Netherlands.
+Since 2022. PhD student under CUHK Provost’s Strategic Allocation of Centrally-funded RPg Places – International Joint Supervision of PhD Students scheme. Supervisor: Prof Victor Junnan Pan. The international joint-supervisor: Prof [Roberta D’Alessandro](https://www.uu.nl/staff/RAGDAlessandro), Utrecht University, Netherlands.
 
