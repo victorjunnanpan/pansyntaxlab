@@ -28,7 +28,6 @@ interests:
   - The Minimalist Program
 
 education:
-  courses:
     - course: BA in English (Multilingual: French and Spanish)
       institution: China Foreign Affairs University (外交學院)
       year: 2025
