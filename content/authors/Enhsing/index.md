@@ -67,4 +67,4 @@ email: ''
 user_groups:
  - PhD Students
 ---
-Since 2023. With CUHK university provided studentship. Co-supervision with Prof Victor Junnan Pan, Prof Haihua Pan, and Prof Yim Binh Felix Sze.
+Since 2023. With CUHK university provided studentship. Co-supervision with Prof Yim Binh Felix Sze, Prof Haihua Pan and Prof Victor Junnan Pan.
