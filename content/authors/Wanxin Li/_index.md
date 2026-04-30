@@ -33,7 +33,7 @@ education:
     - course: MA in Linguistics
       institution: University College London
       year: 2022
-    - course: BSc in Artificial Intelligence
+    - course: BA in English language and literature
       institution: China Jiliang University (中國計量大學)
       year: 2021
 
