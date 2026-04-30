@@ -1,6 +1,6 @@
 ---
 title: Zetao Xu and Prof Victor Pan published "Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios (漢語複數標記在不同接觸模式下的不同演變特徵)" in Current Research in Chinese Linguistics (中國語文通訊)
-date: 2026-4-30
+date: 2026-04-30
   
 ---
 The article Ph.D candidate Steven Zetao Xu (First author) and Prof Victor Pan, 徐澤韜 潘俊楠 (2026) ‘漢語複數標記在不同接觸模式下的不同演變特徵’ (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios), has been published in 中國語文通訊 (Current Research in Chinese Linguistics), Volume 105, Issue 2: 463-487 (CSSCI) (Open Access)
