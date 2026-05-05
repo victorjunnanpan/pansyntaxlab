@@ -41,14 +41,17 @@ design:
 ### **• Selected Papers (Peer-Reviewed Journal Articles, Book Chapters, Conference Proceedings)**
 
 ### 2026
-• Pan, Victor Junnan (In press). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/ch/universitypress/subjects/languages-linguistics/grammar-and-syntax/cambridge-handbook-minimalist-program?format=HB&isbn=9781108836197#contents), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
-• Hu, Chenghao and Victor Junnan Pan (2026 In press) ‘On the plural marker men in Chinese’, [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/view/v25-n1) (ESCI)
+• Pan, Victor Junnan and Dahoon Kim (Accepted) ‘Discourse particles in Korean: phasehood and derivation’, Journal of Linguistics. (SSCI). 
+• Pan, Victor Junnan (2026 In press). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/ch/universitypress/subjects/languages-linguistics/grammar-and-syntax/cambridge-handbook-minimalist-program?format=HB&isbn=9781108836197#contents), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
-• 徐澤韜 潘俊楠  (2026) [‘漢語複數標記在不同接觸模式下的不同演變特徵’ (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios)](https://www.cuhk.edu.hk/ics/clrc/crcl_105_2/xu.pdf), *中國語文通訊 (Current Research in Chinese Linguistics)*, Volume 105, Issue 2: 463-487 (CSSCI) (Open Access)
+• Li, Xiangyu and Victor Junnan Pan (2026). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). [draft](https://www.researchgate.net/publication/392457834_Labeling_nominal_phrases_in_Mandarin_Chinese) (online first) (ESCI)
+
+• Hu, Chenghao and Victor Junnan Pan (2026 In press) ‘On the plural marker men in Chinese’, [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/view/v25-n1). (ESCI)
+
+• 徐澤韜 潘俊楠  (2026) [‘漢語複數標記在不同接觸模式下的不同演變特徵’ (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios)](https://www.cuhk.edu.hk/ics/clrc/crcl_105_2/xu.pdf), *中國語文通訊 (Current Research in Chinese Linguistics)*, Volume 105, Issue 2: 463-487. (CSSCI) (Open Access)
 
 ### 2025
-• Li, Xiangyu and Victor Junnan Pan (2025). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). [draft](https://www.researchgate.net/publication/392457834_Labeling_nominal_phrases_in_Mandarin_Chinese) (online first) (ESCI)
 
 • Hu, Chenghao and Victor Junnan Pan (2025) ‘Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese’, Proceedings of the 18th Workshop on Altaic Formal Linguistics (WAFL18), [*MIT Working Papers in Linguistics 97 (MITWPL-97)*](http://mitwpl.mit.edu/catalog/mwpl97/) : 71-80. [draft](https://www.researchgate.net/publication/403758954_Plural_Markers_as_Anti-labelers_in_Japanese_and_Chinese)
 
