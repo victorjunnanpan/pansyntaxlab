@@ -23,6 +23,8 @@ design:
 
 • Yan, Jin (2026) 'Revisit Mandarin A-not-A questions: adverbials and cartography’, poster presented at the *15th International Workshop on Theoretical East Asian Linguistics (TEAL-15)*, The Chinese University of Hong Kong, June 5-6.
 
+• LI, Xiangyu and Victor Junnan Pan (2026) ‘V-qǐlái in Chinese: directional verb, aspect marker or bǔyǔ biāojì ‘complementizer’ ’, poster presented at the *15th International Workshop on Theoretical East Asian Linguistics (TEAL-15)*, The Chinese University of Hong Kong, Hong Kong, June 5-6.
+
 • Pan, Victor Junnan (2026). ‘The DP system in nDrapa’, serial seminar lectures given at UFR Linguistique [Faculty of Linguistics] as invited scholar under the Programme D’Invitations Internationales Scientifiques [International Scientific Invitation Program], Université Paris Cité, Paris, France, May 19. 
 
 • Pan, Victor Junnan (2026). ‘Minimalist Derivation of The Final Order of Discourse Particles: A Comparative Study on Chinese and Korean’, serial seminar lectures given at UFR Linguistique [Faculty of Linguistics] as invited scholar under the Programme D’Invitations Internationales Scientifiques [International Scientific Invitation Program], Université Paris Cité, Paris, France, May 18. 
