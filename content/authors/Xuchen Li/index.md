@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: PhD student at 中國科學院大學 (former RA)
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,3 @@ email: ''
 user_groups:
   - Alumni
 ---
-PhD student at 中國科學院大學 (former RA)
