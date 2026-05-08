@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student at 中國科學院大學 (former RA)
+role: PhD student at UCAS (former RA)
 
 # Organizations/Affiliations
 organizations:
