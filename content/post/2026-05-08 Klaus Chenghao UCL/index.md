@@ -1,5 +1,5 @@
 ---
-title: Chenghao Hu is working with his two join-supervisors Prof Victor Pan and Prof Klaus Abels at UCL.
+title: Chenghao Hu is working with his two join-supervisors Prof Victor Pan and Prof Klaus Abels at UCL
 date: 2026-05-08
 
 ---
