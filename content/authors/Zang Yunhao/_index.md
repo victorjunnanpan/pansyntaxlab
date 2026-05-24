@@ -26,7 +26,7 @@ bio:
 
 interests:
   - Nominal structure
-  - The minimalist Program
+  - The Minimalist Program
 
 education:
   courses:
