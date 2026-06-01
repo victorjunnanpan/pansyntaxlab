@@ -13,6 +13,8 @@ design:
 
 ### 2026
 
+• Weng, Tingting and Victor Junnan Pan (2026) ‘Reconstructing the Demonstrative System of Common Wu: Evidence from Demonstrative Hybridization in Wu Dialect Islands’, paper presented at 13th Conference of the European Association of Chinese Linguistics (EACL-13), Paris, France, September 2-4.
+
 • Yan, Jin and Victor Junnan Pan (2026) 'Toward a typology of yes/no questions in Mandarin Chinese dialects: temporal and spatial evolutions', paper presented at *Methods in Dialectology and Language Diversity XIX (Methods XIX)*, University of British Columbia, Vancouver, Canada, August 4-7.
 
 • 徐泽韬(2026) ‘上古汉语复指代词探析’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
