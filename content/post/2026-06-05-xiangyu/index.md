@@ -1,6 +1,6 @@
 ---
 title: Xiangyu Li at TEAL-15
-date: 2025-06-05
+date: 2026-06-05
 image:
   focal_point: 'top'
 ---
