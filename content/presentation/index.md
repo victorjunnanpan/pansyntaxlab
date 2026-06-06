@@ -21,6 +21,8 @@ design:
 
 • 李翔羽 潘俊楠 (2026) ‘基于控制结构的新分析：“他革他的命，你复你的古”’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
 
+• Chen, Zhuo, Jiahui Huang† and Ka-Fai Yip (2026) "Sentence-final negation questions from a comparative perspective", paper presented at the 15th International Workshop on Theoretical East Asian Linguistics (TEAL-15), The Chinese University of Hong Kong, Hong Kong, June 5-6.
+
 • Yan, Jin (2026) 'Revisit Mandarin A-not-A questions: adverbials and cartography’, poster presented at the *15th International Workshop on Theoretical East Asian Linguistics (TEAL-15)*, The Chinese University of Hong Kong, June 5-6.
 
 • LI, Xiangyu and Victor Junnan Pan (2026) ‘V-qǐlái in Chinese: directional verb, aspect marker or bǔyǔ biāojì ‘complementizer’ ’, poster presented at the *15th International Workshop on Theoretical East Asian Linguistics (TEAL-15)*, The Chinese University of Hong Kong, Hong Kong, June 5-6.
