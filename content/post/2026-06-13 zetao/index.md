@@ -1,6 +1,6 @@
 ---
 title: Zetao Xu at IACL-32
-date: 2025-06-13
+date: 2026-06-13
 image:
   focal_point: 'top'
 ---
