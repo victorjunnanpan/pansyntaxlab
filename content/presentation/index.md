@@ -13,6 +13,8 @@ design:
 
 ### 2026
 
+• LI, Xiangyu and Victor Junnan Pan (2026) 'Syntax of Obligatory Control: a refined analysis via Form-Copy', paper presented at *The 54th Poznań Linguistic Meeting (PLM2025)*, Adam Mickiewicz University, Poznań, Poland, September 20-23.
+
 • Weng, Tingting and Victor Junnan Pan (2026) ‘Reconstructing the Demonstrative System of Common Wu: Evidence from Demonstrative Hybridization in Wu Dialect Islands’, paper presented at *The 13th Conference of the European Association of Chinese Linguistics (EACL-13)*, Paris, France, September 2-4.
 
 • Zang, Yunhao and Victor Junnan Pan (2026) ‘Deictic Directional in Mandarin Chinese’, paper presented at *The 28th Seaul International Conference on Generative Grammar (SICOGG-28)*, Chungnam National University, Daejeon, Korea, August 10-12.
