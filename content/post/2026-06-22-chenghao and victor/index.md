@@ -1,5 +1,5 @@
 ---
-title: Chenghao Hu and Prof Victor Pan published "On the plural marker 'men' in Chinese" in *Catalan Journal of Linguistics*!
+title: Chenghao Hu and Prof Victor Pan published "On the plural marker 'men' in Chinese" in Catalan Journal of Linguistics!
 date: 2026-06-22
   
 ---
