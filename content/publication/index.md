@@ -42,7 +42,7 @@ design:
 
 ### 2027
 
-• Pan, Victor Junnan and Dahoon Kim (Accepted) ‘Discourse particles in Korean: phasehood and derivation’, [*Journal of Linguistics*](https://www.cambridge.org/core/journals/journal-of-linguistics). (SSCI, AHCI). 
+• Pan, Victor Junnan and Dahoon Kim (In press) ‘Discourse particles in Korean: phasehood and derivation’, [*Journal of Linguistics*](https://www.cambridge.org/core/journals/journal-of-linguistics). (SSCI, AHCI). 
 
 ### 2026
 
