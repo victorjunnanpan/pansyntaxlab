@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title:
         content:
-        align: right
+        align: center
         background:
           image:
             filename: team2026summer.jpg
