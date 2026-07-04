@@ -18,8 +18,8 @@ sections:
               brightness: 1.0
           position: bottom
           color: '#666'
-      - title: 
-        content: Welcome!
+      - title: Welcome!
+        content: 
         align: left
         background:
           image:
