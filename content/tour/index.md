@@ -18,9 +18,9 @@ sections:
               brightness: 1.0
           position: right
           color: '#666'
-      - title:
+      - title: Welcome to the group!
         content:
-        align: right
+        align: bottom
         background:
           image:
             filename: team2026summer.jpg
