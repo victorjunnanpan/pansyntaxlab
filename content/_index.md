@@ -11,7 +11,7 @@ sections:
         Pan's Syntax Lab
     
       image:
-        filename: teamphoto.jpg
+        filename: team2026summer.jpg
       text: |
         <br>
         
