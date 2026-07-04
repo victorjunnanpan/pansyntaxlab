@@ -38,7 +38,7 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
-      - title:Welcome!
+      - title: Welcome!
         content:
         align: right
         background:
