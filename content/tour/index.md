@@ -16,7 +16,7 @@ sections:
             filename: coders.jpg
             filters:
               brightness: 1.0
-          position: bottom
+          position: center
           color: '#666'
       - title: Welcome!
         content: 
@@ -26,7 +26,7 @@ sections:
             filename: team2026summer.jpg
             filters:
               brightness: 1.0
-          position: 
+          position: center
           color: '#666'           
       - title: We are doing generative syntax; especially, the Minimalist Program.
         content:
