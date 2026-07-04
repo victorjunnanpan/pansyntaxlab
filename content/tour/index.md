@@ -15,7 +15,7 @@ sections:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: right
           color: '#666'
       - title:
@@ -25,7 +25,7 @@ sections:
           image:
             filename: team2026summer.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: top
           color: '#666'           
       - title: We are doing generative syntax; especially, the Minimalist Program.
@@ -35,7 +35,7 @@ sections:
           image:
             filename: contact.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'
       - title:
@@ -45,7 +45,7 @@ sections:
           image:
             filename: team2025fall.JPG
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'   
       - title:
@@ -55,7 +55,7 @@ sections:
           image:
             filename: Wency.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'
       - title:
@@ -65,7 +65,7 @@ sections:
           image:
             filename: Yanjin.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'
       - title:
@@ -75,7 +75,7 @@ sections:
           image:
             filename: chenghao.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'
       - title:
@@ -85,7 +85,7 @@ sections:
           image:
             filename: zhongyang.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'
       - title: We are doing cutting-edge theoretical research.
@@ -95,7 +95,7 @@ sections:
           image:
             filename: talks.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'
       - title:
@@ -105,7 +105,7 @@ sections:
           image:
             filename: welcome.jpg
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#666'
         link:
