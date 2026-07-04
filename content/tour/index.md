@@ -10,23 +10,23 @@ sections:
       slides:
       - title: Welcome to the group!
         content: 
-        align: top
+        align: center
         background:
           image:
             filename: coders.jpg
             filters:
               brightness: 1.0
-          position: right
+          position: bottom
           color: '#666'
-      - title: Welcome to the group!
+      - title: 
         content:
-        align: bottom
+        align: 
         background:
           image:
             filename: team2026summer.jpg
             filters:
               brightness: 1.0
-          position: top
+          position: 
           color: '#666'           
       - title: We are doing generative syntax; especially, the Minimalist Program.
         content:
