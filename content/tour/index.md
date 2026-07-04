@@ -19,8 +19,8 @@ sections:
           position: bottom
           color: '#666'
       - title: 
-        content:
-        align: 
+        content: Welcome!
+        align: left
         background:
           image:
             filename: team2026summer.jpg
@@ -38,7 +38,7 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
-      - title:
+      - title:Welcome!
         content:
         align: right
         background:
