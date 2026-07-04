@@ -10,7 +10,7 @@ sections:
       slides:
       - title: Welcome to the group!
         content: 
-        align: center
+        align: top
         background:
           image:
             filename: coders.jpg
