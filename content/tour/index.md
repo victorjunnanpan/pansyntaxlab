@@ -8,32 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the group!
-        content: 
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 1.0
-          position: center
-          color: '#666'
       - title: Welcome!
         content: 
         align: left
         background:
           image:
             filename: team2026summer.jpg
-            filters:
-              brightness: 1.0
-          position: center
-          color: '#666'           
-      - title: We are doing generative syntax; especially, the Minimalist Program.
-        content:
-        align: right
-        background:
-          image:
-            filename: contact.jpg
             filters:
               brightness: 1.0
           position: center
@@ -47,7 +27,37 @@ sections:
             filters:
               brightness: 1.0
           position: center
-          color: '#666'   
+          color: '#666'
+      - title: Welcome!
+        content: 
+        align: center
+        background:
+          image:
+            filename: team2025summer.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: We are doing generative syntax; especially, the Minimalist Program.
+        content:
+        align: right
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: We are doing cutting-edge theoretical research.
+        content:
+        align: left
+        background:
+          image:
+            filename: talks.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
       - title:
         content:
         align: right
@@ -88,12 +98,12 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
-      - title: We are doing cutting-edge theoretical research.
-        content:
-        align: left
+      - title: Welcome to the group!
+        content: 
+        align: center
         background:
           image:
-            filename: talks.jpg
+            filename: coders.jpg
             filters:
               brightness: 1.0
           position: center
