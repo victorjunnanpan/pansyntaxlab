@@ -34,7 +34,6 @@ education:
     - course: MA in Linguistics
       institution: The Chinese University of Hong Kong
       year: 2026
-  courses:
     - course: BA in English Language and Literature
       institution: Zhejiang University (浙江大學)
       year: 2025
