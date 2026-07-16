@@ -31,7 +31,6 @@ interests:
 
 education:
   courses:
-  courses:
     - course: MA in Chinese Linguistics and Language Acquisition
       institution: The Chinese University of Hong Kong
       year: 2026
