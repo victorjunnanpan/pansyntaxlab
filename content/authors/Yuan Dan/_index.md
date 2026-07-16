@@ -26,10 +26,15 @@ bio:
 
 interests:
   - Interrogatives
+  - Non-standard questions
   - Syntax
 
 education:
   courses:
+  courses:
+    - course: MA in Chinese Linguistics and Language Acquisition
+      institution: The Chinese University of Hong Kong
+      year: 2026
     - course: BSc in Mathematics and Applied Mathematics
       institution: Soochow University (蘇州大學)
       year: 2025
