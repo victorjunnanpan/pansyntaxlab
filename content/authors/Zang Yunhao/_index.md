@@ -62,6 +62,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - MA Students
+ - PhD Students
 ---
-2025-2026. MA student. Supervisor: Prof Victor Junnan Pan.
+Since 2026. PhD student with the CUHK Vice-Chancellor’s PhD Scholarship. Supervisor: Prof Victor Junnan Pan.
