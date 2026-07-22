@@ -3,7 +3,7 @@ title: Prof Victor Pan and Dahoon Kim (김다훈/金多勳) published "Discourse
 date: 2026-07-22
   
 ---
-Prof Victor Pan and Dahoon Kim (김다훈/金多勳) (former RA in our team, now PhD student at UCSC) published [Discourse particles in Korean: phasehood and derivation](https://www.cambridge.org/core/journals/journal-of-linguistics/article/discourse-particles-in-korean-phasehood-and-derivation/9CEBDEDC68CA266F6F27683755580AFC) in *Journal of Linguistics*!(SSCI, AHCI) (open access)
+Prof Victor Pan and Dahoon Kim (김다훈/金多勳) (former RA in our team, now PhD student at UCSC) published [Discourse particles in Korean: phasehood and derivation](https://www.cambridge.org/core/journals/journal-of-linguistics/article/discourse-particles-in-korean-phasehood-and-derivation/9CEBDEDC68CA266F6F27683755580AFC) in *Journal of Linguistics* (SSCI, AHCI) (open access)!
 
 <!--more-->
 **Abstract**
