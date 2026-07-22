@@ -1,5 +1,5 @@
 ---
-title: Prof Victor Pan and Dahoon Kim (김다훈/金多勳) published "Discourse particles in Korean: phasehood and derivation" in Journal of Linguistics!
+title: Prof Victor Pan and Dahoon Kim (김다훈/金多勳) published "Discourse particles in Korean - phasehood and derivation" in Journal of Linguistics!
 date: 2026-07-22
   
 ---
