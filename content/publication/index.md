@@ -42,15 +42,15 @@ design:
 
 ### 2027
 
-• Pan, Victor Junnan and Dahoon Kim (In press) ‘Discourse particles in Korean: phasehood and derivation’, [*Journal of Linguistics*](https://www.cambridge.org/core/journals/journal-of-linguistics). (SSCI, AHCI). 
+• Pan, Victor Junnan and Dahoon Kim (2027) [Discourse particles in Korean: phasehood and derivation](https://www.cambridge.org/core/journals/journal-of-linguistics/article/discourse-particles-in-korean-phasehood-and-derivation/9CEBDEDC68CA266F6F27683755580AFC), [*Journal of Linguistics*](https://www.cambridge.org/core/journals/journal-of-linguistics). (SSCI, AHCI) (open access). 
 
 ### 2026
 
-• Pan, Victor Junnan (2026 In press). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/ch/universitypress/subjects/languages-linguistics/grammar-and-syntax/cambridge-handbook-minimalist-program?format=HB&isbn=9781108836197#contents), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
+• Pan, Victor Junnan (2026). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/ch/universitypress/subjects/languages-linguistics/grammar-and-syntax/cambridge-handbook-minimalist-program?format=HB&isbn=9781108836197#contents), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
 
 • Li, Xiangyu and Victor Junnan Pan (2026). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). [draft](https://www.researchgate.net/publication/392457834_Labeling_nominal_phrases_in_Mandarin_Chinese) (online first) (ESCI)
 
-• Hu, Chenghao and Victor Junnan Pan (2026 In press) ‘On the plural marker men in Chinese’, [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/view/v25-n1). (ESCI)
+• Hu, Chenghao and Victor Junnan Pan (2026) ‘On the plural marker men in Chinese’, [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/view/v25-n1). (ESCI)
 
 • 徐澤韜 潘俊楠  (2026) [‘漢語複數標記在不同接觸模式下的不同演變特徵’ (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios)](https://www.cuhk.edu.hk/ics/clrc/crcl_105_2/xu.pdf), [*中國語文通訊 (Current Research in Chinese Linguistics)*](https://www.cuhk.edu.hk/ics/clrc/chinese/pub_crcl.html), Volume 105, Issue 2: 463-487. (CSSCI) (Open Access)
 
