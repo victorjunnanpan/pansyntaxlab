@@ -61,7 +61,7 @@ design:
 • Yan, Jin and Victor Junnan Pan (2025) ‘Polar questions in Yunnan Mandarin: Interaction with adverbs and derivations’, in [*2025 Syntax as the hub: Exploring the Syntax-Semantics Interface and Form-Meaning Mismatches*], Arum Kang (eds.), The Korean Generative Grammar Circle, Seoul: 302-312.
 
 ### 2024
-• 潘俊楠 杜雨橋 (2024). [工作空間定義下合併的最新發展](http://ling.cass.cn/ziyuan/qikan/ddyyx/202412/t20241217_5824575.html), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI)
+• 潘俊楠 杜雨橋 (2024). [工作空間定義下合併的最新發展](http://ling.cass.cn/ziyuan/qikan/ddyyx/202412/t20241217_5824575.html), *當代語言學 (Contemporary Linguistics)*, volume 26, no. 6, 842-859. (CSSCI) [draft](https://www.researchgate.net/publication/387474755_gongzuokongjiandingyixiahebingdezuixinfazhan'_The_latest_development_of_MERGE_defined_based_on_Workspace)
 
 • Pan, Victor Junnan and Yuqiao Du (2024). [A multi-dimensional derivation model under the free-MERGE system: labor division between syntax and the C-I interface](https://www.degruyter.com/document/doi/10.1515/tlr-2024-2004/html), *The Linguistic Review*, volume 41, issue 1, 85-117. (SSCI, AHCI) (Open Access)
 
@@ -78,11 +78,11 @@ design:
 
 • Li, Xiangyu and Victor Junnan Pan (2023). How to Label via Feature-Sharing: Case of Nominal Structures in Chinese, *2022 Linearization – Proceedings of the 24th Seoul International Conference on Generative Grammar*, Tae Sik Kim & Jungu Kang (eds.), The Korean Generative Grammar Circle, Seoul: Hankook Munhwasa, 82-97.
 
-• Pan, Victor Junnan and Yihe Jiao (2023). [Object-Fronting in Archaic Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.1013), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press.
+• Pan, Victor Junnan and Yihe Jiao (2023). [Object-Fronting in Archaic Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.1013), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press. [draft](https://www.researchgate.net/publication/373425520_Object-Fronting_in_Archaic_Chinese)
 
 • Pan, Victor Junnan (2023). Quantification and wh-in-situ in Mandarin Chinese, *Lessons on Chinese Linguistics*, Linda Badan and Chiara Romagnoli (eds.), [Collection des Cahiers de Linguistique – Asie Orientale](https://crlao.ehess.fr/index.php?2338), CRLAO, EHESS, 93-132.
 
-• Pan, Victor Junnan and Bin Zhu (2023). [On the Syntax of Causal Clauses in Mandarin Chinese](https://benjamins.com/catalog/slcs.231.08pan), *On the Variation of Causal Clauses*, Łukasz Jędrzejowski & Constanze Fleczoreck (eds.), [Studies in Language Companion Series], John Benjamins, 221-249.
+• Pan, Victor Junnan and Bin Zhu (2023). [On the Syntax of Causal Clauses in Mandarin Chinese](https://benjamins.com/catalog/slcs.231.08pan), *On the Variation of Causal Clauses*, Łukasz Jędrzejowski & Constanze Fleczoreck (eds.), [Studies in Language Companion Series], John Benjamins, 221-249. [draft](https://www.researchgate.net/publication/368534662_Chapter_8_On_the_syntax_of_causal_clauses_in_Mandarin_Chinese)
 
 • Xu, Zetao (2023). Labeling Mandarin ditransitives, *2022 Linearization – Proceedings of the 24th Seoul International Conference on Generative Grammar*, Tae Sik Kim & Jungu Kang (eds.), The Korean Generative Grammar Circle, Seoul: Hankook Munhwasa, 245-260.
 
@@ -90,31 +90,31 @@ design:
 
 
 ### 2022
-• 潘俊楠 徐澤韜 (2022). [現代漢語疑問詞的句法層級再探 (On the Syntactic Hierarchy of Wh-words in Mandarin Chinese)], *語言學論叢 (Essays on Linguistics)*, volume 1, 100-124. (CSSCI)
+• 潘俊楠 徐澤韜 (2022). [現代漢語疑問詞的句法層級再探 (On the Syntactic Hierarchy of Wh-words in Mandarin Chinese)], *語言學論叢 (Essays on Linguistics)*, volume 1, 100-124. (CSSCI) [draft](https://www.researchgate.net/publication/364344860_xiandaihanyuyiwencidejufacengjizaitan_On_the_Syntactic_Hierarchy_of_Wh-words_in_Mandarin_Chinese)
 
 • Pan, Victor Junnan (2022). [Deriving Head-Final Order in the Peripheral Domain of Chinese](https://doi.org/10.1162/ling_a_00396), *Linguistic Inquiry*, volume 53, issue 1, 121-154. (SSCI, AHCI)
 
-• Pan, Victor Junnan (2022). [Resumption in Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.897), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press.
+• Pan, Victor Junnan (2022). [Resumption in Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.897), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press. [draft](https://www.researchgate.net/publication/364476387_Resumption_in_Mandarin_Chinese)
 
-• Pan, Victor Junnan (2022). [Sentence Final Particle in Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.882), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press.
+• Pan, Victor Junnan (2022). [Sentence Final Particle in Chinese](https://doi.org/10.1093/acrefore/9780199384655.013.882), *Oxford Research Encyclopedia of Linguistics*, Mark Aronoff et al. (eds.), Oxford University Press. [draft](https://www.researchgate.net/publication/353761021_Sentence-Final_Particles_in_Chinese)
 
 ### 2021
 • Choi, Jiyoung, Huy Linh Dao, Victor Junnan Pan, and Sumikazu Nishio (2021). [Interfaces morphosyntaxe-sémantique-prosodie: étude des mots interrogatifs en chinois, coréen, japonais et vietnamien], *Études de linguistique appliquée*, volume 204, 451-465.
 
 ### 2020
-• 潘俊楠 (2020). [漢語A'-型依存結構在最簡方案下的句法推導 (Minimalist Derivation of A'-dependency in Chinese)](http://ddyyx.juqk.net/sell/itemid-95315.shtml), *當代語言學 (Contemporary Linguistics)*, volume 22, no. 2, 159-181. (CSSCI)
+• 潘俊楠 (2020). [漢語A'-型依存結構在最簡方案下的句法推導 (Minimalist Derivation of A'-dependency in Chinese)](http://ddyyx.juqk.net/sell/itemid-95315.shtml), *當代語言學 (Contemporary Linguistics)*, volume 22, no. 2, 159-181. (CSSCI) [draft](https://www.researchgate.net/publication/351103894_hanyu_A'-xingyicunjiegouzaizuijianfanganxiadejufatuidao)
 
 • Pan, Victor Junnan (2020). [Ambiguïté des syntagmes interrogatifs en chinois mandarin], *法语国家与地区汉语教育研究(第一辑)*, Z. Yang & A. Arslangul (eds.), 北京语言大学出版社 [Beijing Language and Cultural University Press], 202-217.
 
 ### 2019
 • Pan, Victor Junnan (2019). [Derivation of the Apparent Narrow Scope of Sentence-Final Particles in Chinese: A Reply to Erlewine (2017)](https://content.sciendo.com/view/journals/scl/39/2/article-p99.xml), *Studies in Chinese Linguistics*, volume 39, issue 2, 99-126. (CSSCI)
 
-• Pan, Victor Junnan (2019). [System repairing strategy at interface: Wh-in-situ in Mandarin Chinese](https://benjamins.com/catalog/lfab.15.06pan), *Interface in Grammar*, Jianhua Hu & Haihua Pan (eds.), [Language Faculty and Beyond (LFAB)], John Benjamins, 133-166.
+• Pan, Victor Junnan (2019). [System repairing strategy at interface: Wh-in-situ in Mandarin Chinese](https://benjamins.com/catalog/lfab.15.06pan), *Interface in Grammar*, Jianhua Hu & Haihua Pan (eds.), [Language Faculty and Beyond (LFAB)], John Benjamins, 133-166. [draft](https://www.researchgate.net/publication/332424717_Chapter_6_System_repairing_strategy_at_interface_Wh-in-situ_in_Mandarin_Chinese)
 
 ### 2018
-• Paul, Waltraud and Victor Junnan Pan (2018). [Introduction](https://www.linguisticanalysis.com/volumes-volume-42-issue-1-2/), *The syntax of complex sentences in Chinese. Special issue, Linguistic Analysis*, volume 42, issue 1-2, 1-16.
+• Paul, Waltraud and Victor Junnan Pan (2018). [Introduction](https://www.linguisticanalysis.com/volumes-volume-42-issue-1-2/), *The syntax of complex sentences in Chinese. Special issue, Linguistic Analysis*, volume 42, issue 1-2, 1-16. [draft](https://www.researchgate.net/publication/328825267_Introduction_to_the_Special_Issue_on_Complex_Sentences_in_Chinese)
 
-• Pan, Victor Junnan and Waltraud Paul (2018). [The syntax of complex sentences in Mandarin Chinese: A comprehensive overview and analyses](https://www.linguisticanalysis.com/volumes-volume-42-issue-1-2/), *The syntax of complex sentences in Chinese. Special issue, Linguistic Analysis*, volume 42, issue 1-2, 63-161.
+• Pan, Victor Junnan and Waltraud Paul (2018). [The syntax of complex sentences in Mandarin Chinese: A comprehensive overview and analyses](https://www.linguisticanalysis.com/volumes-volume-42-issue-1-2/), *The syntax of complex sentences in Chinese. Special issue, Linguistic Analysis*, volume 42, issue 1-2, 63-161. [draft](https://www.researchgate.net/publication/328825268_The_syntax_of_complex_sentences_in_Mandarin_Chinese_a_comprehensive_overview_with_analyses)
 
 • 潘俊楠 (2018). [最簡方案下的標籤理論 (Labeling in the Minimalist Program)], *語言學研究 (Linguistic Research)*, volume 25, 5-15.
 
@@ -125,7 +125,7 @@ design:
 
 • Pan, Victor Junnan (2017). [Optional projections in the left-periphery in Mandarin Chinese], *Studies on Syntactic Cartography (《句法制图理论研究》[Jùfǎ zhìtú lǐlùn yánjīu])*, Fuzhen Si (eds.), 北京: 中国社会科学出版社 (Zhōngguó shèhuì chūbǎnshè) [China Social Sciences Press], 216-248.
 
-• Pan, Victor Junnan and Waltraud Paul (2017). [What you see is what you get: Chinese sentence-final particles as head-final complementisers](https://www.degruyter.com/view/books/9783110497151/9783110497151003/9783110497151-003.xml), *Discourse Particles – Formal Approaches to their Syntax and Semantics*, J. Bayer & V. Struckmeier (eds.), [Linguistiche Arbeiten], Berlin: Mouton De Gruyter, 49-77.
+• Pan, Victor Junnan and Waltraud Paul (2017). [What you see is what you get: Chinese sentence-final particles as head-final complementisers](https://www.degruyter.com/view/books/9783110497151/9783110497151003/9783110497151-003.xml), *Discourse Particles – Formal Approaches to their Syntax and Semantics*, J. Bayer & V. Struckmeier (eds.), [Linguistiche Arbeiten], Berlin: Mouton De Gruyter, 49-77.[draft](https://www.researchgate.net/publication/312067430_What_you_see_is_what_you_get_Chinese_sentence-final_particles_as_head-final_complementisers)
 
 ### 2016
 • Pan, Victor Junnan (2016). [Resumptivity and Two Types of A’-dependencies in Minimalist Program](https://benjamins.com/#catalog/journals/ijchl.3.1.02pan/details), *International Journal of Chinese Linguistics (IJChL)*, volume 3, issue 1, 46-79. (ESCI)
