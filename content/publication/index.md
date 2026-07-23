@@ -46,7 +46,7 @@ design:
 
 ### 2026
 
-• Pan, Victor Junnan (2026). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/ch/universitypress/subjects/languages-linguistics/grammar-and-syntax/cambridge-handbook-minimalist-program?format=HB&isbn=9781108836197#contents), Kleanthes K. Grohmann and Evelina Leivada (eds.), Cambridge University Press.
+• Pan, Victor Junnan (2026). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/ch/universitypress/subjects/languages-linguistics/grammar-and-syntax/cambridge-handbook-minimalist-program?format=HB&isbn=9781108836197#contents), Kleanthes K. Grohmann and Evelina Leivada (eds.), 298-136, Cambridge University Press.
 
 • Li, Xiangyu and Victor Junnan Pan (2026). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). [draft](https://www.researchgate.net/publication/392457834_Labeling_nominal_phrases_in_Mandarin_Chinese) (online first) (ESCI)
 
