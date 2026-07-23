@@ -12,7 +12,7 @@ design:
 
 Our team works on generative syntax, especially on the Minimalist Program. Please make sure that you have the relevant educational/research background before applying.
 
-- **PhD candidates**: Please send us your academic CV along with your PhD research proposal.
+- **PhD candidates**: Please send us your academic CV along with your PhD research proposal. 
 
 - **Postdoc**: Please send us your full academic CV. Applicants should have an international background and prove good research ability.
 
