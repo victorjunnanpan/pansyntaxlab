@@ -140,7 +140,7 @@ design:
 • Pan, Victor Junnan (2015). [Syntactic and Prosodic Marking of Contrastiveness in Spoken Chinese](https://www.degruyter.com/view/books/9783110368758/9783110368758-010/9783110368758-010.xml), *Information Structuring of Spoken Language from a Cross-Linguistic Perspective*, Fernandez-Vest, M.M. Jocelyne & Van Valin, Robert D. Jr. (eds.), [Trends in Linguistics. Studies and Monographs, TILSM 283], Berlin/Munich/Boston: De Gruyter, 191-210.
 
 ### 2014
-• Pan, Victor Junnan (2014). [Wh-ex-situ in Chinese: Mapping Between Information Structure and Split CP](http://www.linguisticanalysis.com/volumes/39issue3-4), *Linguistic Analysis*, volume 39, issues 3-4, 371-413.
+• Pan, Victor Junnan (2014). [Wh-ex-situ in Chinese: Mapping Between Information Structure and Split CP](https://www.linguisticanalysis.com/volume-39-issue-3-4/), *Linguistic Analysis*, volume 39, issues 3-4, 371-413.
 
 • Pan, Victor Junnan (2014). [Deriving Special Questions in Mandarin Chinese: A Comparative Study], *2014 Comparative Syntax: Proceedings of The 16th Seoul International Conference on Generative Grammar*, Jong-Un Park and Il-Jae Lee (eds.), The Korean Generative Grammar Circle, 349-368.
 
