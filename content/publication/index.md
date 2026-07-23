@@ -133,16 +133,16 @@ design:
 • Pan, Victor Junnan and Waltraud Paul (2016). [Why Chinese SFPs are neither optional nor disjunctors](http://www.sciencedirect.com/science/article/pii/S0024384115002004), *Lingua*, volume 170, 23-34. (SSCI, AHCI)
 
 ### 2015
-• Pan, Victor Junnan (2015). [Mandarin Peripheral Construals at Syntax-Discourse Interface](https://www.degruyter.com/view/j/tlir.2015.32.issue-4/tlr-2015-0005/tlr-2015-0005.xml), *The Linguistic Review*, volume 32, issue 4, 819-868. (SSCI, AHCI)
+• Pan, Victor Junnan (2015). [Mandarin Peripheral Construals at Syntax-Discourse Interface](https://www.degruyter.com/view/j/tlir.2015.32.issue-4/tlr-2015-0005/tlr-2015-0005.xml), *The Linguistic Review*, volume 32, issue 4, 819-868. (SSCI, AHCI) [draft](https://www.researchgate.net/publication/282389499_Mandarin_peripheral_construals_at_the_syntax-discourse_interface)
 
 • Pan, Victor Junnan (2015). [Prosodic Licensing of Wh-in-situ in Mandarin Chinese](https://naccl.osu.edu/proceedings/naccl-27), *Proceedings of The 27th North American Conference on Chinese Linguistics*, Tao, Hongyin et al. (eds.), University of California, Los Angeles, 305-321.
 
 • Pan, Victor Junnan (2015). [Syntactic and Prosodic Marking of Contrastiveness in Spoken Chinese](https://www.degruyter.com/view/books/9783110368758/9783110368758-010/9783110368758-010.xml), *Information Structuring of Spoken Language from a Cross-Linguistic Perspective*, Fernandez-Vest, M.M. Jocelyne & Van Valin, Robert D. Jr. (eds.), [Trends in Linguistics. Studies and Monographs, TILSM 283], Berlin/Munich/Boston: De Gruyter, 191-210.
 
 ### 2014
-• Pan, Victor Junnan (2014). [Wh-ex-situ in Chinese: Mapping Between Information Structure and Split CP](https://www.linguisticanalysis.com/volume-39-issue-3-4/), *Linguistic Analysis*, volume 39, issues 3-4, 371-413.
+• Pan, Victor Junnan (2014). [Wh-ex-situ in Chinese: Mapping Between Information Structure and Split CP](https://www.linguisticanalysis.com/volume-39-issue-3-4/), *Linguistic Analysis*, volume 39, issues 3-4, 371-413. [draft](https://www.researchgate.net/publication/312462497_Wh-ex-situ_in_Mandarin_Chinese_Mapping_Between_Information_Structure_and_Split_CP)
 
 • Pan, Victor Junnan (2014). [Deriving Special Questions in Mandarin Chinese: A Comparative Study], *2014 Comparative Syntax: Proceedings of The 16th Seoul International Conference on Generative Grammar*, Jong-Un Park and Il-Jae Lee (eds.), The Korean Generative Grammar Circle, 349-368.
 
 ### 2011
-• Pan, Victor Junnan (2011). [ATB-topicalization in Mandarin Chinese: an Intersective Operator Analysis](https://www.linguisticanalysis.com/volume-37-issue-1-2/), *Linguistic Analysis*, volume 37, issues 1-2, 231-272.
+• Pan, Victor Junnan (2011). [ATB-topicalization in Mandarin Chinese: an Intersective Operator Analysis](https://www.linguisticanalysis.com/volume-37-issue-1-2/), *Linguistic Analysis*, volume 37, issues 1-2, 231-272. [draft](https://www.researchgate.net/publication/281956049_ATB-topicalization_in_Mandarin_Chinese_and_Intersection_Operator)
