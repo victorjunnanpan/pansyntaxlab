@@ -98,12 +98,12 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
-      - title: Welcome to the group!
+      - title:
         content: 
         align: center
         background:
           image:
-            filename: talks2.jpg
+            filename: talks3.jpg
             filters:
               brightness: 1.0
           position: center
