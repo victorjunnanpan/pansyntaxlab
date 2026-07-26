@@ -63,7 +63,7 @@ sections:
         align: right
         background:
           image:
-            filename: xiangyu.jpg
+            filename: xiangyu.JPG
             filters:
               brightness: 1.0
           position: center
