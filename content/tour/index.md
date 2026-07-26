@@ -103,7 +103,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: talks2.jpg
             filters:
               brightness: 1.0
           position: center
