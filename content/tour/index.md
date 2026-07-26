@@ -63,16 +63,6 @@ sections:
         align: right
         background:
           image:
-            filename: xiangyu.JPG
-            filters:
-              brightness: 1.0
-          position: center
-          color: '#666'
-      - title:
-        content:
-        align: right
-        background:
-          image:
             filename: Wency.jpg
             filters:
               brightness: 1.0
