@@ -38,12 +38,12 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
-      - title: We are doing generative syntax; especially, the Minimalist Program.
+      - title: 
         content:
         align: right
         background:
           image:
-            filename: contact.jpg
+            filename: glow4.jpg
             filters:
               brightness: 1.0
           position: center
@@ -88,7 +88,7 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
-      - title:
+      - title: We are doing generative syntax; especially, the Minimalist Program.
         content:
         align: right
         background:
