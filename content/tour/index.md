@@ -43,7 +43,7 @@ sections:
         align: right
         background:
           image:
-            filename: glow4.jpg
+            filename: glow5.jpg
             filters:
               brightness: 1.0
           position: center
