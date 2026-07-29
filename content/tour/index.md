@@ -113,6 +113,16 @@ sections:
         align: center
         background:
           image:
+            filename: papers.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title:
+        content: 
+        align: center
+        background:
+          image:
             filename: books.jpg
             filters:
               brightness: 1.0
