@@ -7,6 +7,9 @@ design:
   css_style: 'max-width: 180%; font-size: 16px !important;'
 
 ---
+• 2026-2028 "Interactive Learning in Linguistics - Syntax Builder", (PI: Victor Junnan Pan), Teaching Development and Language Enhancement Grant (TDLEG), 
+Funding Scheme to Support Pedagogical Research (PR), CUHK.
+
 • 2025-2027 “Minimalist derivation of discourse particles: a comparative survey最簡方案句法框架下語氣詞的比較研究”, (PI: Victor Junnan Pan), General Research Fund (GRF), Research Grants Council (RGC).
 
 • 2025-2026 “Exploring the nominal system of the endangered language nDrapa 瀕危語扎霸話名詞結構的研究”, (PI: Victor Junnan Pan), Direct Grant for Research, Faculty of Arts, CUHK.
