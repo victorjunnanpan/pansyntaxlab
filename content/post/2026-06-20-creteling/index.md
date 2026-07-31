@@ -5,4 +5,4 @@ image:
   focal_point: 'center'
 ---
 
-Team members are attending CreteLing Summer School in the Crete island in Greece! 
+Team members are attending CreteLing Summer School on the Crete island in Greece! 
