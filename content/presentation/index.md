@@ -21,6 +21,8 @@ design:
 
 • Yan, Jin and Victor Junnan Pan (2026) ‘Syntax-pragmatics interfaces: sentence-initial particles in Mandarin Chinese’, poster presented at *The 28th Seoul International Conference on Generative Grammar (SICOGG28)*, Chungnam National University, Daejeon, South Korea, August 10-12.
 
+• Xu, Zetao and Victor Junnan Pan (2026) ‘Definiteness in nDrapa:A definite marker in a classifier language’, poster presented at CreteLing Summer School, Crete, Greece, July 22.
+
 • 徐泽韬(2026) ‘上古汉语复指代词探析’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
 
 • Li, Wency Wanxin and Chenghao Hu (2026) ‘A corpus study on the acquisition of Sentence-Final Particles in Cantonese and Mandarin’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, June 12–14.
