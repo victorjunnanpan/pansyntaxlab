@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#666'
       - title: Welcome!
-        content: 
+        content:
         align: center
         background:
           image:
