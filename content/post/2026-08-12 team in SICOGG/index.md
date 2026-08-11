@@ -1,5 +1,5 @@
 ---
-title: Reunion of Team members at SICOGG28!
+title: Reunion of The Team members at SICOGG28!
 date: 2026-08-12
 ---
 
