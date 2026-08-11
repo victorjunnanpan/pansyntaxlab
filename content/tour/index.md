@@ -38,6 +38,16 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
+      - title: Welcome!
+        content: 
+        align: center
+        background:
+          image:
+            filename: teamkorean2026.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
       - title: 
         content:
         align: right
