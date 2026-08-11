@@ -54,6 +54,8 @@ design:
 
 • 徐澤韜 潘俊楠  (2026) [‘漢語複數標記在不同接觸模式下的不同演變特徵’ (Different Behaviours of The Chinese Plural Marker under Different Contact Scenarios)](https://www.cuhk.edu.hk/ics/clrc/crcl_105_2/xu.pdf), [*中國語文通訊 (Current Research in Chinese Linguistics)*](https://www.cuhk.edu.hk/ics/clrc/chinese/pub_crcl.html), Volume 105, Issue 2: 463-487. (CSSCI) (Open Access)
 
+• Zang, Yunhao and Victor Junnan Pan (2026). 'Deictic Directionals in Mandarin Chinese', in Arum Kang (eds.), *2026 Syntax and its interfaces in Generative Grammar*,The Korean Generative Grammar Circle, Daejeon: 324-333.
+
 ### 2025
 
 • Hu, Chenghao and Victor Junnan Pan (2025) 'Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese', Proceedings of the 18th Workshop on Altaic Formal Linguistics (WAFL18), [*MIT Working Papers in Linguistics 97 (MITWPL-97)*](http://mitwpl.mit.edu/catalog/mwpl97/) : 71-80. [draft](https://www.researchgate.net/publication/403758954_Plural_Markers_as_Anti-labelers_in_Japanese_and_Chinese)
