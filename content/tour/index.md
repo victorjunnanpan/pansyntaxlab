@@ -46,7 +46,7 @@ sections:
             filename: teamkorean2026.jpg
             filters:
               brightness: 1.0
-          position: center
+          position: right
           color: '#666'
       - title: 
         content:
@@ -58,7 +58,7 @@ sections:
               brightness: 1.0
           position: center
           color: '#666'
-      - title: We are doing cutting-edge theoretical research.
+      - title: We are doing cutting-edge theoretical research
         content:
         align: left
         background:
@@ -67,6 +67,16 @@ sections:
             filters:
               brightness: 1.0
           position: center
+          color: '#666'
+      - title:
+        content:
+        align: 
+        background:
+          image:
+            filename: yunhao.jpg
+            filters:
+              brightness: 1.0
+          position: 
           color: '#666'
       - title:
         content:
