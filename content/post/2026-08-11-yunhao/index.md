@@ -1,6 +1,6 @@
 ---
 title: Yunhao at the 28th Seoul International Conference on Generative Grammar (SICOGG28) 2026
-date: 2026-08-10
+date: 2026-08-11
 ---
 
 Yunhao Zang presented his co-authored paper with Prof Victor Pan ‘Deictic Directional in Mandarin Chinese’ at The 28th Seaul International Conference on Generative Grammar (SICOGG-28), Chungnam National University, Daejeon, Korea, August 10-12.
