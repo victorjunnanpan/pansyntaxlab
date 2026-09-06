@@ -17,7 +17,7 @@ design:
 
 • The Minimalist Program: MERGE and its properties (Markovian MERGE, free MERGE, etc.), Workspace, (long distance) Agree, Move, Phase, Labeling;
 
-• MERGE; (Victor Pan, Yuqiao Du)
+• MERGE;
 
 • Workspace, derivation with parallel Workspaces; (Chenghao Hu, Victor Pan)
 
@@ -25,9 +25,7 @@ design:
 
 • Anti-labeling devices and their crosslinguistic comparison; (Chenghao Hu, Victor Pan)
 
-• Adjunction and labeling; (Victor Pan, Yuqiao Du)
-
-• Coordination; (Yuqiao Du)
+• Adjunction and labeling;
 
 • Labeling and DP in Mandarin; (Xiangyu Li)
 
