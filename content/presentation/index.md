@@ -15,6 +15,8 @@ design:
 
 • LI, Xiangyu and Victor Junnan Pan (2026) 'Syntax of Obligatory Control: a refined analysis via Form-Copy', paper presented at *The 54th Poznań Linguistic Meeting (PLM2025)*, Adam Mickiewicz University, Poznań, Poland, September 20-23.
 
+• 翁汀汀，潘俊楠（2026）‘吴语方言岛指示词的接触性混合与原始吴语指示范畴的拟构’，paper presented at the 13th International Conference on Wu Dialects, Ningbo University, Ningbo, Sept 11-14.
+
 • Weng, Tingting and Victor Junnan Pan (2026) ‘Reconstructing the Demonstrative System of Common Wu: Evidence from Demonstrative Hybridization in Wu Dialect Islands’, paper presented at *The 13th Conference of the European Association of Chinese Linguistics (EACL-13)*, Paris, France, September 2-4.
 
 • Zang, Yunhao and Victor Junnan Pan (2026) ‘Deictic Directional in Mandarin Chinese’, paper presented at *The 28th Seaul International Conference on Generative Grammar (SICOGG-28)*, Chungnam National University, Daejeon, Korea, August 10-12.
@@ -27,7 +29,7 @@ design:
 
 • Li, Wency Wanxin and Chenghao Hu (2026) ‘A corpus study on the acquisition of Sentence-Final Particles in Cantonese and Mandarin’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, June 12–14.
 
-• 李翔羽 潘俊楠 (2026) ‘基于控制结构的新分析：“他革他的命，你复你的古”’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
+• 李翔羽, 潘俊楠 (2026) ‘基于控制结构的新分析：“他革他的命，你复你的古”’, paper presented at the *32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32)*, Guangdong University of Foreign Studies, Guangzhou, June 12–14.
 
 • Chen, Zhuo, Jiahui Huang† and Ka-Fai Yip (2026) "Sentence-final negation questions from a comparative perspective", paper presented at the 15th International Workshop on Theoretical East Asian Linguistics (TEAL-15), The Chinese University of Hong Kong, Hong Kong, June 5-6.
 
