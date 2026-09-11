@@ -48,6 +48,8 @@ design:
 
 • Pan, Victor Junnan (2026). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C#fndtn-information), Kleanthes K. Grohmann and Evelina Leivada (eds.), 298-136, Cambridge University Press.
 
+• Pan, Victor Junnan and Chenghao Hu (2026). [Derivation with parallel workspaces in the free-MERGE system](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003375474), [*Studies in Generative Grammar*](https://kggc.org/subList/32000000527?journalCd=194),Volume 36, Issue 3: 573-606
+
 • Li, Xiangyu and Victor Junnan Pan (2026). [Labeling Nominal Phrases in Mandarin Chinese](https://benjamins.com/catalog/lv.24033.li), [*Linguistic Variation*](https://benjamins.com/catalog/lv). [draft](https://www.researchgate.net/publication/392457834_Labeling_nominal_phrases_in_Mandarin_Chinese) (online first) (ESCI)
 
 • Hu, Chenghao and Victor Junnan Pan (2026) [On the plural marker men in Chinese](https://revistes.uab.cat/catjl/article/view/v25-n2-hu-pan), [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/view/v25-n1). (ESCI)(open access)
