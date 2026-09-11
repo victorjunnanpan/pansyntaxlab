@@ -10,12 +10,18 @@ design:
 
 ## • Presentations (Keynote Speeches, Invited Conference Talks, Invited Lectures, Peer-Reviewed Conference Talks and Posters)
 
+### 2027
+
+• Yan, Jin and Victor Junnan Pan (2027) ‘The syntax of sentence-internal particles: comparative study of Chinese dialects and German’, paper presented at *Zooming in on Modal Particles: Pragmatic Meaning and Function under the Microscope - Workshop at the Annual Meeting of the German Society of Linguistics (DGfS 2027)*, University of Jena, Jena, Germany, March 2-5.
+
 
 ### 2026
 
+• 顏錦 (2026) ‘有‘是’没‘是’？——閩南方言‘敢’ 問句與系動詞‘是’’, paper presented at *第四屆京滬港澳高校中文學科研究生論壇*, University of Macau, Macau, October 23-26.
+
 • LI, Xiangyu and Victor Junnan Pan (2026) 'Syntax of Obligatory Control: a refined analysis via Form-Copy', paper presented at *The 54th Poznań Linguistic Meeting (PLM2025)*, Adam Mickiewicz University, Poznań, Poland, September 20-23.
 
-• 翁汀汀，潘俊楠（2026）‘吴语方言岛指示词的接触性混合与原始吴语指示范畴的拟构’，paper presented at the 13th International Conference on Wu Dialects, Ningbo University, Ningbo, Sept 11-14.
+• 翁汀汀，潘俊楠（2026）‘吴语方言岛指示词的接触性混合与原始吴语指示范畴的拟构’，paper presented at *the 13th International Conference on Wu Dialects*, Ningbo University, Ningbo, Sept 11-14.
 
 • Weng, Tingting and Victor Junnan Pan (2026) ‘Reconstructing the Demonstrative System of Common Wu: Evidence from Demonstrative Hybridization in Wu Dialect Islands’, paper presented at *The 13th Conference of the European Association of Chinese Linguistics (EACL-13)*, Paris, France, September 2-4.
 
