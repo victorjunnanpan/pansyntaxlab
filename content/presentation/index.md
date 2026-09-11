@@ -19,6 +19,8 @@ design:
 
 • 顏錦 (2026) ‘有‘是’没‘是’？——閩南方言‘敢’ 問句與系動詞‘是’’, paper presented at *第四屆京滬港澳高校中文學科研究生論壇*, University of Macau, Macau, October 23-26.
 
+• Zang, Yunhao (2026) ‘Two Sets of Demonstratives in Spoken Mandarin’, paper presented at *第四屆京滬港澳高校中文學科研究生論壇*, University of Macau, Macau, October 23-26.
+
 • LI, Xiangyu and Victor Junnan Pan (2026) 'Syntax of Obligatory Control: a refined analysis via Form-Copy', paper presented at *The 54th Poznań Linguistic Meeting (PLM2025)*, Adam Mickiewicz University, Poznań, Poland, September 20-23.
 
 • 翁汀汀，潘俊楠（2026）‘吴语方言岛指示词的接触性混合与原始吴语指示范畴的拟构’，paper presented at *the 13th International Conference on Wu Dialects*, Ningbo University, Ningbo, Sept 11-14.
