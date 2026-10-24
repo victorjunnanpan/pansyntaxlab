@@ -19,6 +19,16 @@ sections:
           position: center
           color: '#666'
       - title: Welcome!
+        content: 
+        align: right
+        background:
+          image:
+            filename: Zetaoperformance.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title: Welcome!
         content:
         align: right
         background:
