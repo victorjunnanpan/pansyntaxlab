@@ -48,7 +48,7 @@ design:
 
 • Pan, Victor Junnan (2026). 'Copy and Move: Motivation and Derivation', [*The Cambridge Handbook of The Minimalist Program*](https://www.cambridge.org/core/books/the-cambridge-handbook-of-the-minimalist-program/8E41B672B1862CD7864119CE375FAB2C), Kleanthes K. Grohmann and Evelina Leivada (eds.), 298-316, Cambridge University Press.
 
-• Hu, Chenghao and Victor Junnan Pan (2026) [On the plural marker men in Chinese](https://revistes.uab.cat/catjl/article/view/v25-n2-hu-pan), [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/view/v25-n1), Volume 25, Issue 2: 151–191.(ESCI)(open access)
+• Hu, Chenghao and Victor Junnan Pan (2026) [On the plural marker men in Chinese](https://revistes.uab.cat/catjl/article/view/v25-n2-hu-pan), [*Catalan Journal of Linguistics*](https://revistes.uab.cat/catjl/issue/archive), Volume 25, Issue 2: 151–191.(ESCI)(open access)
 
 • Pan, Victor Junnan and Chenghao Hu (2026). [Derivation with parallel workspaces in the free-MERGE system](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003375474), [*Studies in Generative Grammar*](https://kggc.org/subList/32000000527?journalCd=194), Volume 36, Issue 3: 573-606. (open access)
 
