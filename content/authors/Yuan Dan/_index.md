@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: MA in Chinese Linguistics and Language Acquisition
+    - course: MA in Chinese Linguistics and Language Acquisition, Best MA thesis award of the year, Outstanding Graduates Award – The highest GPA of Year
       institution: The Chinese University of Hong Kong
       year: 2026
     - course: BSc in Mathematics and Applied Mathematics
