@@ -25,21 +25,16 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Syntax
+  - Discourse particles
+  - Typology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Chinese Linguistics and Language Acquisition
+      institution: The Chinese University of Hong Kong
+      year: 2026
+      Honor: Best MA thesis award of the year (晉語句末體助詞共現研究[A study on the cooccurrence of sentence-final particles in Chinese Jin dialect] )
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
