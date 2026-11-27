@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: MA in Linguistics, Best MA thesis award of the year, Outstanding Graduates Award – The Second highest GPA of Year
+    - course: MA in Linguistics, Best MA Thesis Award of The Year, Outstanding Graduates Award – The Second highest GPA of The Year
       institution: The Chinese University of Hong Kong
       year: 2026
     - course: BA in English Language and Literature
