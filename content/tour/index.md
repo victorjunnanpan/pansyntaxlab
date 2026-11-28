@@ -163,7 +163,7 @@ sections:
         align: center
         background:
           image:
-            filename: IUF.jpg
+            filename: IUF2.jpg
             filters:
               brightness: 1.0
           position: center
