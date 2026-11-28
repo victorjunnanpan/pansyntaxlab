@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Team Finance and Staff Hiring (2023-2027), PhD student
 
 # Organizations/Affiliations
 organizations:
