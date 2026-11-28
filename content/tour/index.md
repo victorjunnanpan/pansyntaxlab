@@ -159,6 +159,16 @@ sections:
           position: center
           color: '#666'
       - title:
+        content: 
+        align: center
+        background:
+          image:
+            filename: IUF.jpg
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#666'
+      - title:
         content:
         align:
         background:
